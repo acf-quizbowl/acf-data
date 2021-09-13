@@ -1,350 +1,350 @@
 tournament,round,game_id,team,status,opponent,result,pf,pa,tossups,negs,bhrd,bpts,PPB,packet
-ACF Nationals 2021,1,20210101,Stanford,NA,Chicago B,W,285,50,13,13,13,220,16.92,Texas
-ACF Nationals 2021,1,20210101,Chicago B,NA,Stanford,L,50,285,4,4,4,30,7.5,Texas
-ACF Nationals 2021,1,20210102,Illinois,NA,Harvard B,W,320,85,14,14,14,250,17.86,Texas
-ACF Nationals 2021,1,20210102,Harvard B,UG,Illinois,L,85,320,5,5,5,60,12.0,Texas
-ACF Nationals 2021,1,20210103,Northwestern,NA,Ohio State,L,140,220,8,8,8,100,12.5,Texas
-ACF Nationals 2021,1,20210103,Ohio State,NA,Northwestern,W,220,140,10,10,10,170,17.0,Texas
-ACF Nationals 2021,1,20210104,Vanderbilt,UG,Maryland,L,150,205,8,8,8,110,13.75,Texas
-ACF Nationals 2021,1,20210104,Maryland,NA,Vanderbilt,W,205,150,11,11,11,150,13.64,Texas
-ACF Nationals 2021,1,20210105,Columbia,NA,Yale,W,270,140,12,12,12,210,17.5,Texas
-ACF Nationals 2021,1,20210105,Yale,UG,Columbia,L,140,270,8,8,8,100,12.5,Texas
-ACF Nationals 2021,1,20210106,Princeton,UG,Florida,L,45,370,3,3,3,30,10.0,Texas
-ACF Nationals 2021,1,20210106,Florida,NA,Princeton,W,370,45,16,16,16,290,18.12,Texas
-ACF Nationals 2021,1,20210107,Brown,D2,Minnesota,W,210,110,12,12,12,150,12.5,Texas
-ACF Nationals 2021,1,20210107,Minnesota,UG,Brown,L,110,210,6,6,6,80,13.33,Texas
-ACF Nationals 2021,1,20210108,Chicago A,NA,WUSTL,W,245,195,9,9,9,200,22.22,Texas
-ACF Nationals 2021,1,20210108,WUSTL,NA,Chicago A,L,195,245,11,11,11,140,12.73,Texas
-ACF Nationals 2021,1,20210109,UC-Berkeley,NA,Cornell,W,215,145,11,11,11,160,14.55,Texas
-ACF Nationals 2021,1,20210109,Cornell,UG,UC-Berkeley,L,145,215,7,7,7,110,15.71,Texas
-ACF Nationals 2021,1,20210110,North Carolina,NA,Harvard A,L,195,200,11,11,11,140,12.73,Texas
-ACF Nationals 2021,1,20210110,Harvard A,NA,North Carolina,W,200,195,8,8,8,160,20.0,Texas
-ACF Nationals 2021,2,20210201,Vanderbilt,UG,Texas,L,60,305,4,4,4,40,10.0,Florida
-ACF Nationals 2021,2,20210201,Texas,NA,Vanderbilt,W,305,60,13,13,13,240,18.46,Florida
-ACF Nationals 2021,2,20210202,Chicago A,NA,Minnesota,W,245,120,11,11,11,190,17.27,Florida
-ACF Nationals 2021,2,20210202,Minnesota,UG,Chicago A,L,120,245,6,6,6,90,15.0,Florida
-ACF Nationals 2021,2,20210203,WUSTL,NA,Princeton,W,225,115,9,9,9,180,20.0,Florida
-ACF Nationals 2021,2,20210203,Princeton,UG,WUSTL,L,115,225,5,5,5,90,18.0,Florida
-ACF Nationals 2021,2,20210204,Georgia Tech,NA,Illinois,L,30,330,2,2,2,20,10.0,Florida
-ACF Nationals 2021,2,20210204,Illinois,NA,Georgia Tech,W,330,30,14,14,14,260,18.57,Florida
-ACF Nationals 2021,2,20210205,Yale,UG,Maryland,L,75,225,5,5,5,50,10.0,Florida
-ACF Nationals 2021,2,20210205,Maryland,NA,Yale,W,225,75,11,11,11,170,15.45,Florida
-ACF Nationals 2021,2,20210206,Columbia,NA,Chicago C,W,380,30,16,16,16,300,18.75,Florida
-ACF Nationals 2021,2,20210206,Chicago C,D2,Columbia,L,30,380,2,2,2,20,10.0,Florida
-ACF Nationals 2021,2,20210207,Chicago B,NA,North Carolina,W,175,150,9,9,9,130,14.44,Florida
-ACF Nationals 2021,2,20210207,North Carolina,NA,Chicago B,L,150,175,8,8,8,110,13.75,Florida
-ACF Nationals 2021,2,20210208,Stanford,NA,Cornell,W,375,80,15,15,15,300,20.0,Florida
-ACF Nationals 2021,2,20210208,Cornell,UG,Stanford,L,80,375,4,4,4,60,15.0,Florida
-ACF Nationals 2021,2,20210209,Northwestern,NA,MIT,L,130,250,6,6,6,100,16.67,Florida
-ACF Nationals 2021,2,20210209,MIT,NA,Northwestern,W,250,130,12,12,12,190,15.83,Florida
-ACF Nationals 2021,2,20210210,Harvard B,UG,Ohio State,L,30,320,2,2,2,20,10.0,Florida
-ACF Nationals 2021,2,20210210,Ohio State,NA,Harvard B,W,320,30,14,14,14,250,17.86,Florida
-ACF Nationals 2021,3,20210301,Harvard A,NA,Chicago B,W,300,55,14,14,14,230,16.43,Illinois
-ACF Nationals 2021,3,20210301,Chicago B,NA,Harvard A,L,55,300,3,3,3,40,13.33,Illinois
-ACF Nationals 2021,3,20210302,Yale,UG,Texas,L,180,180,10,10,10,130,13.0,Illinois
-ACF Nationals 2021,3,20210302,Texas,NA,Yale,L,180,180,8,8,8,140,17.5,Illinois
-ACF Nationals 2021,3,20210303,Minnesota,UG,Princeton,W,185,115,11,11,11,130,11.82,Illinois
-ACF Nationals 2021,3,20210303,Princeton,UG,Minnesota,L,115,185,5,5,5,90,18.0,Illinois
-ACF Nationals 2021,3,20210304,Florida,NA,WUSTL,W,245,135,11,11,11,190,17.27,Illinois
-ACF Nationals 2021,3,20210304,WUSTL,NA,Florida,L,135,245,7,7,7,100,14.29,Illinois
-ACF Nationals 2021,3,20210305,Chicago A,NA,Brown,W,340,105,14,14,14,270,19.29,Illinois
-ACF Nationals 2021,3,20210305,Brown,D2,Chicago A,L,105,340,5,5,5,80,16.0,Illinois
-ACF Nationals 2021,3,20210306,Vanderbilt,UG,Chicago C,L,100,180,6,6,6,70,11.67,Illinois
-ACF Nationals 2021,3,20210306,Chicago C,D2,Vanderbilt,W,180,100,10,10,10,130,13.0,Illinois
-ACF Nationals 2021,3,20210307,Harvard B,UG,MIT,L,80,165,6,6,6,50,8.33,Illinois
-ACF Nationals 2021,3,20210307,MIT,NA,Harvard B,W,165,80,9,9,9,120,13.33,Illinois
-ACF Nationals 2021,3,20210308,Georgia Tech,NA,Northwestern,W,245,90,11,11,11,190,17.27,Illinois
-ACF Nationals 2021,3,20210308,Northwestern,NA,Georgia Tech,L,90,245,6,6,6,60,10.0,Illinois
-ACF Nationals 2021,3,20210309,Cornell,UG,North Carolina,L,130,240,6,6,6,100,16.67,Illinois
-ACF Nationals 2021,3,20210309,North Carolina,NA,Cornell,W,240,130,12,12,12,180,15.0,Illinois
-ACF Nationals 2021,3,20210310,Stanford,NA,UC-Berkeley,W,220,165,10,10,10,170,17.0,Illinois
-ACF Nationals 2021,3,20210310,UC-Berkeley,NA,Stanford,L,165,220,7,7,7,130,18.57,Illinois
-ACF Nationals 2021,4,20210401,Columbia,NA,Vanderbilt,W,340,45,14,14,14,270,19.29,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210401,Vanderbilt,UG,Columbia,L,45,340,3,3,3,30,10.0,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210402,Harvard A,NA,Cornell,W,345,50,17,17,17,260,15.29,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210402,Cornell,UG,Harvard A,L,50,345,2,2,2,40,20.0,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210403,Texas,NA,Maryland,W,290,150,12,12,12,230,19.17,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210403,Maryland,NA,Texas,L,150,290,6,6,6,120,20.0,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210404,Yale,UG,Chicago C,W,280,40,16,16,16,200,12.5,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210404,Chicago C,D2,Yale,L,40,280,2,2,2,30,15.0,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210405,UC-Berkeley,NA,Chicago B,W,390,75,16,16,16,310,19.38,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210405,Chicago B,NA,UC-Berkeley,L,75,390,3,3,3,60,20.0,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210406,MIT,NA,Ohio State,L,130,195,6,6,6,100,16.67,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210406,Ohio State,NA,MIT,W,195,130,9,9,9,150,16.67,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210407,Brown,D2,WUSTL,L,170,290,8,8,8,130,16.25,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210407,WUSTL,NA,Brown,W,290,170,12,12,12,230,19.17,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210408,Florida,NA,Minnesota,W,350,95,14,14,14,280,20.0,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210408,Minnesota,UG,Florida,L,95,350,5,5,5,70,14.0,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210409,Illinois,NA,Northwestern,W,260,145,12,12,12,200,16.67,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210409,Northwestern,NA,Illinois,L,145,260,7,7,7,110,15.71,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210410,Georgia Tech,NA,Harvard B,W,195,130,9,9,9,150,16.67,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,4,20210410,Harvard B,UG,Georgia Tech,L,130,195,8,8,8,90,11.25,Chicago B [= Stanford + Chicago A]
-ACF Nationals 2021,5,20210501,Columbia,NA,Texas,W,275,145,11,11,11,220,20.0,Minnesota
-ACF Nationals 2021,5,20210501,Texas,NA,Columbia,L,145,275,7,7,7,110,15.71,Minnesota
-ACF Nationals 2021,5,20210502,Maryland,NA,Chicago C,W,240,105,10,10,10,190,19.0,Minnesota
-ACF Nationals 2021,5,20210502,Chicago C,D2,Maryland,L,105,240,7,7,7,70,10.0,Minnesota
-ACF Nationals 2021,5,20210503,Stanford,NA,Harvard A,L,200,230,10,10,10,150,15.0,Minnesota
-ACF Nationals 2021,5,20210503,Harvard A,NA,Stanford,W,230,200,10,10,10,180,18.0,Minnesota
-ACF Nationals 2021,5,20210504,Vanderbilt,UG,Yale,L,170,170,10,10,10,120,12.0,Minnesota
-ACF Nationals 2021,5,20210504,Yale,UG,Vanderbilt,L,170,170,10,10,10,120,12.0,Minnesota
-ACF Nationals 2021,5,20210505,Florida,NA,Chicago A,W,220,205,10,10,10,170,17.0,Minnesota
-ACF Nationals 2021,5,20210505,Chicago A,NA,Florida,L,205,220,9,9,9,160,17.78,Minnesota
-ACF Nationals 2021,5,20210506,Princeton,UG,Brown,L,85,295,5,5,5,60,12.0,Minnesota
-ACF Nationals 2021,5,20210506,Brown,D2,Princeton,W,295,85,15,15,15,220,14.67,Minnesota
-ACF Nationals 2021,5,20210507,Harvard B,UG,Northwestern,L,110,250,6,6,6,80,13.33,Minnesota
-ACF Nationals 2021,5,20210507,Northwestern,NA,Harvard B,W,250,110,12,12,12,190,15.83,Minnesota
-ACF Nationals 2021,5,20210508,UC-Berkeley,NA,North Carolina,L,165,250,7,7,7,130,18.57,Minnesota
-ACF Nationals 2021,5,20210508,North Carolina,NA,UC-Berkeley,W,250,165,12,12,12,190,15.83,Minnesota
-ACF Nationals 2021,5,20210509,Illinois,NA,MIT,W,285,100,11,11,11,230,20.91,Minnesota
-ACF Nationals 2021,5,20210509,MIT,NA,Illinois,L,100,285,6,6,6,70,11.67,Minnesota
-ACF Nationals 2021,5,20210510,Georgia Tech,NA,Ohio State,L,200,205,10,10,10,150,15.0,Minnesota
-ACF Nationals 2021,5,20210510,Ohio State,NA,Georgia Tech,W,205,200,9,9,9,160,17.78,Minnesota
-ACF Nationals 2021,6,20210601,Chicago B,NA,Cornell,L,110,240,6,6,6,80,13.33,UC-Davis
-ACF Nationals 2021,6,20210601,Cornell,UG,Chicago B,W,240,110,12,12,12,180,15.0,UC-Davis
-ACF Nationals 2021,6,20210602,UC-Berkeley,NA,Harvard A,L,100,260,4,4,4,80,20.0,UC-Davis
-ACF Nationals 2021,6,20210602,Harvard A,NA,UC-Berkeley,W,260,100,14,14,14,190,13.57,UC-Davis
-ACF Nationals 2021,6,20210603,Georgia Tech,NA,MIT,W,240,45,14,14,14,170,12.14,UC-Davis
-ACF Nationals 2021,6,20210603,MIT,NA,Georgia Tech,L,45,240,3,3,3,30,10.0,UC-Davis
-ACF Nationals 2021,6,20210604,Illinois,NA,Ohio State,W,205,195,9,9,9,160,17.78,UC-Davis
-ACF Nationals 2021,6,20210604,Ohio State,NA,Illinois,L,195,205,9,9,9,150,16.67,UC-Davis
-ACF Nationals 2021,6,20210605,Texas,NA,Chicago C,W,385,65,17,17,17,300,17.65,UC-Davis
-ACF Nationals 2021,6,20210605,Chicago C,D2,Texas,L,65,385,3,3,3,50,16.67,UC-Davis
-ACF Nationals 2021,6,20210606,Maryland,NA,Columbia,L,110,250,6,6,6,80,13.33,UC-Davis
-ACF Nationals 2021,6,20210606,Columbia,NA,Maryland,W,250,110,12,12,12,190,15.83,UC-Davis
-ACF Nationals 2021,6,20210607,WUSTL,NA,Minnesota,W,200,125,10,10,10,150,15.0,UC-Davis
-ACF Nationals 2021,6,20210607,Minnesota,UG,WUSTL,L,125,200,7,7,7,90,12.86,UC-Davis
-ACF Nationals 2021,6,20210608,Florida,NA,Brown,W,240,115,12,12,12,180,15.0,UC-Davis
-ACF Nationals 2021,6,20210608,Brown,D2,Florida,L,115,240,5,5,5,90,18.0,UC-Davis
-ACF Nationals 2021,6,20210609,Princeton,UG,Chicago A,L,95,255,5,5,5,70,14.0,UC-Davis
-ACF Nationals 2021,6,20210609,Chicago A,NA,Princeton,W,255,95,13,13,13,190,14.62,UC-Davis
-ACF Nationals 2021,6,20210610,Stanford,NA,North Carolina,W,225,180,9,9,9,180,20.0,UC-Davis
-ACF Nationals 2021,6,20210610,North Carolina,NA,Stanford,L,180,225,10,10,10,130,13.0,UC-Davis
-ACF Nationals 2021,7,20210701,Chicago A,NA,Texas,L,225,225,9,9,9,180,20.0,Editors 1
-ACF Nationals 2021,7,20210701,Texas,NA,Chicago A,L,225,225,11,11,11,170,15.45,Editors 1
-ACF Nationals 2021,7,20210702,Georgia Tech,NA,Harvard A,L,130,175,8,8,8,90,11.25,Editors 1
-ACF Nationals 2021,7,20210702,Harvard A,NA,Georgia Tech,W,175,130,9,9,9,130,14.44,Editors 1
-ACF Nationals 2021,7,20210703,Stanford,NA,Ohio State,L,185,235,9,9,9,140,15.56,Editors 1
-ACF Nationals 2021,7,20210703,Ohio State,NA,Stanford,W,235,185,11,11,11,180,16.36,Editors 1
-ACF Nationals 2021,7,20210704,Columbia,NA,WUSTL,W,245,100,11,11,11,190,17.27,Editors 1
-ACF Nationals 2021,7,20210704,WUSTL,NA,Columbia,L,100,245,8,8,8,60,7.5,Editors 1
-ACF Nationals 2021,7,20210705,Maryland,NA,Florida,L,225,245,9,9,9,180,20.0,Editors 1
-ACF Nationals 2021,7,20210705,Florida,NA,Maryland,W,245,225,11,11,11,190,17.27,Editors 1
-ACF Nationals 2021,7,20210706,Chicago C,D2,Brown,L,135,175,9,9,9,90,10.0,Editors 1
-ACF Nationals 2021,7,20210706,Brown,D2,Chicago C,W,175,135,9,9,9,130,14.44,Editors 1
-ACF Nationals 2021,7,20210707,Minnesota,UG,Vanderbilt,W,125,120,9,9,9,80,8.89,Editors 1
-ACF Nationals 2021,7,20210707,Vanderbilt,UG,Minnesota,L,120,125,6,6,6,90,15.0,Editors 1
-ACF Nationals 2021,7,20210708,Chicago B,NA,Northwestern,W,145,140,11,11,10,90,9.0,Editors 1
-ACF Nationals 2021,7,20210708,Northwestern,NA,Chicago B,L,140,145,8,8,8,100,12.5,Editors 1
-ACF Nationals 2021,7,20210709,Harvard B,UG,UC-Berkeley,L,85,205,5,5,5,60,12.0,Editors 1
-ACF Nationals 2021,7,20210709,UC-Berkeley,NA,Harvard B,W,205,85,11,11,11,150,13.64,Editors 1
-ACF Nationals 2021,7,20210710,Princeton,UG,Yale,L,50,260,4,4,4,30,7.5,Editors 1
-ACF Nationals 2021,7,20210710,Yale,UG,Princeton,W,260,50,14,14,14,190,13.57,Editors 1
-ACF Nationals 2021,8,20210801,Illinois,NA,North Carolina,W,260,120,10,10,10,210,21.0,Editors 2
-ACF Nationals 2021,8,20210801,North Carolina,NA,Illinois,L,120,260,6,6,6,90,15.0,Editors 2
-ACF Nationals 2021,8,20210802,Stanford,NA,Chicago A,W,360,150,14,14,14,290,20.71,Editors 2
-ACF Nationals 2021,8,20210802,Chicago A,NA,Stanford,L,150,360,6,6,6,120,20.0,Editors 2
-ACF Nationals 2021,8,20210803,Georgia Tech,NA,Florida,L,95,335,5,5,5,70,14.0,Editors 2
-ACF Nationals 2021,8,20210803,Florida,NA,Georgia Tech,W,335,95,13,13,13,270,20.77,Editors 2
-ACF Nationals 2021,8,20210804,Columbia,NA,Ohio State,W,220,150,12,12,12,160,13.33,Editors 2
-ACF Nationals 2021,8,20210804,Ohio State,NA,Columbia,L,150,220,6,6,6,120,20.0,Editors 2
-ACF Nationals 2021,8,20210805,Cornell,UG,MIT,W,230,165,12,12,12,170,14.17,Editors 2
-ACF Nationals 2021,8,20210805,MIT,NA,Cornell,L,165,230,7,7,7,130,18.57,Editors 2
-ACF Nationals 2021,8,20210806,UC-Berkeley,NA,Princeton,W,275,55,13,13,13,210,16.15,Editors 2
-ACF Nationals 2021,8,20210806,Princeton,UG,UC-Berkeley,L,55,275,3,3,3,40,13.33,Editors 2
-ACF Nationals 2021,8,20210807,Harvard A,NA,WUSTL,L,180,180,8,8,8,140,17.5,Editors 2
-ACF Nationals 2021,8,20210807,WUSTL,NA,Harvard A,L,180,180,8,8,8,140,17.5,Editors 2
-ACF Nationals 2021,8,20210808,Minnesota,UG,Chicago B,L,145,205,7,7,7,110,15.71,Editors 2
-ACF Nationals 2021,8,20210808,Chicago B,NA,Minnesota,W,205,145,9,9,9,160,17.78,Editors 2
-ACF Nationals 2021,8,20210809,Yale,UG,Northwestern,L,120,185,6,6,6,90,15.0,Editors 2
-ACF Nationals 2021,8,20210809,Northwestern,NA,Yale,W,185,120,9,9,9,140,15.56,Editors 2
-ACF Nationals 2021,8,20210810,Harvard B,UG,Brown,L,145,170,9,9,9,100,11.11,Editors 2
-ACF Nationals 2021,8,20210810,Brown,D2,Harvard B,W,170,145,8,8,8,130,16.25,Editors 2
-ACF Nationals 2021,9,20210901,Stanford,NA,Florida,L,170,240,8,8,8,130,16.25,Editors 3
-ACF Nationals 2021,9,20210901,Florida,NA,Stanford,W,240,170,10,10,10,190,19.0,Editors 3
-ACF Nationals 2021,9,20210902,Maryland,NA,WUSTL,W,235,95,11,11,11,180,16.36,Editors 3
-ACF Nationals 2021,9,20210902,WUSTL,NA,Maryland,L,95,235,5,5,5,70,14.0,Editors 3
-ACF Nationals 2021,9,20210903,Georgia Tech,NA,North Carolina,W,215,115,11,11,11,160,14.55,Editors 3
-ACF Nationals 2021,9,20210903,North Carolina,NA,Georgia Tech,L,115,215,7,7,7,80,11.43,Editors 3
-ACF Nationals 2021,9,20210904,Harvard A,NA,Chicago A,L,170,250,8,8,8,130,16.25,Editors 3
-ACF Nationals 2021,9,20210904,Chicago A,NA,Harvard A,W,250,170,10,10,10,200,20.0,Editors 3
-ACF Nationals 2021,9,20210905,Minnesota,UG,UC-Berkeley,L,65,310,5,5,5,40,8.0,Editors 3
-ACF Nationals 2021,9,20210905,UC-Berkeley,NA,Minnesota,W,310,65,12,12,12,250,20.83,Editors 3
-ACF Nationals 2021,9,20210906,Harvard B,UG,Cornell,L,115,230,7,7,7,80,11.43,Editors 3
-ACF Nationals 2021,9,20210906,Cornell,UG,Harvard B,W,230,115,10,10,10,180,18.0,Editors 3
-ACF Nationals 2021,9,20210907,Chicago B,NA,Brown,L,115,205,7,7,7,80,11.43,Editors 3
-ACF Nationals 2021,9,20210907,Brown,D2,Chicago B,W,205,115,11,11,11,150,13.64,Editors 3
-ACF Nationals 2021,9,20210908,Vanderbilt,UG,Northwestern,L,55,275,3,3,3,40,13.33,Editors 3
-ACF Nationals 2021,9,20210908,Northwestern,NA,Vanderbilt,W,275,55,13,13,13,210,16.15,Editors 3
-ACF Nationals 2021,9,20210909,Chicago C,D2,Princeton,L,120,160,8,8,8,80,10.0,Editors 3
-ACF Nationals 2021,9,20210909,Princeton,UG,Chicago C,W,160,120,8,8,8,120,15.0,Editors 3
-ACF Nationals 2021,9,20210910,Ohio State,NA,Texas,W,245,215,11,11,11,190,17.27,Editors 3
-ACF Nationals 2021,9,20210910,Texas,NA,Ohio State,L,215,245,9,9,9,170,18.89,Editors 3
-ACF Nationals 2021,10,20211001,Stanford,NA,Illinois,W,245,185,11,11,11,190,17.27,Chicago A
-ACF Nationals 2021,10,20211001,Illinois,NA,Stanford,L,185,245,9,9,9,140,15.56,Chicago A
-ACF Nationals 2021,10,20211002,Columbia,NA,North Carolina,W,185,165,9,9,9,140,15.56,Chicago A
-ACF Nationals 2021,10,20211002,North Carolina,NA,Columbia,L,165,185,9,9,9,120,13.33,Chicago A
-ACF Nationals 2021,10,20211003,Georgia Tech,NA,Maryland,L,120,265,6,6,6,90,15.0,Chicago A
-ACF Nationals 2021,10,20211003,Maryland,NA,Georgia Tech,W,265,120,13,13,13,200,15.38,Chicago A
-ACF Nationals 2021,10,20211004,Harvard A,NA,Ohio State,L,130,320,8,8,8,90,11.25,Chicago A
-ACF Nationals 2021,10,20211004,Ohio State,NA,Harvard A,W,320,130,12,12,12,260,21.67,Chicago A
-ACF Nationals 2021,10,20211005,WUSTL,NA,Texas,L,175,205,9,9,9,130,14.44,Chicago A
-ACF Nationals 2021,10,20211005,Texas,NA,WUSTL,W,205,175,9,9,9,160,17.78,Chicago A
-ACF Nationals 2021,10,20211006,Cornell,UG,Yale,L,150,215,8,8,8,110,13.75,Chicago A
-ACF Nationals 2021,10,20211006,Yale,UG,Cornell,W,215,150,11,11,11,160,14.55,Chicago A
-ACF Nationals 2021,10,20211007,MIT,NA,Chicago B,L,105,155,7,7,7,70,10.0,Chicago A
-ACF Nationals 2021,10,20211007,Chicago B,NA,MIT,W,155,105,9,9,9,110,12.22,Chicago A
-ACF Nationals 2021,10,20211008,Vanderbilt,UG,Princeton,W,110,90,8,8,8,70,8.75,Chicago A
-ACF Nationals 2021,10,20211008,Princeton,UG,Vanderbilt,L,90,110,8,8,8,50,6.25,Chicago A
-ACF Nationals 2021,10,20211009,Northwestern,NA,UC-Berkeley,L,165,170,9,9,9,120,13.33,Chicago A
-ACF Nationals 2021,10,20211009,UC-Berkeley,NA,Northwestern,W,170,165,8,8,8,130,16.25,Chicago A
-ACF Nationals 2021,10,20211010,Chicago C,D2,Harvard B,L,120,175,6,6,6,90,15.0,Chicago A
-ACF Nationals 2021,10,20211010,Harvard B,UG,Chicago C,W,175,120,11,11,11,120,10.91,Chicago A
-ACF Nationals 2021,11,20211101,Illinois,NA,Chicago A,L,195,200,11,11,11,140,12.73,Editors 4
-ACF Nationals 2021,11,20211101,Chicago A,NA,Illinois,W,200,195,8,8,8,160,20.0,Editors 4
-ACF Nationals 2021,11,20211102,Harvard A,NA,Maryland,L,170,200,8,8,8,130,16.25,Editors 4
-ACF Nationals 2021,11,20211102,Maryland,NA,Harvard A,W,200,170,10,10,10,150,15.0,Editors 4
-ACF Nationals 2021,11,20211103,Stanford,NA,Texas,W,390,40,18,18,18,300,16.67,Editors 4
-ACF Nationals 2021,11,20211103,Texas,NA,Stanford,L,40,390,2,2,2,30,15.0,Editors 4
-ACF Nationals 2021,11,20211104,WUSTL,NA,North Carolina,L,145,215,9,9,9,100,11.11,Editors 4
-ACF Nationals 2021,11,20211104,North Carolina,NA,WUSTL,W,215,145,11,11,11,160,14.55,Editors 4
-ACF Nationals 2021,11,20211105,Florida,NA,Ohio State,L,170,230,8,8,8,130,16.25,Editors 4
-ACF Nationals 2021,11,20211105,Ohio State,NA,Florida,W,230,170,12,12,12,170,14.17,Editors 4
-ACF Nationals 2021,11,20211106,Princeton,UG,Cornell,L,170,180,8,8,8,130,16.25,Editors 4
-ACF Nationals 2021,11,20211106,Cornell,UG,Princeton,W,180,170,10,10,10,130,13.0,Editors 4
-ACF Nationals 2021,11,20211107,Chicago B,NA,Vanderbilt,W,195,70,13,13,13,130,10.0,Editors 4
-ACF Nationals 2021,11,20211107,Vanderbilt,UG,Chicago B,L,70,195,4,4,4,50,12.5,Editors 4
-ACF Nationals 2021,11,20211108,Northwestern,NA,Brown,L,120,195,8,8,8,80,10.0,Editors 4
-ACF Nationals 2021,11,20211108,Brown,D2,Northwestern,W,195,120,11,11,11,140,12.73,Editors 4
-ACF Nationals 2021,11,20211109,Minnesota,UG,MIT,L,145,225,9,9,9,100,11.11,Editors 4
-ACF Nationals 2021,11,20211109,MIT,NA,Minnesota,W,225,145,11,11,11,170,15.45,Editors 4
-ACF Nationals 2021,11,20211110,Chicago C,D2,UC-Berkeley,L,145,200,9,9,9,100,11.11,Editors 4
-ACF Nationals 2021,11,20211110,UC-Berkeley,NA,Chicago C,W,200,145,10,10,10,150,15.0,Editors 4
-ACF Nationals 2021,12,20211201,Chicago B,NA,Yale,W,235,155,11,11,11,180,16.36,Berkeley
-ACF Nationals 2021,12,20211201,Yale,UG,Chicago B,L,155,235,7,7,7,120,17.14,Berkeley
-ACF Nationals 2021,12,20211202,Florida,NA,Texas,W,280,140,12,12,12,220,18.33,Berkeley
-ACF Nationals 2021,12,20211202,Texas,NA,Florida,L,140,280,6,6,6,110,18.33,Berkeley
-ACF Nationals 2021,12,20211203,Columbia,NA,Stanford,L,215,225,9,9,9,170,18.89,Berkeley
-ACF Nationals 2021,12,20211203,Stanford,NA,Columbia,W,225,215,9,9,9,180,20.0,Berkeley
-ACF Nationals 2021,12,20211204,Chicago C,D2,MIT,L,105,245,7,7,7,70,10.0,Berkeley
-ACF Nationals 2021,12,20211204,MIT,NA,Chicago C,W,245,105,11,11,11,190,17.27,Berkeley
-ACF Nationals 2021,12,20211205,Harvard B,UG,Princeton,L,95,190,5,5,5,70,14.0,Berkeley
-ACF Nationals 2021,12,20211205,Princeton,UG,Harvard B,W,190,95,10,10,10,140,14.0,Berkeley
-ACF Nationals 2021,12,20211206,Maryland,NA,Illinois,W,225,215,9,9,9,180,20.0,Berkeley
-ACF Nationals 2021,12,20211206,Illinois,NA,Maryland,L,215,225,9,9,9,170,18.89,Berkeley
-ACF Nationals 2021,12,20211207,WUSTL,NA,Georgia Tech,W,220,170,10,10,10,170,17.0,Berkeley
-ACF Nationals 2021,12,20211207,Georgia Tech,NA,WUSTL,L,170,220,8,8,8,130,16.25,Berkeley
-ACF Nationals 2021,12,20211208,Brown,D2,Vanderbilt,W,210,170,10,10,10,160,16.0,Berkeley
-ACF Nationals 2021,12,20211208,Vanderbilt,UG,Brown,L,170,210,8,8,8,130,16.25,Berkeley
-ACF Nationals 2021,13,20211301,Illinois,NA,Harvard A,L,120,300,6,6,6,90,15.0,Editors 5
-ACF Nationals 2021,13,20211301,Harvard A,NA,Illinois,W,300,120,14,14,14,230,16.43,Editors 5
-ACF Nationals 2021,13,20211302,Columbia,NA,Chicago A,W,300,110,14,14,14,230,16.43,Editors 5
-ACF Nationals 2021,13,20211302,Chicago A,NA,Columbia,L,110,300,6,6,6,80,13.33,Editors 5
-ACF Nationals 2021,13,20211303,Florida,NA,North Carolina,W,255,170,11,11,11,200,18.18,Editors 5
-ACF Nationals 2021,13,20211303,North Carolina,NA,Florida,L,170,255,8,8,8,130,16.25,Editors 5
-ACF Nationals 2021,13,20211304,Texas,NA,Georgia Tech,W,215,160,11,11,11,160,14.55,Editors 5
-ACF Nationals 2021,13,20211304,Georgia Tech,NA,Texas,L,160,215,8,8,8,120,15.0,Editors 5
-ACF Nationals 2021,13,20211305,Maryland,NA,Ohio State,L,175,240,7,7,7,140,20.0,Editors 5
-ACF Nationals 2021,13,20211305,Ohio State,NA,Maryland,W,240,175,12,12,12,180,15.0,Editors 5
-ACF Nationals 2021,13,20211306,Cornell,UG,Brown,L,175,220,9,9,9,130,14.44,Editors 5
-ACF Nationals 2021,13,20211306,Brown,D2,Cornell,W,220,175,10,10,10,170,17.0,Editors 5
-ACF Nationals 2021,13,20211307,MIT,NA,UC-Berkeley,L,150,255,8,8,8,110,13.75,Editors 5
-ACF Nationals 2021,13,20211307,UC-Berkeley,NA,MIT,W,255,150,11,11,11,200,18.18,Editors 5
-ACF Nationals 2021,13,20211308,Minnesota,UG,Yale,W,190,165,8,8,8,150,18.75,Editors 5
-ACF Nationals 2021,13,20211308,Yale,UG,Minnesota,L,165,190,9,9,9,120,13.33,Editors 5
-ACF Nationals 2021,13,20211309,Vanderbilt,UG,Harvard B,L,130,175,8,8,8,90,11.25,Editors 5
-ACF Nationals 2021,13,20211309,Harvard B,UG,Vanderbilt,W,175,130,9,9,9,130,14.44,Editors 5
-ACF Nationals 2021,13,20211310,Chicago C,D2,Northwestern,L,130,225,8,8,8,90,11.25,Editors 5
-ACF Nationals 2021,13,20211310,Northwestern,NA,Chicago C,W,225,130,11,11,11,170,15.45,Editors 5
-ACF Nationals 2021,14,20211401,UC-Berkeley,NA,Vanderbilt,W,260,55,12,12,12,200,16.67,Ohio State + Duke
-ACF Nationals 2021,14,20211401,Vanderbilt,UG,UC-Berkeley,L,55,260,3,3,3,40,13.33,Ohio State + Duke
-ACF Nationals 2021,14,20211402,Princeton,UG,Chicago B,W,175,130,11,11,11,120,10.91,Ohio State + Duke
-ACF Nationals 2021,14,20211402,Chicago B,NA,Princeton,L,130,175,8,8,8,90,11.25,Ohio State + Duke
-ACF Nationals 2021,14,20211403,Minnesota,UG,Cornell,L,110,175,6,6,6,80,13.33,Ohio State + Duke
-ACF Nationals 2021,14,20211403,Cornell,UG,Minnesota,W,175,110,9,9,9,130,14.44,Ohio State + Duke
-ACF Nationals 2021,14,20211404,Stanford,NA,WUSTL,W,275,170,13,13,13,210,16.15,Ohio State + Duke
-ACF Nationals 2021,14,20211404,WUSTL,NA,Stanford,L,170,275,6,6,6,140,23.33,Ohio State + Duke
-ACF Nationals 2021,14,20211405,Texas,NA,Harvard A,W,250,145,10,10,10,200,20.0,Ohio State + Duke
-ACF Nationals 2021,14,20211405,Harvard A,NA,Texas,L,145,250,7,7,7,110,15.71,Ohio State + Duke
-ACF Nationals 2021,14,20211406,North Carolina,NA,Chicago A,L,140,310,6,6,6,110,18.33,Ohio State + Duke
-ACF Nationals 2021,14,20211406,Chicago A,NA,North Carolina,W,310,140,14,14,14,240,17.14,Ohio State + Duke
-ACF Nationals 2021,14,20211407,Yale,UG,Harvard B,W,190,125,10,10,10,140,14.0,Ohio State + Duke
-ACF Nationals 2021,14,20211407,Harvard B,UG,Yale,L,125,190,7,7,7,90,12.86,Ohio State + Duke
-ACF Nationals 2021,14,20211408,Columbia,NA,Georgia Tech,W,235,70,13,13,13,170,13.08,Ohio State + Duke
-ACF Nationals 2021,14,20211408,Georgia Tech,NA,Columbia,L,70,235,4,4,4,50,12.5,Ohio State + Duke
-ACF Nationals 2021,14,20211409,Florida,NA,Illinois,L,210,210,10,10,10,160,16.0,Ohio State + Duke
-ACF Nationals 2021,14,20211409,Illinois,NA,Florida,L,210,210,10,10,10,160,16.0,Ohio State + Duke
-ACF Nationals 2021,14,20211410,MIT,NA,Brown,L,160,170,10,10,10,110,11.0,Ohio State + Duke
-ACF Nationals 2021,14,20211410,Brown,D2,MIT,W,170,160,6,6,6,140,23.33,Ohio State + Duke
-ACF Nationals 2021,15,20211501,Minnesota,UG,Harvard B,L,100,155,6,6,6,70,11.67,Editors 6
-ACF Nationals 2021,15,20211501,Harvard B,UG,Minnesota,W,155,100,9,9,9,110,12.22,Editors 6
-ACF Nationals 2021,15,20211502,Columbia,NA,Florida,L,195,265,9,9,9,150,16.67,Editors 6
-ACF Nationals 2021,15,20211502,Florida,NA,Columbia,W,265,195,11,11,11,210,19.09,Editors 6
-ACF Nationals 2021,15,20211503,Texas,NA,Illinois,L,125,310,7,7,7,90,12.86,Editors 6
-ACF Nationals 2021,15,20211503,Illinois,NA,Texas,W,310,125,12,12,12,250,20.83,Editors 6
-ACF Nationals 2021,15,20211504,Ohio State,NA,WUSTL,W,270,85,14,14,14,200,14.29,Editors 6
-ACF Nationals 2021,15,20211504,WUSTL,NA,Ohio State,L,85,270,5,5,5,60,12.0,Editors 6
-ACF Nationals 2021,15,20211505,Yale,UG,Brown,W,205,90,9,9,9,160,17.78,Editors 6
-ACF Nationals 2021,15,20211505,Brown,D2,Yale,L,90,205,6,6,6,60,10.0,Editors 6
-ACF Nationals 2021,15,20211506,Chicago C,D2,Cornell,L,140,140,8,8,8,100,12.5,Editors 6
-ACF Nationals 2021,15,20211506,Cornell,UG,Chicago C,L,140,140,8,8,8,100,12.5,Editors 6
-ACF Nationals 2021,15,20211507,Princeton,UG,Northwestern,L,140,185,8,8,8,100,12.5,Editors 6
-ACF Nationals 2021,15,20211507,Northwestern,NA,Princeton,W,185,140,9,9,9,140,15.56,Editors 6
-ACF Nationals 2021,15,20211508,Chicago A,NA,Georgia Tech,W,225,125,11,11,11,170,15.45,Editors 6
-ACF Nationals 2021,15,20211508,Georgia Tech,NA,Chicago A,L,125,225,7,7,7,90,12.86,Editors 6
-ACF Nationals 2021,15,20211509,Maryland,NA,North Carolina,L,155,160,9,9,9,110,12.22,Editors 6
-ACF Nationals 2021,15,20211509,North Carolina,NA,Maryland,W,160,155,8,8,8,120,15.0,Editors 6
-ACF Nationals 2021,15,20211510,MIT,NA,Vanderbilt,W,200,120,10,10,10,150,15.0,Editors 6
-ACF Nationals 2021,15,20211510,Vanderbilt,UG,MIT,L,120,200,8,8,8,80,10.0,Editors 6
-ACF Nationals 2021,16,20211601,Illinois,NA,Columbia,W,315,165,13,13,13,250,19.23,Editors 8
-ACF Nationals 2021,16,20211601,Columbia,NA,Illinois,L,165,315,7,7,7,130,18.57,Editors 8
-ACF Nationals 2021,16,20211602,Cornell,UG,Northwestern,W,195,145,9,9,9,150,16.67,Editors 8
-ACF Nationals 2021,16,20211602,Northwestern,NA,Cornell,L,145,195,7,7,7,110,15.71,Editors 8
-ACF Nationals 2021,16,20211603,Chicago B,NA,Harvard B,W,180,145,10,10,10,130,13.0,Editors 8
-ACF Nationals 2021,16,20211603,Harvard B,UG,Chicago B,L,145,180,9,9,9,100,11.11,Editors 8
-ACF Nationals 2021,16,20211604,Harvard A,NA,Florida,W,250,140,12,12,12,190,15.83,Editors 8
-ACF Nationals 2021,16,20211604,Florida,NA,Harvard A,L,140,250,8,8,8,100,12.5,Editors 8
-ACF Nationals 2021,16,20211605,Maryland,NA,Chicago A,L,130,275,6,6,6,100,16.67,Editors 8
-ACF Nationals 2021,16,20211605,Chicago A,NA,Maryland,W,275,130,11,11,11,220,20.0,Editors 8
-ACF Nationals 2021,16,20211606,Ohio State,NA,North Carolina,W,250,125,12,12,12,190,15.83,Editors 8
-ACF Nationals 2021,16,20211606,North Carolina,NA,Ohio State,L,125,250,7,7,7,90,12.86,Editors 8
-ACF Nationals 2021,16,20211607,Stanford,NA,Georgia Tech,W,305,110,13,13,13,240,18.46,Editors 8
-ACF Nationals 2021,16,20211607,Georgia Tech,NA,Stanford,L,110,305,6,6,6,80,13.33,Editors 8
-ACF Nationals 2021,16,20211608,Yale,UG,MIT,L,130,190,8,8,8,90,11.25,Editors 8
-ACF Nationals 2021,16,20211608,MIT,NA,Yale,W,190,130,10,10,10,140,14.0,Editors 8
-ACF Nationals 2021,16,20211609,Minnesota,UG,Chicago C,L,105,175,5,5,5,80,16.0,Editors 8
-ACF Nationals 2021,16,20211609,Chicago C,D2,Minnesota,W,175,105,9,9,9,130,14.44,Editors 8
-ACF Nationals 2021,16,20211610,UC-Berkeley,NA,Brown,L,185,215,9,9,9,140,15.56,Editors 8
-ACF Nationals 2021,16,20211610,Brown,D2,UC-Berkeley,W,215,185,11,11,11,160,14.55,Editors 8
-ACF Nationals 2021,17,20211701,Stanford,NA,Maryland,W,330,120,14,14,14,260,18.57,Editors 9
-ACF Nationals 2021,17,20211701,Maryland,NA,Stanford,L,120,330,6,6,6,90,15.0,Editors 9
-ACF Nationals 2021,17,20211702,Minnesota,UG,Northwestern,L,140,155,8,8,8,100,12.5,Editors 9
-ACF Nationals 2021,17,20211702,Northwestern,NA,Minnesota,W,155,140,9,9,9,110,12.22,Editors 9
-ACF Nationals 2021,17,20211703,Texas,NA,North Carolina,W,185,165,9,9,9,140,15.56,Editors 9
-ACF Nationals 2021,17,20211703,North Carolina,NA,Texas,L,165,185,9,9,9,120,13.33,Editors 9
-ACF Nationals 2021,17,20211704,Ohio State,NA,Chicago A,L,165,270,7,7,7,130,18.57,Editors 9
-ACF Nationals 2021,17,20211704,Chicago A,NA,Ohio State,W,270,165,12,12,12,210,17.5,Editors 9
-ACF Nationals 2021,17,20211705,WUSTL,NA,Illinois,L,150,220,8,8,8,110,13.75,Editors 9
-ACF Nationals 2021,17,20211705,Illinois,NA,WUSTL,W,220,150,10,10,10,170,17.0,Editors 9
-ACF Nationals 2021,17,20211706,Harvard A,NA,Columbia,L,185,240,9,9,9,140,15.56,Editors 9
-ACF Nationals 2021,17,20211706,Columbia,NA,Harvard A,W,240,185,10,10,10,190,19.0,Editors 9
-ACF Nationals 2021,17,20211707,Yale,UG,UC-Berkeley,L,150,210,8,8,8,110,13.75,Editors 9
-ACF Nationals 2021,17,20211707,UC-Berkeley,NA,Yale,W,210,150,10,10,10,160,16.0,Editors 9
-ACF Nationals 2021,17,20211708,Chicago C,D2,Chicago B,W,140,110,8,8,8,100,12.5,Editors 9
-ACF Nationals 2021,17,20211708,Chicago B,NA,Chicago C,L,110,140,6,6,6,80,13.33,Editors 9
-ACF Nationals 2021,17,20211709,MIT,NA,Princeton,W,230,80,12,12,12,170,14.17,Editors 9
-ACF Nationals 2021,17,20211709,Princeton,UG,MIT,L,80,230,4,4,4,60,15.0,Editors 9
-ACF Nationals 2021,17,20211710,Vanderbilt,UG,Cornell,L,100,215,6,6,6,70,11.67,Editors 9
-ACF Nationals 2021,17,20211710,Cornell,UG,Vanderbilt,W,215,100,11,11,11,160,14.55,Editors 9
-ACF Nationals 2021,18,20211801,Ohio State,NA,Columbia,L,105,310,5,5,5,80,16.0,Editors 11
-ACF Nationals 2021,18,20211801,Columbia,NA,Ohio State,W,310,105,14,14,14,240,17.14,Editors 11
-ACF Nationals 2021,19,20211901,Stanford,NA,Columbia,L,210,210,10,10,10,160,16.0,Editors 10
-ACF Nationals 2021,19,20211901,Columbia,NA,Stanford,L,210,210,8,8,8,170,21.25,Editors 10
-ACF Nationals 2021,20,20212001,Columbia,NA,Florida,W,270,115,12,12,12,210,17.5,Finals 1
-ACF Nationals 2021,20,20212001,Florida,NA,Columbia,L,115,270,5,5,5,90,18.0,Finals 1
-ACF Nationals 2021,20,20212002,Brown,D2,Cornell,W,220,100,12,12,12,160,13.33,Finals 1
-ACF Nationals 2021,20,20212002,Cornell,UG,Brown,L,100,220,6,6,6,70,11.67,Finals 1
-ACF Nationals 2021,21,20212101,Florida,NA,Columbia,W,345,95,15,15,15,270,18.0,Finals 2
-ACF Nationals 2021,21,20212101,Columbia,NA,Florida,L,95,345,5,5,5,70,14.0,Finals 2
+ACF Nationals 2021,1,20210101,Stanford,NA,Chicago B,W,340,65,13,2,13,220,16.92,Texas
+ACF Nationals 2021,1,20210101,Chicago B,NA,Stanford,L,65,340,4,1,4,30,7.5,Texas
+ACF Nationals 2021,1,20210102,Illinois,NA,Harvard B,W,375,110,14,3,14,250,17.86,Texas
+ACF Nationals 2021,1,20210102,Harvard B,UG,Illinois,L,110,375,5,0,5,60,12.0,Texas
+ACF Nationals 2021,1,20210103,Northwestern,NA,Ohio State,L,170,255,8,2,8,100,12.5,Texas
+ACF Nationals 2021,1,20210103,Ohio State,NA,Northwestern,W,255,170,10,3,10,170,17.0,Texas
+ACF Nationals 2021,1,20210104,Vanderbilt,UG,Maryland,L,185,250,8,1,8,110,13.75,Texas
+ACF Nationals 2021,1,20210104,Maryland,NA,Vanderbilt,W,250,185,11,2,11,150,13.64,Texas
+ACF Nationals 2021,1,20210105,Columbia,NA,Yale,W,325,170,12,1,12,210,17.5,Texas
+ACF Nationals 2021,1,20210105,Yale,UG,Columbia,L,170,325,8,2,8,100,12.5,Texas
+ACF Nationals 2021,1,20210106,Princeton,UG,Florida,L,60,450,3,0,3,30,10.0,Texas
+ACF Nationals 2021,1,20210106,Florida,NA,Princeton,W,450,60,16,0,16,290,18.12,Texas
+ACF Nationals 2021,1,20210107,Brown,D2,Minnesota,W,265,125,12,1,12,150,12.5,Texas
+ACF Nationals 2021,1,20210107,Minnesota,UG,Brown,L,125,265,6,3,6,80,13.33,Texas
+ACF Nationals 2021,1,20210108,Chicago A,NA,WUSTL,W,285,245,9,1,9,200,22.22,Texas
+ACF Nationals 2021,1,20210108,WUSTL,NA,Chicago A,L,245,285,11,1,11,140,12.73,Texas
+ACF Nationals 2021,1,20210109,UC-Berkeley,NA,Cornell,W,260,170,11,2,11,160,14.55,Texas
+ACF Nationals 2021,1,20210109,Cornell,UG,UC-Berkeley,L,170,260,7,2,7,110,15.71,Texas
+ACF Nationals 2021,1,20210110,North Carolina,NA,Harvard A,W,235,225,11,3,11,140,12.73,Texas
+ACF Nationals 2021,1,20210110,Harvard A,NA,North Carolina,L,225,235,8,3,8,160,20.0,Texas
+ACF Nationals 2021,2,20210201,Vanderbilt,UG,Texas,L,75,360,4,1,4,40,10.0,Florida
+ACF Nationals 2021,2,20210201,Texas,NA,Vanderbilt,W,360,75,13,2,13,240,18.46,Florida
+ACF Nationals 2021,2,20210202,Chicago A,NA,Minnesota,W,290,130,11,2,11,190,17.27,Florida
+ACF Nationals 2021,2,20210202,Minnesota,UG,Chicago A,L,130,290,6,4,6,90,15.0,Florida
+ACF Nationals 2021,2,20210203,WUSTL,NA,Princeton,W,245,135,9,5,9,180,20.0,Florida
+ACF Nationals 2021,2,20210203,Princeton,UG,WUSTL,L,135,245,5,1,5,90,18.0,Florida
+ACF Nationals 2021,2,20210204,Georgia Tech,NA,Illinois,L,20,380,2,4,2,20,10.0,Florida
+ACF Nationals 2021,2,20210204,Illinois,NA,Georgia Tech,W,380,20,14,4,14,260,18.57,Florida
+ACF Nationals 2021,2,20210205,Yale,UG,Maryland,L,100,270,5,0,5,50,10.0,Florida
+ACF Nationals 2021,2,20210205,Maryland,NA,Yale,W,270,100,11,2,11,170,15.45,Florida
+ACF Nationals 2021,2,20210206,Columbia,NA,Chicago C,W,450,25,16,2,16,300,18.75,Florida
+ACF Nationals 2021,2,20210206,Chicago C,D2,Columbia,L,25,450,2,3,2,20,10.0,Florida
+ACF Nationals 2021,2,20210207,Chicago B,NA,North Carolina,W,200,180,9,4,9,130,14.44,Florida
+ACF Nationals 2021,2,20210207,North Carolina,NA,Chicago B,L,180,200,8,2,8,110,13.75,Florida
+ACF Nationals 2021,2,20210208,Stanford,NA,Cornell,W,440,95,15,2,15,300,20.0,Florida
+ACF Nationals 2021,2,20210208,Cornell,UG,Stanford,L,95,440,4,1,4,60,15.0,Florida
+ACF Nationals 2021,2,20210209,Northwestern,NA,MIT,L,125,305,6,7,6,100,16.67,Florida
+ACF Nationals 2021,2,20210209,MIT,NA,Northwestern,W,305,125,12,1,12,190,15.83,Florida
+ACF Nationals 2021,2,20210210,Harvard B,UG,Ohio State,L,30,385,2,2,2,20,10.0,Florida
+ACF Nationals 2021,2,20210210,Ohio State,NA,Harvard B,W,385,30,14,1,14,250,17.86,Florida
+ACF Nationals 2021,3,20210301,Harvard A,NA,Chicago B,W,365,55,14,1,14,230,16.43,Illinois
+ACF Nationals 2021,3,20210301,Chicago B,NA,Harvard A,L,55,365,3,3,3,40,13.33,Illinois
+ACF Nationals 2021,3,20210302,Yale,UG,Texas,W,230,220,10,0,10,130,13.0,Illinois
+ACF Nationals 2021,3,20210302,Texas,NA,Yale,L,220,230,8,0,8,140,17.5,Illinois
+ACF Nationals 2021,3,20210303,Minnesota,UG,Princeton,W,235,135,11,1,11,130,11.82,Illinois
+ACF Nationals 2021,3,20210303,Princeton,UG,Minnesota,L,135,235,5,1,5,90,18.0,Illinois
+ACF Nationals 2021,3,20210304,Florida,NA,WUSTL,W,290,155,11,2,11,190,17.27,Illinois
+ACF Nationals 2021,3,20210304,WUSTL,NA,Florida,L,155,290,7,3,7,100,14.29,Illinois
+ACF Nationals 2021,3,20210305,Chicago A,NA,Brown,W,400,130,14,2,14,270,19.29,Illinois
+ACF Nationals 2021,3,20210305,Brown,D2,Chicago A,L,130,400,5,0,5,80,16.0,Illinois
+ACF Nationals 2021,3,20210306,Vanderbilt,UG,Chicago C,L,105,225,6,5,6,70,11.67,Illinois
+ACF Nationals 2021,3,20210306,Chicago C,D2,Vanderbilt,W,225,105,10,1,10,130,13.0,Illinois
+ACF Nationals 2021,3,20210307,Harvard B,UG,MIT,L,105,190,6,1,6,50,8.33,Illinois
+ACF Nationals 2021,3,20210307,MIT,NA,Harvard B,W,190,105,9,4,9,120,13.33,Illinois
+ACF Nationals 2021,3,20210308,Georgia Tech,NA,Northwestern,W,295,100,11,1,11,190,17.27,Illinois
+ACF Nationals 2021,3,20210308,Northwestern,NA,Georgia Tech,L,100,295,6,4,6,60,10.0,Illinois
+ACF Nationals 2021,3,20210309,Cornell,UG,North Carolina,L,150,290,6,2,6,100,16.67,Illinois
+ACF Nationals 2021,3,20210309,North Carolina,NA,Cornell,W,290,150,12,2,12,180,15.0,Illinois
+ACF Nationals 2021,3,20210310,Stanford,NA,UC-Berkeley,W,260,190,10,2,10,170,17.0,Illinois
+ACF Nationals 2021,3,20210310,UC-Berkeley,NA,Stanford,L,190,260,7,2,7,130,18.57,Illinois
+ACF Nationals 2021,4,20210401,Columbia,NA,Vanderbilt,W,400,55,14,2,14,270,19.29,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210401,Vanderbilt,UG,Columbia,L,55,400,3,1,3,30,10.0,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Harvard A,NA,Cornell,W,430,45,17,0,17,260,15.29,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Cornell,UG,Harvard A,L,45,430,2,3,2,40,20.0,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Texas,NA,Maryland,W,350,160,12,0,12,230,19.17,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Maryland,NA,Texas,L,160,350,6,4,6,120,20.0,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Yale,UG,Chicago C,W,355,40,16,1,16,200,12.5,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Chicago C,D2,Yale,L,40,355,2,2,2,30,15.0,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,UC-Berkeley,NA,Chicago B,W,465,80,16,1,16,310,19.38,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,Chicago B,NA,UC-Berkeley,L,80,465,3,2,3,60,20.0,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,MIT,NA,Ohio State,L,155,225,6,1,6,100,16.67,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,Ohio State,NA,MIT,W,225,155,9,3,9,150,16.67,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,Brown,D2,WUSTL,L,195,340,8,3,8,130,16.25,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,WUSTL,NA,Brown,W,340,195,12,2,12,230,19.17,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Florida,NA,Minnesota,W,420,110,14,0,14,280,20.0,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Minnesota,UG,Florida,L,110,420,5,2,5,70,14.0,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Illinois,NA,Northwestern,W,300,175,12,4,12,200,16.67,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Northwestern,NA,Illinois,L,175,300,7,1,7,110,15.71,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210410,Georgia Tech,NA,Harvard B,W,220,170,9,4,9,150,16.67,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210410,Harvard B,UG,Georgia Tech,L,170,220,8,0,8,90,11.25,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,5,20210501,Columbia,NA,Texas,W,315,165,11,3,11,220,20.0,Minnesota
+ACF Nationals 2021,5,20210501,Texas,NA,Columbia,L,165,315,7,3,7,110,15.71,Minnesota
+ACF Nationals 2021,5,20210502,Maryland,NA,Chicago C,W,255,130,10,7,10,190,19.0,Minnesota
+ACF Nationals 2021,5,20210502,Chicago C,D2,Maryland,L,130,255,7,2,7,70,10.0,Minnesota
+ACF Nationals 2021,5,20210503,Stanford,NA,Harvard A,L,240,270,10,2,10,150,15.0,Minnesota
+ACF Nationals 2021,5,20210503,Harvard A,NA,Stanford,W,270,240,10,2,10,180,18.0,Minnesota
+ACF Nationals 2021,5,20210504,Vanderbilt,UG,Yale,W,215,205,10,1,10,120,12.0,Minnesota
+ACF Nationals 2021,5,20210504,Yale,UG,Vanderbilt,L,205,215,10,3,10,120,12.0,Minnesota
+ACF Nationals 2021,5,20210505,Florida,NA,Chicago A,W,265,230,10,1,10,170,17.0,Minnesota
+ACF Nationals 2021,5,20210505,Chicago A,NA,Florida,L,230,265,9,4,9,160,17.78,Minnesota
+ACF Nationals 2021,5,20210506,Princeton,UG,Brown,L,100,365,5,2,5,60,12.0,Minnesota
+ACF Nationals 2021,5,20210506,Brown,D2,Princeton,W,365,100,15,1,15,220,14.67,Minnesota
+ACF Nationals 2021,5,20210507,Harvard B,UG,Northwestern,L,130,295,6,2,6,80,13.33,Minnesota
+ACF Nationals 2021,5,20210507,Northwestern,NA,Harvard B,W,295,130,12,3,12,190,15.83,Minnesota
+ACF Nationals 2021,5,20210508,UC-Berkeley,NA,North Carolina,L,170,310,7,6,7,130,18.57,Minnesota
+ACF Nationals 2021,5,20210508,North Carolina,NA,UC-Berkeley,W,310,170,12,0,12,190,15.83,Minnesota
+ACF Nationals 2021,5,20210509,Illinois,NA,MIT,W,315,125,11,5,11,230,20.91,Minnesota
+ACF Nationals 2021,5,20210509,MIT,NA,Illinois,L,125,315,6,1,6,70,11.67,Minnesota
+ACF Nationals 2021,5,20210510,Georgia Tech,NA,Ohio State,W,235,215,10,3,10,150,15.0,Minnesota
+ACF Nationals 2021,5,20210510,Ohio State,NA,Georgia Tech,L,215,235,9,7,9,160,17.78,Minnesota
+ACF Nationals 2021,6,20210601,Chicago B,NA,Cornell,L,120,295,6,4,6,80,13.33,UC-Davis
+ACF Nationals 2021,6,20210601,Cornell,UG,Chicago B,W,295,120,12,1,12,180,15.0,UC-Davis
+ACF Nationals 2021,6,20210602,UC-Berkeley,NA,Harvard A,L,120,310,4,0,4,80,20.0,UC-Davis
+ACF Nationals 2021,6,20210602,Harvard A,NA,UC-Berkeley,W,310,120,14,4,14,190,13.57,UC-Davis
+ACF Nationals 2021,6,20210603,Georgia Tech,NA,MIT,W,310,55,14,0,14,170,12.14,UC-Davis
+ACF Nationals 2021,6,20210603,MIT,NA,Georgia Tech,L,55,310,3,1,3,30,10.0,UC-Davis
+ACF Nationals 2021,6,20210604,Illinois,NA,Ohio State,L,235,240,9,3,9,160,17.78,UC-Davis
+ACF Nationals 2021,6,20210604,Ohio State,NA,Illinois,W,240,235,9,0,9,150,16.67,UC-Davis
+ACF Nationals 2021,6,20210605,Texas,NA,Chicago C,W,470,75,17,0,17,300,17.65,UC-Davis
+ACF Nationals 2021,6,20210605,Chicago C,D2,Texas,L,75,470,3,1,3,50,16.67,UC-Davis
+ACF Nationals 2021,6,20210606,Maryland,NA,Columbia,L,135,305,6,1,6,80,13.33,UC-Davis
+ACF Nationals 2021,6,20210606,Columbia,NA,Maryland,W,305,135,12,1,12,190,15.83,UC-Davis
+ACF Nationals 2021,6,20210607,WUSTL,NA,Minnesota,W,240,140,10,2,10,150,15.0,UC-Davis
+ACF Nationals 2021,6,20210607,Minnesota,UG,WUSTL,L,140,240,7,4,7,90,12.86,UC-Davis
+ACF Nationals 2021,6,20210608,Florida,NA,Brown,W,280,130,12,4,12,180,15.0,UC-Davis
+ACF Nationals 2021,6,20210608,Brown,D2,Florida,L,130,280,5,2,5,90,18.0,UC-Davis
+ACF Nationals 2021,6,20210609,Princeton,UG,Chicago A,L,105,315,5,3,5,70,14.0,UC-Davis
+ACF Nationals 2021,6,20210609,Chicago A,NA,Princeton,W,315,105,13,1,13,190,14.62,UC-Davis
+ACF Nationals 2021,6,20210610,Stanford,NA,North Carolina,W,250,225,9,4,9,180,20.0,UC-Davis
+ACF Nationals 2021,6,20210610,North Carolina,NA,Stanford,L,225,250,10,1,10,130,13.0,UC-Davis
+ACF Nationals 2021,7,20210701,Chicago A,NA,Texas,L,250,270,9,4,9,180,20.0,Editors 1
+ACF Nationals 2021,7,20210701,Texas,NA,Chicago A,W,270,250,11,2,11,170,15.45,Editors 1
+ACF Nationals 2021,7,20210702,Georgia Tech,NA,Harvard A,L,150,215,8,4,8,90,11.25,Editors 1
+ACF Nationals 2021,7,20210702,Harvard A,NA,Georgia Tech,W,215,150,9,1,9,130,14.44,Editors 1
+ACF Nationals 2021,7,20210703,Stanford,NA,Ohio State,L,215,285,9,3,9,140,15.56,Editors 1
+ACF Nationals 2021,7,20210703,Ohio State,NA,Stanford,W,285,215,11,1,11,180,16.36,Editors 1
+ACF Nationals 2021,7,20210704,Columbia,NA,WUSTL,W,290,120,11,2,11,190,17.27,Editors 1
+ACF Nationals 2021,7,20210704,WUSTL,NA,Columbia,L,120,290,8,4,8,60,7.5,Editors 1
+ACF Nationals 2021,7,20210705,Maryland,NA,Florida,L,270,280,9,0,9,180,20.0,Editors 1
+ACF Nationals 2021,7,20210705,Florida,NA,Maryland,W,280,270,11,4,11,190,17.27,Editors 1
+ACF Nationals 2021,7,20210706,Chicago C,D2,Brown,L,175,205,9,1,9,90,10.0,Editors 1
+ACF Nationals 2021,7,20210706,Brown,D2,Chicago C,W,205,175,9,3,9,130,14.44,Editors 1
+ACF Nationals 2021,7,20210707,Minnesota,UG,Vanderbilt,W,150,145,9,4,9,80,8.89,Editors 1
+ACF Nationals 2021,7,20210707,Vanderbilt,UG,Minnesota,L,145,150,6,1,6,90,15.0,Editors 1
+ACF Nationals 2021,7,20210708,Chicago B,NA,Northwestern,W,180,170,11,4,10,90,9.0,Editors 1
+ACF Nationals 2021,7,20210708,Northwestern,NA,Chicago B,L,170,180,8,2,8,100,12.5,Editors 1
+ACF Nationals 2021,7,20210709,Harvard B,UG,UC-Berkeley,L,110,230,5,0,5,60,12.0,Editors 1
+ACF Nationals 2021,7,20210709,UC-Berkeley,NA,Harvard B,W,230,110,11,6,11,150,13.64,Editors 1
+ACF Nationals 2021,7,20210710,Princeton,UG,Yale,L,65,315,4,1,4,30,7.5,Editors 1
+ACF Nationals 2021,7,20210710,Yale,UG,Princeton,W,315,65,14,3,14,190,13.57,Editors 1
+ACF Nationals 2021,8,20210801,Illinois,NA,North Carolina,W,295,140,10,3,10,210,21.0,Editors 2
+ACF Nationals 2021,8,20210801,North Carolina,NA,Illinois,L,140,295,6,2,6,90,15.0,Editors 2
+ACF Nationals 2021,8,20210802,Stanford,NA,Chicago A,W,420,175,14,2,14,290,20.71,Editors 2
+ACF Nationals 2021,8,20210802,Chicago A,NA,Stanford,L,175,420,6,1,6,120,20.0,Editors 2
+ACF Nationals 2021,8,20210803,Georgia Tech,NA,Florida,L,110,385,5,2,5,70,14.0,Editors 2
+ACF Nationals 2021,8,20210803,Florida,NA,Georgia Tech,W,385,110,13,3,13,270,20.77,Editors 2
+ACF Nationals 2021,8,20210804,Columbia,NA,Ohio State,W,270,170,12,2,12,160,13.33,Editors 2
+ACF Nationals 2021,8,20210804,Ohio State,NA,Columbia,L,170,270,6,2,6,120,20.0,Editors 2
+ACF Nationals 2021,8,20210805,Cornell,UG,MIT,W,280,185,12,2,12,170,14.17,Editors 2
+ACF Nationals 2021,8,20210805,MIT,NA,Cornell,L,185,280,7,3,7,130,18.57,Editors 2
+ACF Nationals 2021,8,20210806,UC-Berkeley,NA,Princeton,W,325,70,13,3,13,210,16.15,Editors 2
+ACF Nationals 2021,8,20210806,Princeton,UG,UC-Berkeley,L,70,325,3,0,3,40,13.33,Editors 2
+ACF Nationals 2021,8,20210807,Harvard A,NA,WUSTL,W,215,200,8,1,8,140,17.5,Editors 2
+ACF Nationals 2021,8,20210807,WUSTL,NA,Harvard A,L,200,215,8,4,8,140,17.5,Editors 2
+ACF Nationals 2021,8,20210808,Minnesota,UG,Chicago B,L,175,235,7,1,7,110,15.71,Editors 2
+ACF Nationals 2021,8,20210808,Chicago B,NA,Minnesota,W,235,175,9,3,9,160,17.78,Editors 2
+ACF Nationals 2021,8,20210809,Yale,UG,Northwestern,L,150,200,6,0,6,90,15.0,Editors 2
+ACF Nationals 2021,8,20210809,Northwestern,NA,Yale,W,200,150,9,6,9,140,15.56,Editors 2
+ACF Nationals 2021,8,20210810,Harvard B,UG,Brown,L,185,195,9,1,9,100,11.11,Editors 2
+ACF Nationals 2021,8,20210810,Brown,D2,Harvard B,W,195,185,8,3,8,130,16.25,Editors 2
+ACF Nationals 2021,9,20210901,Stanford,NA,Florida,L,180,285,8,6,8,130,16.25,Editors 3
+ACF Nationals 2021,9,20210901,Florida,NA,Stanford,W,285,180,10,1,10,190,19.0,Editors 3
+ACF Nationals 2021,9,20210902,Maryland,NA,WUSTL,W,280,90,11,2,11,180,16.36,Editors 3
+ACF Nationals 2021,9,20210902,WUSTL,NA,Maryland,L,90,280,5,6,5,70,14.0,Editors 3
+ACF Nationals 2021,9,20210903,Georgia Tech,NA,North Carolina,W,270,135,11,0,11,160,14.55,Editors 3
+ACF Nationals 2021,9,20210903,North Carolina,NA,Georgia Tech,L,135,270,7,3,7,80,11.43,Editors 3
+ACF Nationals 2021,9,20210904,Harvard A,NA,Chicago A,L,190,300,8,4,8,130,16.25,Editors 3
+ACF Nationals 2021,9,20210904,Chicago A,NA,Harvard A,W,300,190,10,0,10,200,20.0,Editors 3
+ACF Nationals 2021,9,20210905,Minnesota,UG,UC-Berkeley,L,80,350,5,2,5,40,8.0,Editors 3
+ACF Nationals 2021,9,20210905,UC-Berkeley,NA,Minnesota,W,350,80,12,4,12,250,20.83,Editors 3
+ACF Nationals 2021,9,20210906,Harvard B,UG,Cornell,L,145,270,7,1,7,80,11.43,Editors 3
+ACF Nationals 2021,9,20210906,Cornell,UG,Harvard B,W,270,145,10,2,10,180,18.0,Editors 3
+ACF Nationals 2021,9,20210907,Chicago B,NA,Brown,L,110,250,7,8,7,80,11.43,Editors 3
+ACF Nationals 2021,9,20210907,Brown,D2,Chicago B,W,250,110,11,2,11,150,13.64,Editors 3
+ACF Nationals 2021,9,20210908,Vanderbilt,UG,Northwestern,L,60,335,3,2,3,40,13.33,Editors 3
+ACF Nationals 2021,9,20210908,Northwestern,NA,Vanderbilt,W,335,60,13,1,13,210,16.15,Editors 3
+ACF Nationals 2021,9,20210909,Chicago C,D2,Princeton,L,145,195,8,3,8,80,10.0,Editors 3
+ACF Nationals 2021,9,20210909,Princeton,UG,Chicago C,W,195,145,8,1,8,120,15.0,Editors 3
+ACF Nationals 2021,9,20210910,Ohio State,NA,Texas,W,290,240,11,2,11,190,17.27,Editors 3
+ACF Nationals 2021,9,20210910,Texas,NA,Ohio State,L,240,290,9,4,9,170,18.89,Editors 3
+ACF Nationals 2021,10,20211001,Stanford,NA,Illinois,W,290,220,11,2,11,190,17.27,Chicago A
+ACF Nationals 2021,10,20211001,Illinois,NA,Stanford,L,220,290,9,2,9,140,15.56,Chicago A
+ACF Nationals 2021,10,20211002,Columbia,NA,North Carolina,W,220,200,9,2,9,140,15.56,Chicago A
+ACF Nationals 2021,10,20211002,North Carolina,NA,Columbia,L,200,220,9,2,9,120,13.33,Chicago A
+ACF Nationals 2021,10,20211003,Georgia Tech,NA,Maryland,L,150,325,6,0,6,90,15.0,Chicago A
+ACF Nationals 2021,10,20211003,Maryland,NA,Georgia Tech,W,325,150,13,1,13,200,15.38,Chicago A
+ACF Nationals 2021,10,20211004,Harvard A,NA,Ohio State,L,155,375,8,3,8,90,11.25,Chicago A
+ACF Nationals 2021,10,20211004,Ohio State,NA,Harvard A,W,375,155,12,1,12,260,21.67,Chicago A
+ACF Nationals 2021,10,20211005,WUSTL,NA,Texas,L,205,250,9,3,9,130,14.44,Chicago A
+ACF Nationals 2021,10,20211005,Texas,NA,WUSTL,W,250,205,9,0,9,160,17.78,Chicago A
+ACF Nationals 2021,10,20211006,Cornell,UG,Yale,L,180,265,8,2,8,110,13.75,Chicago A
+ACF Nationals 2021,10,20211006,Yale,UG,Cornell,W,265,180,11,1,11,160,14.55,Chicago A
+ACF Nationals 2021,10,20211007,MIT,NA,Chicago B,L,125,190,7,3,7,70,10.0,Chicago A
+ACF Nationals 2021,10,20211007,Chicago B,NA,MIT,W,190,125,9,2,9,110,12.22,Chicago A
+ACF Nationals 2021,10,20211008,Vanderbilt,UG,Princeton,W,145,120,8,1,8,70,8.75,Chicago A
+ACF Nationals 2021,10,20211008,Princeton,UG,Vanderbilt,L,120,145,8,2,8,50,6.25,Chicago A
+ACF Nationals 2021,10,20211009,Northwestern,NA,UC-Berkeley,W,205,195,9,1,9,120,13.33,Chicago A
+ACF Nationals 2021,10,20211009,UC-Berkeley,NA,Northwestern,L,195,205,8,3,8,130,16.25,Chicago A
+ACF Nationals 2021,10,20211010,Chicago C,D2,Harvard B,L,135,220,6,3,6,90,15.0,Chicago A
+ACF Nationals 2021,10,20211010,Harvard B,UG,Chicago C,W,220,135,11,2,11,120,10.91,Chicago A
+ACF Nationals 2021,11,20211101,Illinois,NA,Chicago A,W,230,225,11,4,11,140,12.73,Editors 4
+ACF Nationals 2021,11,20211101,Chicago A,NA,Illinois,L,225,230,8,3,8,160,20.0,Editors 4
+ACF Nationals 2021,11,20211102,Harvard A,NA,Maryland,L,200,235,8,2,8,130,16.25,Editors 4
+ACF Nationals 2021,11,20211102,Maryland,NA,Harvard A,W,235,200,10,3,10,150,15.0,Editors 4
+ACF Nationals 2021,11,20211103,Stanford,NA,Texas,W,475,30,18,1,18,300,16.67,Editors 4
+ACF Nationals 2021,11,20211103,Texas,NA,Stanford,L,30,475,2,4,2,30,15.0,Editors 4
+ACF Nationals 2021,11,20211104,WUSTL,NA,North Carolina,L,180,255,9,2,9,100,11.11,Editors 4
+ACF Nationals 2021,11,20211104,North Carolina,NA,WUSTL,W,255,180,11,3,11,160,14.55,Editors 4
+ACF Nationals 2021,11,20211105,Florida,NA,Ohio State,L,205,285,8,1,8,130,16.25,Editors 4
+ACF Nationals 2021,11,20211105,Ohio State,NA,Florida,W,285,205,12,1,12,170,14.17,Editors 4
+ACF Nationals 2021,11,20211106,Princeton,UG,Cornell,L,195,225,8,3,8,130,16.25,Editors 4
+ACF Nationals 2021,11,20211106,Cornell,UG,Princeton,W,225,195,10,1,10,130,13.0,Editors 4
+ACF Nationals 2021,11,20211107,Chicago B,NA,Vanderbilt,W,240,85,13,4,13,130,10.0,Editors 4
+ACF Nationals 2021,11,20211107,Vanderbilt,UG,Chicago B,L,85,240,4,1,4,50,12.5,Editors 4
+ACF Nationals 2021,11,20211108,Northwestern,NA,Brown,L,145,240,8,3,8,80,10.0,Editors 4
+ACF Nationals 2021,11,20211108,Brown,D2,Northwestern,W,240,145,11,2,11,140,12.73,Editors 4
+ACF Nationals 2021,11,20211109,Minnesota,UG,MIT,L,175,265,9,3,9,100,11.11,Editors 4
+ACF Nationals 2021,11,20211109,MIT,NA,Minnesota,W,265,175,11,3,11,170,15.45,Editors 4
+ACF Nationals 2021,11,20211110,Chicago C,D2,UC-Berkeley,L,180,240,9,2,9,100,11.11,Editors 4
+ACF Nationals 2021,11,20211110,UC-Berkeley,NA,Chicago C,W,240,180,10,2,10,150,15.0,Editors 4
+ACF Nationals 2021,12,20211201,Chicago B,NA,Yale,W,280,190,11,2,11,180,16.36,Berkeley
+ACF Nationals 2021,12,20211201,Yale,UG,Chicago B,L,190,280,7,0,7,120,17.14,Berkeley
+ACF Nationals 2021,12,20211202,Florida,NA,Texas,W,330,150,12,2,12,220,18.33,Berkeley
+ACF Nationals 2021,12,20211202,Texas,NA,Florida,L,150,330,6,4,6,110,18.33,Berkeley
+ACF Nationals 2021,12,20211203,Columbia,NA,Stanford,L,245,260,9,3,9,170,18.89,Berkeley
+ACF Nationals 2021,12,20211203,Stanford,NA,Columbia,W,260,245,9,2,9,180,20.0,Berkeley
+ACF Nationals 2021,12,20211204,Chicago C,D2,MIT,L,125,290,7,3,7,70,10.0,Berkeley
+ACF Nationals 2021,12,20211204,MIT,NA,Chicago C,W,290,125,11,2,11,190,17.27,Berkeley
+ACF Nationals 2021,12,20211205,Harvard B,UG,Princeton,L,110,240,5,2,5,70,14.0,Berkeley
+ACF Nationals 2021,12,20211205,Princeton,UG,Harvard B,W,240,110,10,0,10,140,14.0,Berkeley
+ACF Nationals 2021,12,20211206,Maryland,NA,Illinois,W,260,240,9,2,9,180,20.0,Berkeley
+ACF Nationals 2021,12,20211206,Illinois,NA,Maryland,L,240,260,9,4,9,170,18.89,Berkeley
+ACF Nationals 2021,12,20211207,WUSTL,NA,Georgia Tech,W,250,200,10,4,10,170,17.0,Berkeley
+ACF Nationals 2021,12,20211207,Georgia Tech,NA,WUSTL,L,200,250,8,2,8,130,16.25,Berkeley
+ACF Nationals 2021,12,20211208,Brown,D2,Vanderbilt,W,245,210,10,3,10,160,16.0,Berkeley
+ACF Nationals 2021,12,20211208,Vanderbilt,UG,Brown,L,210,245,8,0,8,130,16.25,Berkeley
+ACF Nationals 2021,13,20211301,Illinois,NA,Harvard A,L,130,370,6,4,6,90,15.0,Editors 5
+ACF Nationals 2021,13,20211301,Harvard A,NA,Illinois,W,370,130,14,0,14,230,16.43,Editors 5
+ACF Nationals 2021,13,20211302,Columbia,NA,Chicago A,W,365,120,14,1,14,230,16.43,Editors 5
+ACF Nationals 2021,13,20211302,Chicago A,NA,Columbia,L,120,365,6,4,6,80,13.33,Editors 5
+ACF Nationals 2021,13,20211303,Florida,NA,North Carolina,W,285,185,11,5,11,200,18.18,Editors 5
+ACF Nationals 2021,13,20211303,North Carolina,NA,Florida,L,185,285,8,5,8,130,16.25,Editors 5
+ACF Nationals 2021,13,20211304,Texas,NA,Georgia Tech,W,255,190,11,3,11,160,14.55,Editors 5
+ACF Nationals 2021,13,20211304,Georgia Tech,NA,Texas,L,190,255,8,2,8,120,15.0,Editors 5
+ACF Nationals 2021,13,20211305,Maryland,NA,Ohio State,L,180,295,7,6,7,140,20.0,Editors 5
+ACF Nationals 2021,13,20211305,Ohio State,NA,Maryland,W,295,180,12,1,12,180,15.0,Editors 5
+ACF Nationals 2021,13,20211306,Cornell,UG,Brown,L,205,260,9,3,9,130,14.44,Editors 5
+ACF Nationals 2021,13,20211306,Brown,D2,Cornell,W,260,205,10,2,10,170,17.0,Editors 5
+ACF Nationals 2021,13,20211307,MIT,NA,UC-Berkeley,L,175,305,8,3,8,110,13.75,Editors 5
+ACF Nationals 2021,13,20211307,UC-Berkeley,NA,MIT,W,305,175,11,1,11,200,18.18,Editors 5
+ACF Nationals 2021,13,20211308,Minnesota,UG,Yale,W,220,200,8,2,8,150,18.75,Editors 5
+ACF Nationals 2021,13,20211308,Yale,UG,Minnesota,L,200,220,9,2,9,120,13.33,Editors 5
+ACF Nationals 2021,13,20211309,Vanderbilt,UG,Harvard B,L,160,215,8,2,8,90,11.25,Editors 5
+ACF Nationals 2021,13,20211309,Harvard B,UG,Vanderbilt,W,215,160,9,1,9,130,14.44,Editors 5
+ACF Nationals 2021,13,20211310,Chicago C,D2,Northwestern,L,160,265,8,2,8,90,11.25,Editors 5
+ACF Nationals 2021,13,20211310,Northwestern,NA,Chicago C,W,265,160,11,3,11,170,15.45,Editors 5
+ACF Nationals 2021,14,20211401,UC-Berkeley,NA,Vanderbilt,W,305,50,12,3,12,200,16.67,Ohio State + Duke
+ACF Nationals 2021,14,20211401,Vanderbilt,UG,UC-Berkeley,L,50,305,3,4,3,40,13.33,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Princeton,UG,Chicago B,W,230,160,11,0,11,120,10.91,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Chicago B,NA,Princeton,L,160,230,8,2,8,90,11.25,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Minnesota,UG,Cornell,L,125,210,6,3,6,80,13.33,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Cornell,UG,Minnesota,W,210,125,9,2,9,130,14.44,Ohio State + Duke
+ACF Nationals 2021,14,20211404,Stanford,NA,WUSTL,W,335,190,13,1,13,210,16.15,Ohio State + Duke
+ACF Nationals 2021,14,20211404,WUSTL,NA,Stanford,L,190,335,6,2,6,140,23.33,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Texas,NA,Harvard A,W,295,155,10,1,10,200,20.0,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Harvard A,NA,Texas,L,155,295,7,5,7,110,15.71,Ohio State + Duke
+ACF Nationals 2021,14,20211406,North Carolina,NA,Chicago A,L,160,370,6,2,6,110,18.33,Ohio State + Duke
+ACF Nationals 2021,14,20211406,Chicago A,NA,North Carolina,W,370,160,14,2,14,240,17.14,Ohio State + Duke
+ACF Nationals 2021,14,20211407,Yale,UG,Harvard B,W,240,155,10,0,10,140,14.0,Ohio State + Duke
+ACF Nationals 2021,14,20211407,Harvard B,UG,Yale,L,155,240,7,1,7,90,12.86,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Columbia,NA,Georgia Tech,W,300,70,13,0,13,170,13.08,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Georgia Tech,NA,Columbia,L,70,300,4,4,4,50,12.5,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Florida,NA,Illinois,W,260,225,10,0,10,160,16.0,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Illinois,NA,Florida,L,225,260,10,7,10,160,16.0,Ohio State + Duke
+ACF Nationals 2021,14,20211410,MIT,NA,Brown,W,200,175,10,2,10,110,11.0,Ohio State + Duke
+ACF Nationals 2021,14,20211410,Brown,D2,MIT,L,175,200,6,5,6,140,23.33,Ohio State + Duke
+ACF Nationals 2021,15,20211501,Minnesota,UG,Harvard B,L,105,190,6,5,6,70,11.67,Editors 6
+ACF Nationals 2021,15,20211501,Harvard B,UG,Minnesota,W,190,105,9,2,9,110,12.22,Editors 6
+ACF Nationals 2021,15,20211502,Columbia,NA,Florida,L,210,310,9,6,9,150,16.67,Editors 6
+ACF Nationals 2021,15,20211502,Florida,NA,Columbia,W,310,210,11,2,11,210,19.09,Editors 6
+ACF Nationals 2021,15,20211503,Texas,NA,Illinois,L,155,345,7,1,7,90,12.86,Editors 6
+ACF Nationals 2021,15,20211503,Illinois,NA,Texas,W,345,155,12,5,12,250,20.83,Editors 6
+ACF Nationals 2021,15,20211504,Ohio State,NA,WUSTL,W,325,85,14,3,14,200,14.29,Editors 6
+ACF Nationals 2021,15,20211504,WUSTL,NA,Ohio State,L,85,325,5,5,5,60,12.0,Editors 6
+ACF Nationals 2021,15,20211505,Yale,UG,Brown,W,235,90,9,3,9,160,17.78,Editors 6
+ACF Nationals 2021,15,20211505,Brown,D2,Yale,L,90,235,6,6,6,60,10.0,Editors 6
+ACF Nationals 2021,15,20211506,Chicago C,D2,Cornell,L,165,170,8,3,8,100,12.5,Editors 6
+ACF Nationals 2021,15,20211506,Cornell,UG,Chicago C,W,170,165,8,2,8,100,12.5,Editors 6
+ACF Nationals 2021,15,20211507,Princeton,UG,Northwestern,L,180,205,8,0,8,100,12.5,Editors 6
+ACF Nationals 2021,15,20211507,Northwestern,NA,Princeton,W,205,180,9,5,9,140,15.56,Editors 6
+ACF Nationals 2021,15,20211508,Chicago A,NA,Georgia Tech,W,275,145,11,1,11,170,15.45,Editors 6
+ACF Nationals 2021,15,20211508,Georgia Tech,NA,Chicago A,L,145,275,7,3,7,90,12.86,Editors 6
+ACF Nationals 2021,15,20211509,Maryland,NA,North Carolina,W,185,180,9,3,9,110,12.22,Editors 6
+ACF Nationals 2021,15,20211509,North Carolina,NA,Maryland,L,180,185,8,4,8,120,15.0,Editors 6
+ACF Nationals 2021,15,20211510,MIT,NA,Vanderbilt,W,230,155,10,4,10,150,15.0,Editors 6
+ACF Nationals 2021,15,20211510,Vanderbilt,UG,MIT,L,155,230,8,1,8,80,10.0,Editors 6
+ACF Nationals 2021,16,20211601,Illinois,NA,Columbia,W,370,195,13,2,13,250,19.23,Editors 8
+ACF Nationals 2021,16,20211601,Columbia,NA,Illinois,L,195,370,7,1,7,130,18.57,Editors 8
+ACF Nationals 2021,16,20211602,Cornell,UG,Northwestern,W,235,160,9,1,9,150,16.67,Editors 8
+ACF Nationals 2021,16,20211602,Northwestern,NA,Cornell,L,160,235,7,4,7,110,15.71,Editors 8
+ACF Nationals 2021,16,20211603,Chicago B,NA,Harvard B,W,210,185,10,4,10,130,13.0,Editors 8
+ACF Nationals 2021,16,20211603,Harvard B,UG,Chicago B,L,185,210,9,1,9,100,11.11,Editors 8
+ACF Nationals 2021,16,20211604,Harvard A,NA,Florida,W,295,175,12,3,12,190,15.83,Editors 8
+ACF Nationals 2021,16,20211604,Florida,NA,Harvard A,L,175,295,8,1,8,100,12.5,Editors 8
+ACF Nationals 2021,16,20211605,Maryland,NA,Chicago A,L,145,320,6,3,6,100,16.67,Editors 8
+ACF Nationals 2021,16,20211605,Chicago A,NA,Maryland,W,320,145,11,2,11,220,20.0,Editors 8
+ACF Nationals 2021,16,20211606,Ohio State,NA,North Carolina,W,300,145,12,2,12,190,15.83,Editors 8
+ACF Nationals 2021,16,20211606,North Carolina,NA,Ohio State,L,145,300,7,3,7,90,12.86,Editors 8
+ACF Nationals 2021,16,20211607,Stanford,NA,Georgia Tech,W,365,140,13,1,13,240,18.46,Editors 8
+ACF Nationals 2021,16,20211607,Georgia Tech,NA,Stanford,L,140,365,6,0,6,80,13.33,Editors 8
+ACF Nationals 2021,16,20211608,Yale,UG,MIT,L,160,230,8,2,8,90,11.25,Editors 8
+ACF Nationals 2021,16,20211608,MIT,NA,Yale,W,230,160,10,2,10,140,14.0,Editors 8
+ACF Nationals 2021,16,20211609,Minnesota,UG,Chicago C,L,100,220,5,6,5,80,16.0,Editors 8
+ACF Nationals 2021,16,20211609,Chicago C,D2,Minnesota,W,220,100,9,0,9,130,14.44,Editors 8
+ACF Nationals 2021,16,20211610,UC-Berkeley,NA,Brown,L,200,265,9,6,9,140,15.56,Editors 8
+ACF Nationals 2021,16,20211610,Brown,D2,UC-Berkeley,W,265,200,11,1,11,160,14.55,Editors 8
+ACF Nationals 2021,17,20211701,Stanford,NA,Maryland,W,395,135,14,1,14,260,18.57,Editors 9
+ACF Nationals 2021,17,20211701,Maryland,NA,Stanford,L,135,395,6,3,6,90,15.0,Editors 9
+ACF Nationals 2021,17,20211702,Minnesota,UG,Northwestern,L,170,190,8,2,8,100,12.5,Editors 9
+ACF Nationals 2021,17,20211702,Northwestern,NA,Minnesota,W,190,170,9,2,9,110,12.22,Editors 9
+ACF Nationals 2021,17,20211703,Texas,NA,North Carolina,W,210,205,9,4,9,140,15.56,Editors 9
+ACF Nationals 2021,17,20211703,North Carolina,NA,Texas,L,205,210,9,1,9,120,13.33,Editors 9
+ACF Nationals 2021,17,20211704,Ohio State,NA,Chicago A,L,195,315,7,1,7,130,18.57,Editors 9
+ACF Nationals 2021,17,20211704,Chicago A,NA,Ohio State,W,315,195,12,3,12,210,17.5,Editors 9
+ACF Nationals 2021,17,20211705,WUSTL,NA,Illinois,L,180,245,8,2,8,110,13.75,Editors 9
+ACF Nationals 2021,17,20211705,Illinois,NA,WUSTL,W,245,180,10,5,10,170,17.0,Editors 9
+ACF Nationals 2021,17,20211706,Harvard A,NA,Columbia,L,210,285,9,4,9,140,15.56,Editors 9
+ACF Nationals 2021,17,20211706,Columbia,NA,Harvard A,W,285,210,10,1,10,190,19.0,Editors 9
+ACF Nationals 2021,17,20211707,Yale,UG,UC-Berkeley,L,185,230,8,1,8,110,13.75,Editors 9
+ACF Nationals 2021,17,20211707,UC-Berkeley,NA,Yale,W,230,185,10,6,10,160,16.0,Editors 9
+ACF Nationals 2021,17,20211708,Chicago C,D2,Chicago B,W,155,115,8,5,8,100,12.5,Editors 9
+ACF Nationals 2021,17,20211708,Chicago B,NA,Chicago C,L,115,155,6,5,6,80,13.33,Editors 9
+ACF Nationals 2021,17,20211709,MIT,NA,Princeton,W,290,90,12,0,12,170,14.17,Editors 9
+ACF Nationals 2021,17,20211709,Princeton,UG,MIT,L,90,290,4,2,4,60,15.0,Editors 9
+ACF Nationals 2021,17,20211710,Vanderbilt,UG,Cornell,L,125,255,6,1,6,70,11.67,Editors 9
+ACF Nationals 2021,17,20211710,Cornell,UG,Vanderbilt,W,255,125,11,3,11,160,14.55,Editors 9
+ACF Nationals 2021,18,20211801,Ohio State,NA,Columbia,L,110,375,5,4,5,80,16.0,Editors 11
+ACF Nationals 2021,18,20211801,Columbia,NA,Ohio State,W,375,110,14,1,14,240,17.14,Editors 11
+ACF Nationals 2021,19,20211901,Stanford,NA,Columbia,L,235,245,10,5,10,160,16.0,Editors 10
+ACF Nationals 2021,19,20211901,Columbia,NA,Stanford,W,245,235,8,1,8,170,21.25,Editors 10
+ACF Nationals 2021,20,20212001,Columbia,NA,Florida,W,320,130,12,2,12,210,17.5,Finals 1
+ACF Nationals 2021,20,20212001,Florida,NA,Columbia,L,130,320,5,2,5,90,18.0,Finals 1
+ACF Nationals 2021,20,20212002,Brown,D2,Cornell,W,270,125,12,2,12,160,13.33,Finals 1
+ACF Nationals 2021,20,20212002,Cornell,UG,Brown,L,125,270,6,1,6,70,11.67,Finals 1
+ACF Nationals 2021,21,20212101,Florida,NA,Columbia,W,420,105,15,0,15,270,18.0,Finals 2
+ACF Nationals 2021,21,20212101,Columbia,NA,Florida,L,105,420,5,3,5,70,14.0,Finals 2
 ACF Nationals 2019,1,20190101,Columbia A,NA,UCLA,W,335,165,12,3,12,230,19.17,Yale A + Michigan
 ACF Nationals 2019,1,20190101,UCLA,UG,Columbia A,L,165,335,8,3,8,100,12.5,Yale A + Michigan
 ACF Nationals 2019,1,20190102,Minnesota A,NA,MIT A,W,445,45,15,1,15,300,20,Yale A + Michigan
