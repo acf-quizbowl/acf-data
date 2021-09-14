@@ -1,4 +1,1360 @@
 tournament,round,game_id,team,player,tossups,negs,pts,opponent,packet
+ACF Nationals 2021,1,20210101,Stanford,Tim Morrison,6,1,55,Chicago B,Texas
+ACF Nationals 2021,1,20210101,Stanford,Natan Holtzman,3,1,25,Chicago B,Texas
+ACF Nationals 2021,1,20210101,Stanford,Ethan Strombeck,3,0,30,Chicago B,Texas
+ACF Nationals 2021,1,20210101,Stanford,Eric Wolfsberg,1,0,10,Chicago B,Texas
+ACF Nationals 2021,1,20210101,Chicago B,John Marvin,2,1,15,Stanford,Texas
+ACF Nationals 2021,1,20210101,Chicago B,Sam Moore,1,0,10,Stanford,Texas
+ACF Nationals 2021,1,20210101,Chicago B,Wonyoung Jang,0,0,0,Stanford,Texas
+ACF Nationals 2021,1,20210101,Chicago B,Walker Combs,1,0,10,Stanford,Texas
+ACF Nationals 2021,1,20210102,Illinois,Iain Carpenter,3,2,20,Harvard B,Texas
+ACF Nationals 2021,1,20210102,Illinois,Mitch McCullar,2,1,15,Harvard B,Texas
+ACF Nationals 2021,1,20210102,Illinois,Olivia Kiser,3,0,30,Harvard B,Texas
+ACF Nationals 2021,1,20210102,Illinois,Auroni Gupta,6,0,60,Harvard B,Texas
+ACF Nationals 2021,1,20210102,Harvard B,Mazin Omer,2,0,20,Illinois,Texas
+ACF Nationals 2021,1,20210102,Harvard B,Christopher Gilmer-Hill,3,0,30,Illinois,Texas
+ACF Nationals 2021,1,20210103,Northwestern,Rohin Devanathan,1,0,10,Ohio State,Texas
+ACF Nationals 2021,1,20210103,Northwestern,Christopher Sims,3,0,30,Ohio State,Texas
+ACF Nationals 2021,1,20210103,Northwestern,Andrew Salij,1,1,5,Ohio State,Texas
+ACF Nationals 2021,1,20210103,Northwestern,Nikhil Chellam,3,1,25,Ohio State,Texas
+ACF Nationals 2021,1,20210103,Ohio State,Eddy Liu,1,0,10,Northwestern,Texas
+ACF Nationals 2021,1,20210103,Ohio State,Roxanne Tang,0,1,-5,Northwestern,Texas
+ACF Nationals 2021,1,20210103,Ohio State,Chris Ray,5,1,45,Northwestern,Texas
+ACF Nationals 2021,1,20210103,Ohio State,Clark Smith,4,1,35,Northwestern,Texas
+ACF Nationals 2021,1,20210104,Vanderbilt,Aidan Fein,1,0,10,Maryland,Texas
+ACF Nationals 2021,1,20210104,Vanderbilt,Jacob Augelli,4,0,40,Maryland,Texas
+ACF Nationals 2021,1,20210104,Vanderbilt,Michael Ponce,2,0,20,Maryland,Texas
+ACF Nationals 2021,1,20210104,Vanderbilt,Jonathan Caldwell,1,1,5,Maryland,Texas
+ACF Nationals 2021,1,20210104,Maryland,Vishwa Shanmugam,3,2,20,Vanderbilt,Texas
+ACF Nationals 2021,1,20210104,Maryland,Connor Mayers,0,0,0,Vanderbilt,Texas
+ACF Nationals 2021,1,20210104,Maryland,Caleb Kendrick,4,0,40,Vanderbilt,Texas
+ACF Nationals 2021,1,20210104,Maryland,Graham Reid,4,0,40,Vanderbilt,Texas
+ACF Nationals 2021,1,20210105,Columbia,Will Alston,8,1,75,Yale,Texas
+ACF Nationals 2021,1,20210105,Columbia,Noah Chen,1,0,10,Yale,Texas
+ACF Nationals 2021,1,20210105,Columbia,Noah Sheidlower,1,0,10,Yale,Texas
+ACF Nationals 2021,1,20210105,Columbia,Caroline Mao,2,0,20,Yale,Texas
+ACF Nationals 2021,1,20210105,Yale,Hasna Karim,1,0,10,Columbia,Texas
+ACF Nationals 2021,1,20210105,Yale,Daniel Sheinberg,2,0,20,Columbia,Texas
+ACF Nationals 2021,1,20210105,Yale,Matt Pecoraro,2,0,20,Columbia,Texas
+ACF Nationals 2021,1,20210105,Yale,Michał Gerasimiuk,3,2,20,Columbia,Texas
+ACF Nationals 2021,1,20210106,Princeton,Eve Fleisig,2,0,20,Florida,Texas
+ACF Nationals 2021,1,20210106,Princeton,Nathaniel Hull,1,0,10,Florida,Texas
+ACF Nationals 2021,1,20210106,Princeton,Maya Chande,0,0,0,Florida,Texas
+ACF Nationals 2021,1,20210106,Princeton,Samuel Lockwood,0,0,0,Florida,Texas
+ACF Nationals 2021,1,20210106,Florida,Taylor Harvey,5,0,50,Princeton,Texas
+ACF Nationals 2021,1,20210106,Florida,Jonathen Settle,4,0,40,Princeton,Texas
+ACF Nationals 2021,1,20210106,Florida,Tracy Mirkin,7,0,70,Princeton,Texas
+ACF Nationals 2021,1,20210106,Florida,Leo Law,0,0,0,Princeton,Texas
+ACF Nationals 2021,1,20210107,Brown,Anson Berns,6,1,55,Minnesota,Texas
+ACF Nationals 2021,1,20210107,Brown,Jason Hong,4,0,40,Minnesota,Texas
+ACF Nationals 2021,1,20210107,Brown,Michael Li,1,0,10,Minnesota,Texas
+ACF Nationals 2021,1,20210107,Brown,Walter Zhang,1,0,10,Minnesota,Texas
+ACF Nationals 2021,1,20210107,Minnesota,Ben Weiner,1,0,10,Brown,Texas
+ACF Nationals 2021,1,20210107,Minnesota,Davis Everson-Rose,1,2,0,Brown,Texas
+ACF Nationals 2021,1,20210107,Minnesota,Ethan Ashbrook,4,1,35,Brown,Texas
+ACF Nationals 2021,1,20210107,Minnesota,Urbas Ekka,0,0,0,Brown,Texas
+ACF Nationals 2021,1,20210108,Chicago A,Matthew Lehmann,3,1,25,WUSTL,Texas
+ACF Nationals 2021,1,20210108,Chicago A,Adam Fine,3,0,30,WUSTL,Texas
+ACF Nationals 2021,1,20210108,Chicago A,Alston Boyd,3,0,30,WUSTL,Texas
+ACF Nationals 2021,1,20210108,Chicago A,Ben Miller,0,0,0,WUSTL,Texas
+ACF Nationals 2021,1,20210108,WUSTL,Charles Hang,6,0,60,Chicago A,Texas
+ACF Nationals 2021,1,20210108,WUSTL,Athena Kern,4,0,40,Chicago A,Texas
+ACF Nationals 2021,1,20210108,WUSTL,Jeremy Cummings,0,0,0,Chicago A,Texas
+ACF Nationals 2021,1,20210108,WUSTL,Paul Lee,1,1,5,Chicago A,Texas
+ACF Nationals 2021,1,20210109,UC-Berkeley,Michael Coates,3,0,30,Cornell,Texas
+ACF Nationals 2021,1,20210109,UC-Berkeley,Rahul Keyal,4,0,40,Cornell,Texas
+ACF Nationals 2021,1,20210109,UC-Berkeley,James Malouf,2,1,15,Cornell,Texas
+ACF Nationals 2021,1,20210109,UC-Berkeley,Shahar Schwartz,2,1,15,Cornell,Texas
+ACF Nationals 2021,1,20210109,Cornell,Raymond Wang,2,1,15,UC-Berkeley,Texas
+ACF Nationals 2021,1,20210109,Cornell,Dan Ni,1,1,5,UC-Berkeley,Texas
+ACF Nationals 2021,1,20210109,Cornell,Allan Lee,1,0,10,UC-Berkeley,Texas
+ACF Nationals 2021,1,20210109,Cornell,Jonathan Tran,3,0,30,UC-Berkeley,Texas
+ACF Nationals 2021,1,20210110,North Carolina,Vincent Du,6,1,55,Harvard A,Texas
+ACF Nationals 2021,1,20210110,North Carolina,Henry Goff,1,0,10,Harvard A,Texas
+ACF Nationals 2021,1,20210110,North Carolina,Grant Peet,2,1,15,Harvard A,Texas
+ACF Nationals 2021,1,20210110,North Carolina,Kevin Thomas,2,1,15,Harvard A,Texas
+ACF Nationals 2021,1,20210110,Harvard A,Ricky Li,0,1,-5,North Carolina,Texas
+ACF Nationals 2021,1,20210110,Harvard A,Kelvin Li,1,1,5,North Carolina,Texas
+ACF Nationals 2021,1,20210110,Harvard A,Jason Golfinos,6,0,60,North Carolina,Texas
+ACF Nationals 2021,1,20210110,Harvard A,Thomas Gioia,1,1,5,North Carolina,Texas
+ACF Nationals 2021,2,20210201,Vanderbilt,Aidan Fein,1,0,10,Texas,Florida
+ACF Nationals 2021,2,20210201,Vanderbilt,Jacob Augelli,1,1,5,Texas,Florida
+ACF Nationals 2021,2,20210201,Vanderbilt,Michael Ponce,1,0,10,Texas,Florida
+ACF Nationals 2021,2,20210201,Vanderbilt,Jonathan Caldwell,1,0,10,Texas,Florida
+ACF Nationals 2021,2,20210201,Texas,William Golden,7,1,65,Vanderbilt,Florida
+ACF Nationals 2021,2,20210201,Texas,Jaskaran Singh,2,1,15,Vanderbilt,Florida
+ACF Nationals 2021,2,20210201,Texas,Ryan Humphrey,2,0,20,Vanderbilt,Florida
+ACF Nationals 2021,2,20210201,Texas,Bradley McLain,2,0,20,Vanderbilt,Florida
+ACF Nationals 2021,2,20210202,Chicago A,Matthew Lehmann,7,2,60,Minnesota,Florida
+ACF Nationals 2021,2,20210202,Chicago A,Adam Fine,2,0,20,Minnesota,Florida
+ACF Nationals 2021,2,20210202,Chicago A,Alston Boyd,1,0,10,Minnesota,Florida
+ACF Nationals 2021,2,20210202,Chicago A,Ben Miller,1,0,10,Minnesota,Florida
+ACF Nationals 2021,2,20210202,Minnesota,Ben Weiner,0,0,0,Chicago A,Florida
+ACF Nationals 2021,2,20210202,Minnesota,Davis Everson-Rose,4,4,20,Chicago A,Florida
+ACF Nationals 2021,2,20210202,Minnesota,Ethan Ashbrook,2,0,20,Chicago A,Florida
+ACF Nationals 2021,2,20210202,Minnesota,Urbas Ekka,0,0,0,Chicago A,Florida
+ACF Nationals 2021,2,20210203,WUSTL,Charles Hang,3,3,15,Princeton,Florida
+ACF Nationals 2021,2,20210203,WUSTL,Athena Kern,3,2,20,Princeton,Florida
+ACF Nationals 2021,2,20210203,WUSTL,Jeremy Cummings,2,0,20,Princeton,Florida
+ACF Nationals 2021,2,20210203,WUSTL,Paul Lee,1,0,10,Princeton,Florida
+ACF Nationals 2021,2,20210203,Princeton,Eve Fleisig,2,0,20,WUSTL,Florida
+ACF Nationals 2021,2,20210203,Princeton,Nathaniel Hull,2,1,15,WUSTL,Florida
+ACF Nationals 2021,2,20210203,Princeton,Maya Chande,1,0,10,WUSTL,Florida
+ACF Nationals 2021,2,20210203,Princeton,Samuel Lockwood,0,0,0,WUSTL,Florida
+ACF Nationals 2021,2,20210204,Georgia Tech,Tejas Santanam,1,0,10,Illinois,Florida
+ACF Nationals 2021,2,20210204,Georgia Tech,Hari Parameswaran,1,2,0,Illinois,Florida
+ACF Nationals 2021,2,20210204,Georgia Tech,Sarah Mueller,0,2,-10,Illinois,Florida
+ACF Nationals 2021,2,20210204,Georgia Tech,S.A. Shenoy,0,0,0,Illinois,Florida
+ACF Nationals 2021,2,20210204,Illinois,Iain Carpenter,3,3,15,Georgia Tech,Florida
+ACF Nationals 2021,2,20210204,Illinois,Mitch McCullar,1,1,5,Georgia Tech,Florida
+ACF Nationals 2021,2,20210204,Illinois,Olivia Kiser,5,0,50,Georgia Tech,Florida
+ACF Nationals 2021,2,20210204,Illinois,Auroni Gupta,5,0,50,Georgia Tech,Florida
+ACF Nationals 2021,2,20210205,Yale,Hasna Karim,0,0,0,Maryland,Florida
+ACF Nationals 2021,2,20210205,Yale,Daniel Sheinberg,5,0,50,Maryland,Florida
+ACF Nationals 2021,2,20210205,Yale,Matt Pecoraro,0,0,0,Maryland,Florida
+ACF Nationals 2021,2,20210205,Yale,Michał Gerasimiuk,0,0,0,Maryland,Florida
+ACF Nationals 2021,2,20210205,Maryland,Vishwa Shanmugam,5,1,45,Yale,Florida
+ACF Nationals 2021,2,20210205,Maryland,Connor Mayers,0,0,0,Yale,Florida
+ACF Nationals 2021,2,20210205,Maryland,Caleb Kendrick,4,1,35,Yale,Florida
+ACF Nationals 2021,2,20210205,Maryland,Graham Reid,2,0,20,Yale,Florida
+ACF Nationals 2021,2,20210206,Columbia,Will Alston,10,2,90,Chicago C,Florida
+ACF Nationals 2021,2,20210206,Columbia,Noah Chen,3,0,30,Chicago C,Florida
+ACF Nationals 2021,2,20210206,Columbia,Noah Sheidlower,2,0,20,Chicago C,Florida
+ACF Nationals 2021,2,20210206,Columbia,Caroline Mao,1,0,10,Chicago C,Florida
+ACF Nationals 2021,2,20210206,Chicago C,Vivek Sasse,2,0,20,Columbia,Florida
+ACF Nationals 2021,2,20210206,Chicago C,Robert Condron,0,1,-5,Columbia,Florida
+ACF Nationals 2021,2,20210206,Chicago C,Daniel Yang,0,0,0,Columbia,Florida
+ACF Nationals 2021,2,20210206,Chicago C,Yohhan Kumarasinghe,0,2,-10,Columbia,Florida
+ACF Nationals 2021,2,20210207,Chicago B,John Marvin,5,3,35,North Carolina,Florida
+ACF Nationals 2021,2,20210207,Chicago B,Sam Moore,1,1,5,North Carolina,Florida
+ACF Nationals 2021,2,20210207,Chicago B,Wonyoung Jang,1,0,10,North Carolina,Florida
+ACF Nationals 2021,2,20210207,Chicago B,Walker Combs,2,0,20,North Carolina,Florida
+ACF Nationals 2021,2,20210207,North Carolina,Vincent Du,3,0,30,Chicago B,Florida
+ACF Nationals 2021,2,20210207,North Carolina,Henry Goff,2,0,20,Chicago B,Florida
+ACF Nationals 2021,2,20210207,North Carolina,Grant Peet,2,2,10,Chicago B,Florida
+ACF Nationals 2021,2,20210207,North Carolina,Kevin Thomas,1,0,10,Chicago B,Florida
+ACF Nationals 2021,2,20210208,Stanford,Tim Morrison,8,0,80,Cornell,Florida
+ACF Nationals 2021,2,20210208,Stanford,Natan Holtzman,3,1,25,Cornell,Florida
+ACF Nationals 2021,2,20210208,Stanford,Ethan Strombeck,2,0,20,Cornell,Florida
+ACF Nationals 2021,2,20210208,Stanford,Eric Wolfsberg,2,1,15,Cornell,Florida
+ACF Nationals 2021,2,20210208,Cornell,Raymond Wang,1,0,10,Stanford,Florida
+ACF Nationals 2021,2,20210208,Cornell,Dan Ni,1,1,5,Stanford,Florida
+ACF Nationals 2021,2,20210208,Cornell,Allan Lee,0,0,0,Stanford,Florida
+ACF Nationals 2021,2,20210208,Cornell,Jonathan Tran,2,0,20,Stanford,Florida
+ACF Nationals 2021,2,20210209,Northwestern,Rohin Devanathan,2,2,10,MIT,Florida
+ACF Nationals 2021,2,20210209,Northwestern,Christopher Sims,3,1,25,MIT,Florida
+ACF Nationals 2021,2,20210209,Northwestern,Andrew Salij,0,2,-10,MIT,Florida
+ACF Nationals 2021,2,20210209,Northwestern,Nikhil Chellam,1,2,0,MIT,Florida
+ACF Nationals 2021,2,20210209,MIT,David Gomez,2,0,20,Northwestern,Florida
+ACF Nationals 2021,2,20210209,MIT,Katherine Lei,2,0,20,Northwestern,Florida
+ACF Nationals 2021,2,20210209,MIT,Swapnil Garg,2,0,20,Northwestern,Florida
+ACF Nationals 2021,2,20210209,MIT,Grace Liu,6,1,55,Northwestern,Florida
+ACF Nationals 2021,2,20210210,Harvard B,Mazin Omer,0,0,0,Ohio State,Florida
+ACF Nationals 2021,2,20210210,Harvard B,Christopher Gilmer-Hill,2,2,10,Ohio State,Florida
+ACF Nationals 2021,2,20210210,Ohio State,Eddy Liu,1,0,10,Harvard B,Florida
+ACF Nationals 2021,2,20210210,Ohio State,Roxanne Tang,0,0,0,Harvard B,Florida
+ACF Nationals 2021,2,20210210,Ohio State,Chris Ray,10,0,100,Harvard B,Florida
+ACF Nationals 2021,2,20210210,Ohio State,Clark Smith,3,1,25,Harvard B,Florida
+ACF Nationals 2021,3,20210301,Harvard A,Ricky Li,5,1,45,Chicago B,Illinois
+ACF Nationals 2021,3,20210301,Harvard A,Kelvin Li,2,0,20,Chicago B,Illinois
+ACF Nationals 2021,3,20210301,Harvard A,Jason Golfinos,6,0,60,Chicago B,Illinois
+ACF Nationals 2021,3,20210301,Harvard A,Thomas Gioia,1,0,10,Chicago B,Illinois
+ACF Nationals 2021,3,20210301,Chicago B,John Marvin,1,1,5,Harvard A,Illinois
+ACF Nationals 2021,3,20210301,Chicago B,Sam Moore,0,1,-5,Harvard A,Illinois
+ACF Nationals 2021,3,20210301,Chicago B,Wonyoung Jang,2,0,20,Harvard A,Illinois
+ACF Nationals 2021,3,20210301,Chicago B,Walker Combs,0,1,-5,Harvard A,Illinois
+ACF Nationals 2021,3,20210302,Yale,Hasna Karim,2,0,20,Texas,Illinois
+ACF Nationals 2021,3,20210302,Yale,Daniel Sheinberg,5,0,50,Texas,Illinois
+ACF Nationals 2021,3,20210302,Yale,Matt Pecoraro,2,0,20,Texas,Illinois
+ACF Nationals 2021,3,20210302,Yale,Michał Gerasimiuk,1,0,10,Texas,Illinois
+ACF Nationals 2021,3,20210302,Texas,William Golden,2,0,20,Yale,Illinois
+ACF Nationals 2021,3,20210302,Texas,Jaskaran Singh,3,0,30,Yale,Illinois
+ACF Nationals 2021,3,20210302,Texas,Ryan Humphrey,1,0,10,Yale,Illinois
+ACF Nationals 2021,3,20210302,Texas,Bradley McLain,2,0,20,Yale,Illinois
+ACF Nationals 2021,3,20210303,Minnesota,Ben Weiner,2,0,20,Princeton,Illinois
+ACF Nationals 2021,3,20210303,Minnesota,Davis Everson-Rose,4,1,35,Princeton,Illinois
+ACF Nationals 2021,3,20210303,Minnesota,Ethan Ashbrook,4,0,40,Princeton,Illinois
+ACF Nationals 2021,3,20210303,Minnesota,Urbas Ekka,1,0,10,Princeton,Illinois
+ACF Nationals 2021,3,20210303,Princeton,Eve Fleisig,0,0,0,Minnesota,Illinois
+ACF Nationals 2021,3,20210303,Princeton,Nathaniel Hull,5,0,50,Minnesota,Illinois
+ACF Nationals 2021,3,20210303,Princeton,Maya Chande,0,1,-5,Minnesota,Illinois
+ACF Nationals 2021,3,20210303,Princeton,Samuel Lockwood,0,0,0,Minnesota,Illinois
+ACF Nationals 2021,3,20210304,Florida,Taylor Harvey,5,0,50,WUSTL,Illinois
+ACF Nationals 2021,3,20210304,Florida,Jonathen Settle,1,1,5,WUSTL,Illinois
+ACF Nationals 2021,3,20210304,Florida,Tracy Mirkin,5,0,50,WUSTL,Illinois
+ACF Nationals 2021,3,20210304,Florida,Leo Law,0,1,-5,WUSTL,Illinois
+ACF Nationals 2021,3,20210304,WUSTL,Charles Hang,3,2,20,Florida,Illinois
+ACF Nationals 2021,3,20210304,WUSTL,Athena Kern,2,0,20,Florida,Illinois
+ACF Nationals 2021,3,20210304,WUSTL,Jeremy Cummings,1,0,10,Florida,Illinois
+ACF Nationals 2021,3,20210304,WUSTL,Paul Lee,1,1,5,Florida,Illinois
+ACF Nationals 2021,3,20210305,Chicago A,Matthew Lehmann,4,1,35,Brown,Illinois
+ACF Nationals 2021,3,20210305,Chicago A,Adam Fine,4,0,40,Brown,Illinois
+ACF Nationals 2021,3,20210305,Chicago A,Alston Boyd,5,0,50,Brown,Illinois
+ACF Nationals 2021,3,20210305,Chicago A,Ben Miller,1,1,5,Brown,Illinois
+ACF Nationals 2021,3,20210305,Brown,Anson Berns,1,0,10,Chicago A,Illinois
+ACF Nationals 2021,3,20210305,Brown,Jason Hong,1,0,10,Chicago A,Illinois
+ACF Nationals 2021,3,20210305,Brown,Michael Li,0,0,0,Chicago A,Illinois
+ACF Nationals 2021,3,20210305,Brown,Walter Zhang,3,0,30,Chicago A,Illinois
+ACF Nationals 2021,3,20210306,Vanderbilt,Aidan Fein,0,0,0,Chicago C,Illinois
+ACF Nationals 2021,3,20210306,Vanderbilt,Jacob Augelli,4,1,35,Chicago C,Illinois
+ACF Nationals 2021,3,20210306,Vanderbilt,Michael Ponce,1,1,5,Chicago C,Illinois
+ACF Nationals 2021,3,20210306,Vanderbilt,Jonathan Caldwell,1,3,-5,Chicago C,Illinois
+ACF Nationals 2021,3,20210306,Chicago C,Vivek Sasse,3,0,30,Vanderbilt,Illinois
+ACF Nationals 2021,3,20210306,Chicago C,Robert Condron,5,0,50,Vanderbilt,Illinois
+ACF Nationals 2021,3,20210306,Chicago C,Daniel Yang,2,1,15,Vanderbilt,Illinois
+ACF Nationals 2021,3,20210306,Chicago C,Yohhan Kumarasinghe,0,0,0,Vanderbilt,Illinois
+ACF Nationals 2021,3,20210307,Harvard B,Mazin Omer,4,0,40,MIT,Illinois
+ACF Nationals 2021,3,20210307,Harvard B,Christopher Gilmer-Hill,2,1,15,MIT,Illinois
+ACF Nationals 2021,3,20210307,MIT,David Gomez,2,0,20,Harvard B,Illinois
+ACF Nationals 2021,3,20210307,MIT,Katherine Lei,2,0,20,Harvard B,Illinois
+ACF Nationals 2021,3,20210307,MIT,Swapnil Garg,2,1,15,Harvard B,Illinois
+ACF Nationals 2021,3,20210307,MIT,Grace Liu,3,3,15,Harvard B,Illinois
+ACF Nationals 2021,3,20210308,Georgia Tech,Tejas Santanam,2,0,20,Northwestern,Illinois
+ACF Nationals 2021,3,20210308,Georgia Tech,Hari Parameswaran,4,1,35,Northwestern,Illinois
+ACF Nationals 2021,3,20210308,Georgia Tech,Sarah Mueller,2,0,20,Northwestern,Illinois
+ACF Nationals 2021,3,20210308,Georgia Tech,S.A. Shenoy,3,0,30,Northwestern,Illinois
+ACF Nationals 2021,3,20210308,Northwestern,Rohin Devanathan,1,1,5,Georgia Tech,Illinois
+ACF Nationals 2021,3,20210308,Northwestern,Christopher Sims,2,2,10,Georgia Tech,Illinois
+ACF Nationals 2021,3,20210308,Northwestern,Andrew Salij,2,1,15,Georgia Tech,Illinois
+ACF Nationals 2021,3,20210308,Northwestern,Nikhil Chellam,1,0,10,Georgia Tech,Illinois
+ACF Nationals 2021,3,20210309,Cornell,Raymond Wang,1,2,0,North Carolina,Illinois
+ACF Nationals 2021,3,20210309,Cornell,Dan Ni,0,0,0,North Carolina,Illinois
+ACF Nationals 2021,3,20210309,Cornell,Allan Lee,2,0,20,North Carolina,Illinois
+ACF Nationals 2021,3,20210309,Cornell,Jonathan Tran,3,0,30,North Carolina,Illinois
+ACF Nationals 2021,3,20210309,North Carolina,Vincent Du,5,1,45,Cornell,Illinois
+ACF Nationals 2021,3,20210309,North Carolina,Henry Goff,3,0,30,Cornell,Illinois
+ACF Nationals 2021,3,20210309,North Carolina,Grant Peet,1,1,5,Cornell,Illinois
+ACF Nationals 2021,3,20210309,North Carolina,Kevin Thomas,3,0,30,Cornell,Illinois
+ACF Nationals 2021,3,20210310,Stanford,Tim Morrison,4,1,35,UC-Berkeley,Illinois
+ACF Nationals 2021,3,20210310,Stanford,Natan Holtzman,1,1,5,UC-Berkeley,Illinois
+ACF Nationals 2021,3,20210310,Stanford,Ethan Strombeck,2,0,20,UC-Berkeley,Illinois
+ACF Nationals 2021,3,20210310,Stanford,Eric Wolfsberg,3,0,30,UC-Berkeley,Illinois
+ACF Nationals 2021,3,20210310,UC-Berkeley,Michael Coates,1,0,10,Stanford,Illinois
+ACF Nationals 2021,3,20210310,UC-Berkeley,Rahul Keyal,1,0,10,Stanford,Illinois
+ACF Nationals 2021,3,20210310,UC-Berkeley,James Malouf,4,1,35,Stanford,Illinois
+ACF Nationals 2021,3,20210310,UC-Berkeley,Shahar Schwartz,1,1,5,Stanford,Illinois
+ACF Nationals 2021,4,20210401,Columbia,Will Alston,9,2,80,Vanderbilt,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210401,Columbia,Noah Chen,3,0,30,Vanderbilt,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210401,Columbia,Noah Sheidlower,2,0,20,Vanderbilt,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210401,Columbia,Caroline Mao,0,0,0,Vanderbilt,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210401,Vanderbilt,Aidan Fein,0,1,-5,Columbia,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210401,Vanderbilt,Jacob Augelli,1,0,10,Columbia,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210401,Vanderbilt,Michael Ponce,0,0,0,Columbia,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210401,Vanderbilt,Jonathan Caldwell,2,0,20,Columbia,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Harvard A,Ricky Li,2,0,20,Cornell,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Harvard A,Kelvin Li,2,0,20,Cornell,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Harvard A,Jason Golfinos,9,0,90,Cornell,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Harvard A,Thomas Gioia,4,0,40,Cornell,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Cornell,Raymond Wang,0,1,-5,Harvard A,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Cornell,Dan Ni,1,2,0,Harvard A,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Cornell,Allan Lee,0,0,0,Harvard A,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210402,Cornell,Jonathan Tran,1,0,10,Harvard A,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Texas,William Golden,5,0,50,Maryland,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Texas,Jaskaran Singh,2,0,20,Maryland,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Texas,Ryan Humphrey,0,0,0,Maryland,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Texas,Bradley McLain,5,0,50,Maryland,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Maryland,Vishwa Shanmugam,0,1,-5,Texas,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Maryland,Connor Mayers,1,0,10,Texas,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Maryland,Caleb Kendrick,2,2,10,Texas,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210403,Maryland,Graham Reid,3,1,25,Texas,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Yale,Hasna Karim,2,1,15,Chicago C,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Yale,Daniel Sheinberg,5,0,50,Chicago C,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Yale,Matt Pecoraro,3,0,30,Chicago C,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Yale,Michał Gerasimiuk,6,0,60,Chicago C,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Chicago C,Vivek Sasse,1,2,0,Yale,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Chicago C,Robert Condron,0,0,0,Yale,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Chicago C,Daniel Yang,1,0,10,Yale,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210404,Chicago C,Yohhan Kumarasinghe,0,0,0,Yale,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,UC-Berkeley,Michael Coates,2,0,20,Chicago B,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,UC-Berkeley,Rahul Keyal,6,0,60,Chicago B,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,UC-Berkeley,James Malouf,6,1,55,Chicago B,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,UC-Berkeley,Shahar Schwartz,2,0,20,Chicago B,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,Chicago B,John Marvin,2,0,20,UC-Berkeley,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,Chicago B,Sam Moore,1,0,10,UC-Berkeley,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,Chicago B,Wonyoung Jang,0,0,0,UC-Berkeley,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210405,Chicago B,Walker Combs,0,2,-10,UC-Berkeley,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,MIT,David Gomez,0,0,0,Ohio State,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,MIT,Katherine Lei,2,0,20,Ohio State,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,MIT,Swapnil Garg,1,0,10,Ohio State,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,MIT,Grace Liu,3,1,25,Ohio State,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,Ohio State,Eddy Liu,1,1,5,MIT,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,Ohio State,Roxanne Tang,1,0,10,MIT,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,Ohio State,Chris Ray,6,2,50,MIT,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210406,Ohio State,Clark Smith,1,0,10,MIT,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,Brown,Anson Berns,2,1,15,WUSTL,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,Brown,Jason Hong,3,0,30,WUSTL,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,Brown,Michael Li,2,0,20,WUSTL,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,Brown,Walter Zhang,1,2,0,WUSTL,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,WUSTL,Charles Hang,7,1,65,Brown,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,WUSTL,Athena Kern,3,0,30,Brown,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,WUSTL,Jeremy Cummings,1,0,10,Brown,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210407,WUSTL,Paul Lee,1,1,5,Brown,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Florida,Taylor Harvey,3,0,30,Minnesota,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Florida,Jonathen Settle,4,0,40,Minnesota,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Florida,Tracy Mirkin,7,0,70,Minnesota,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Florida,Leo Law,0,0,0,Minnesota,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Minnesota,Ben Weiner,2,0,20,Florida,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Minnesota,Davis Everson-Rose,2,2,10,Florida,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Minnesota,Ethan Ashbrook,1,0,10,Florida,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210408,Minnesota,Urbas Ekka,0,0,0,Florida,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Illinois,Iain Carpenter,3,1,25,Northwestern,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Illinois,Mitch McCullar,2,1,15,Northwestern,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Illinois,Olivia Kiser,0,0,0,Northwestern,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Illinois,Auroni Gupta,7,2,60,Northwestern,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Northwestern,Rohin Devanathan,2,0,20,Illinois,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Northwestern,Christopher Sims,4,1,35,Illinois,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Northwestern,Andrew Salij,0,0,0,Illinois,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210409,Northwestern,Nikhil Chellam,1,0,10,Illinois,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210410,Georgia Tech,Tejas Santanam,0,1,-5,Harvard B,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210410,Georgia Tech,Hari Parameswaran,6,1,55,Harvard B,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210410,Georgia Tech,Sarah Mueller,3,1,25,Harvard B,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210410,Georgia Tech,S.A. Shenoy,0,1,-5,Harvard B,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210410,Harvard B,Mazin Omer,2,0,20,Georgia Tech,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,4,20210410,Harvard B,Christopher Gilmer-Hill,6,0,60,Georgia Tech,Chicago B [= Stanford + Chicago A]
+ACF Nationals 2021,5,20210501,Columbia,Will Alston,6,2,50,Texas,Minnesota
+ACF Nationals 2021,5,20210501,Columbia,Noah Chen,1,1,5,Texas,Minnesota
+ACF Nationals 2021,5,20210501,Columbia,Noah Sheidlower,2,0,20,Texas,Minnesota
+ACF Nationals 2021,5,20210501,Columbia,Caroline Mao,2,0,20,Texas,Minnesota
+ACF Nationals 2021,5,20210501,Texas,William Golden,3,1,25,Columbia,Minnesota
+ACF Nationals 2021,5,20210501,Texas,Jaskaran Singh,3,0,30,Columbia,Minnesota
+ACF Nationals 2021,5,20210501,Texas,Ryan Humphrey,0,0,0,Columbia,Minnesota
+ACF Nationals 2021,5,20210501,Texas,Bradley McLain,1,2,0,Columbia,Minnesota
+ACF Nationals 2021,5,20210502,Maryland,Vishwa Shanmugam,0,3,-15,Chicago C,Minnesota
+ACF Nationals 2021,5,20210502,Maryland,Connor Mayers,3,1,25,Chicago C,Minnesota
+ACF Nationals 2021,5,20210502,Maryland,Caleb Kendrick,7,2,60,Chicago C,Minnesota
+ACF Nationals 2021,5,20210502,Maryland,Graham Reid,0,1,-5,Chicago C,Minnesota
+ACF Nationals 2021,5,20210502,Chicago C,Vivek Sasse,2,1,15,Maryland,Minnesota
+ACF Nationals 2021,5,20210502,Chicago C,Robert Condron,4,1,35,Maryland,Minnesota
+ACF Nationals 2021,5,20210502,Chicago C,Daniel Yang,0,0,0,Maryland,Minnesota
+ACF Nationals 2021,5,20210502,Chicago C,Yohhan Kumarasinghe,1,0,10,Maryland,Minnesota
+ACF Nationals 2021,5,20210503,Stanford,Tim Morrison,3,1,25,Harvard A,Minnesota
+ACF Nationals 2021,5,20210503,Stanford,Natan Holtzman,3,1,25,Harvard A,Minnesota
+ACF Nationals 2021,5,20210503,Stanford,Ethan Strombeck,3,0,30,Harvard A,Minnesota
+ACF Nationals 2021,5,20210503,Stanford,Eric Wolfsberg,1,0,10,Harvard A,Minnesota
+ACF Nationals 2021,5,20210503,Harvard A,Ricky Li,2,0,20,Stanford,Minnesota
+ACF Nationals 2021,5,20210503,Harvard A,Kelvin Li,1,0,10,Stanford,Minnesota
+ACF Nationals 2021,5,20210503,Harvard A,Jason Golfinos,6,2,50,Stanford,Minnesota
+ACF Nationals 2021,5,20210503,Harvard A,Thomas Gioia,1,0,10,Stanford,Minnesota
+ACF Nationals 2021,5,20210504,Vanderbilt,Aidan Fein,3,0,30,Yale,Minnesota
+ACF Nationals 2021,5,20210504,Vanderbilt,Jacob Augelli,5,1,45,Yale,Minnesota
+ACF Nationals 2021,5,20210504,Vanderbilt,Michael Ponce,2,0,20,Yale,Minnesota
+ACF Nationals 2021,5,20210504,Vanderbilt,Jonathan Caldwell,0,0,0,Yale,Minnesota
+ACF Nationals 2021,5,20210504,Yale,Hasna Karim,1,1,5,Vanderbilt,Minnesota
+ACF Nationals 2021,5,20210504,Yale,Daniel Sheinberg,4,1,35,Vanderbilt,Minnesota
+ACF Nationals 2021,5,20210504,Yale,Matt Pecoraro,0,0,0,Vanderbilt,Minnesota
+ACF Nationals 2021,5,20210504,Yale,Michał Gerasimiuk,5,1,45,Vanderbilt,Minnesota
+ACF Nationals 2021,5,20210505,Florida,Taylor Harvey,4,1,35,Chicago A,Minnesota
+ACF Nationals 2021,5,20210505,Florida,Jonathen Settle,2,0,20,Chicago A,Minnesota
+ACF Nationals 2021,5,20210505,Florida,Tracy Mirkin,2,0,20,Chicago A,Minnesota
+ACF Nationals 2021,5,20210505,Florida,Leo Law,2,0,20,Chicago A,Minnesota
+ACF Nationals 2021,5,20210505,Chicago A,Matthew Lehmann,2,3,5,Florida,Minnesota
+ACF Nationals 2021,5,20210505,Chicago A,Adam Fine,1,1,5,Florida,Minnesota
+ACF Nationals 2021,5,20210505,Chicago A,Alston Boyd,3,0,30,Florida,Minnesota
+ACF Nationals 2021,5,20210505,Chicago A,Ben Miller,3,0,30,Florida,Minnesota
+ACF Nationals 2021,5,20210506,Princeton,Eve Fleisig,4,0,40,Brown,Minnesota
+ACF Nationals 2021,5,20210506,Princeton,Nathaniel Hull,1,1,5,Brown,Minnesota
+ACF Nationals 2021,5,20210506,Princeton,Maya Chande,0,1,-5,Brown,Minnesota
+ACF Nationals 2021,5,20210506,Princeton,Samuel Lockwood,0,0,0,Brown,Minnesota
+ACF Nationals 2021,5,20210506,Brown,Anson Berns,7,0,70,Princeton,Minnesota
+ACF Nationals 2021,5,20210506,Brown,Jason Hong,5,0,50,Princeton,Minnesota
+ACF Nationals 2021,5,20210506,Brown,Michael Li,1,0,10,Princeton,Minnesota
+ACF Nationals 2021,5,20210506,Brown,Walter Zhang,2,1,15,Princeton,Minnesota
+ACF Nationals 2021,5,20210507,Harvard B,Mazin Omer,3,2,20,Northwestern,Minnesota
+ACF Nationals 2021,5,20210507,Harvard B,Christopher Gilmer-Hill,3,0,30,Northwestern,Minnesota
+ACF Nationals 2021,5,20210507,Northwestern,Rohin Devanathan,4,1,35,Harvard B,Minnesota
+ACF Nationals 2021,5,20210507,Northwestern,Christopher Sims,4,0,40,Harvard B,Minnesota
+ACF Nationals 2021,5,20210507,Northwestern,Andrew Salij,3,2,20,Harvard B,Minnesota
+ACF Nationals 2021,5,20210507,Northwestern,Nikhil Chellam,1,0,10,Harvard B,Minnesota
+ACF Nationals 2021,5,20210508,UC-Berkeley,Michael Coates,1,1,5,North Carolina,Minnesota
+ACF Nationals 2021,5,20210508,UC-Berkeley,Rahul Keyal,4,0,40,North Carolina,Minnesota
+ACF Nationals 2021,5,20210508,UC-Berkeley,James Malouf,0,3,-15,North Carolina,Minnesota
+ACF Nationals 2021,5,20210508,UC-Berkeley,Shahar Schwartz,2,2,10,North Carolina,Minnesota
+ACF Nationals 2021,5,20210508,North Carolina,Vincent Du,4,0,40,UC-Berkeley,Minnesota
+ACF Nationals 2021,5,20210508,North Carolina,Henry Goff,1,0,10,UC-Berkeley,Minnesota
+ACF Nationals 2021,5,20210508,North Carolina,Grant Peet,3,0,30,UC-Berkeley,Minnesota
+ACF Nationals 2021,5,20210508,North Carolina,Kevin Thomas,4,0,40,UC-Berkeley,Minnesota
+ACF Nationals 2021,5,20210509,Illinois,Iain Carpenter,4,2,30,MIT,Minnesota
+ACF Nationals 2021,5,20210509,Illinois,Mitch McCullar,0,1,-5,MIT,Minnesota
+ACF Nationals 2021,5,20210509,Illinois,Olivia Kiser,1,0,10,MIT,Minnesota
+ACF Nationals 2021,5,20210509,Illinois,Auroni Gupta,6,2,50,MIT,Minnesota
+ACF Nationals 2021,5,20210509,MIT,David Gomez,0,0,0,Illinois,Minnesota
+ACF Nationals 2021,5,20210509,MIT,Katherine Lei,1,1,5,Illinois,Minnesota
+ACF Nationals 2021,5,20210509,MIT,Swapnil Garg,2,0,20,Illinois,Minnesota
+ACF Nationals 2021,5,20210509,MIT,Grace Liu,3,0,30,Illinois,Minnesota
+ACF Nationals 2021,5,20210510,Georgia Tech,Tejas Santanam,0,0,0,Ohio State,Minnesota
+ACF Nationals 2021,5,20210510,Georgia Tech,Hari Parameswaran,7,0,70,Ohio State,Minnesota
+ACF Nationals 2021,5,20210510,Georgia Tech,Sarah Mueller,1,2,0,Ohio State,Minnesota
+ACF Nationals 2021,5,20210510,Georgia Tech,S.A. Shenoy,2,1,15,Ohio State,Minnesota
+ACF Nationals 2021,5,20210510,Ohio State,Eddy Liu,0,1,-5,Georgia Tech,Minnesota
+ACF Nationals 2021,5,20210510,Ohio State,Roxanne Tang,0,1,-5,Georgia Tech,Minnesota
+ACF Nationals 2021,5,20210510,Ohio State,Chris Ray,6,5,35,Georgia Tech,Minnesota
+ACF Nationals 2021,5,20210510,Ohio State,Clark Smith,3,0,30,Georgia Tech,Minnesota
+ACF Nationals 2021,6,20210601,Chicago B,John Marvin,3,3,15,Cornell,UC-Davis
+ACF Nationals 2021,6,20210601,Chicago B,Sam Moore,2,0,20,Cornell,UC-Davis
+ACF Nationals 2021,6,20210601,Chicago B,Wonyoung Jang,0,0,0,Cornell,UC-Davis
+ACF Nationals 2021,6,20210601,Chicago B,Walker Combs,1,1,5,Cornell,UC-Davis
+ACF Nationals 2021,6,20210601,Cornell,Raymond Wang,4,0,40,Chicago B,UC-Davis
+ACF Nationals 2021,6,20210601,Cornell,Dan Ni,2,0,20,Chicago B,UC-Davis
+ACF Nationals 2021,6,20210601,Cornell,Allan Lee,1,0,10,Chicago B,UC-Davis
+ACF Nationals 2021,6,20210601,Cornell,Jonathan Tran,5,1,45,Chicago B,UC-Davis
+ACF Nationals 2021,6,20210602,UC-Berkeley,Michael Coates,0,0,0,Harvard A,UC-Davis
+ACF Nationals 2021,6,20210602,UC-Berkeley,Rahul Keyal,2,0,20,Harvard A,UC-Davis
+ACF Nationals 2021,6,20210602,UC-Berkeley,James Malouf,1,0,10,Harvard A,UC-Davis
+ACF Nationals 2021,6,20210602,UC-Berkeley,Shahar Schwartz,1,0,10,Harvard A,UC-Davis
+ACF Nationals 2021,6,20210602,Harvard A,Ricky Li,3,1,25,UC-Berkeley,UC-Davis
+ACF Nationals 2021,6,20210602,Harvard A,Kelvin Li,1,1,5,UC-Berkeley,UC-Davis
+ACF Nationals 2021,6,20210602,Harvard A,Jason Golfinos,8,0,80,UC-Berkeley,UC-Davis
+ACF Nationals 2021,6,20210602,Harvard A,Thomas Gioia,2,2,10,UC-Berkeley,UC-Davis
+ACF Nationals 2021,6,20210603,Georgia Tech,Tejas Santanam,1,0,10,MIT,UC-Davis
+ACF Nationals 2021,6,20210603,Georgia Tech,Hari Parameswaran,7,0,70,MIT,UC-Davis
+ACF Nationals 2021,6,20210603,Georgia Tech,Sarah Mueller,3,0,30,MIT,UC-Davis
+ACF Nationals 2021,6,20210603,Georgia Tech,S.A. Shenoy,3,0,30,MIT,UC-Davis
+ACF Nationals 2021,6,20210603,MIT,David Gomez,0,0,0,Georgia Tech,UC-Davis
+ACF Nationals 2021,6,20210603,MIT,Katherine Lei,2,0,20,Georgia Tech,UC-Davis
+ACF Nationals 2021,6,20210603,MIT,Swapnil Garg,0,1,-5,Georgia Tech,UC-Davis
+ACF Nationals 2021,6,20210603,MIT,Grace Liu,1,0,10,Georgia Tech,UC-Davis
+ACF Nationals 2021,6,20210604,Illinois,Iain Carpenter,1,1,5,Ohio State,UC-Davis
+ACF Nationals 2021,6,20210604,Illinois,Mitch McCullar,1,0,10,Ohio State,UC-Davis
+ACF Nationals 2021,6,20210604,Illinois,Olivia Kiser,3,0,30,Ohio State,UC-Davis
+ACF Nationals 2021,6,20210604,Illinois,Auroni Gupta,4,2,30,Ohio State,UC-Davis
+ACF Nationals 2021,6,20210604,Ohio State,Eddy Liu,0,0,0,Illinois,UC-Davis
+ACF Nationals 2021,6,20210604,Ohio State,Roxanne Tang,0,0,0,Illinois,UC-Davis
+ACF Nationals 2021,6,20210604,Ohio State,Chris Ray,8,0,80,Illinois,UC-Davis
+ACF Nationals 2021,6,20210604,Ohio State,Clark Smith,1,0,10,Illinois,UC-Davis
+ACF Nationals 2021,6,20210605,Texas,William Golden,6,0,60,Chicago C,UC-Davis
+ACF Nationals 2021,6,20210605,Texas,Jaskaran Singh,6,0,60,Chicago C,UC-Davis
+ACF Nationals 2021,6,20210605,Texas,Ryan Humphrey,3,0,30,Chicago C,UC-Davis
+ACF Nationals 2021,6,20210605,Texas,Bradley McLain,2,0,20,Chicago C,UC-Davis
+ACF Nationals 2021,6,20210605,Chicago C,Vivek Sasse,0,0,0,Texas,UC-Davis
+ACF Nationals 2021,6,20210605,Chicago C,Robert Condron,0,1,-5,Texas,UC-Davis
+ACF Nationals 2021,6,20210605,Chicago C,Daniel Yang,1,0,10,Texas,UC-Davis
+ACF Nationals 2021,6,20210605,Chicago C,Yohhan Kumarasinghe,2,0,20,Texas,UC-Davis
+ACF Nationals 2021,6,20210606,Maryland,Vishwa Shanmugam,3,0,30,Columbia,UC-Davis
+ACF Nationals 2021,6,20210606,Maryland,Connor Mayers,0,1,-5,Columbia,UC-Davis
+ACF Nationals 2021,6,20210606,Maryland,Caleb Kendrick,2,0,20,Columbia,UC-Davis
+ACF Nationals 2021,6,20210606,Maryland,Graham Reid,1,0,10,Columbia,UC-Davis
+ACF Nationals 2021,6,20210606,Columbia,Will Alston,8,1,75,Maryland,UC-Davis
+ACF Nationals 2021,6,20210606,Columbia,Noah Chen,1,0,10,Maryland,UC-Davis
+ACF Nationals 2021,6,20210606,Columbia,Noah Sheidlower,3,0,30,Maryland,UC-Davis
+ACF Nationals 2021,6,20210606,Columbia,Caroline Mao,0,0,0,Maryland,UC-Davis
+ACF Nationals 2021,6,20210607,WUSTL,Charles Hang,4,1,35,Minnesota,UC-Davis
+ACF Nationals 2021,6,20210607,WUSTL,Athena Kern,2,1,15,Minnesota,UC-Davis
+ACF Nationals 2021,6,20210607,WUSTL,Jeremy Cummings,0,0,0,Minnesota,UC-Davis
+ACF Nationals 2021,6,20210607,WUSTL,Paul Lee,4,0,40,Minnesota,UC-Davis
+ACF Nationals 2021,6,20210607,Minnesota,Ben Weiner,1,1,5,WUSTL,UC-Davis
+ACF Nationals 2021,6,20210607,Minnesota,Davis Everson-Rose,3,2,20,WUSTL,UC-Davis
+ACF Nationals 2021,6,20210607,Minnesota,Ethan Ashbrook,3,1,25,WUSTL,UC-Davis
+ACF Nationals 2021,6,20210607,Minnesota,Urbas Ekka,0,0,0,WUSTL,UC-Davis
+ACF Nationals 2021,6,20210608,Florida,Taylor Harvey,3,2,20,Brown,UC-Davis
+ACF Nationals 2021,6,20210608,Florida,Jonathen Settle,4,0,40,Brown,UC-Davis
+ACF Nationals 2021,6,20210608,Florida,Tracy Mirkin,4,1,35,Brown,UC-Davis
+ACF Nationals 2021,6,20210608,Florida,Leo Law,1,1,5,Brown,UC-Davis
+ACF Nationals 2021,6,20210608,Brown,Anson Berns,2,0,20,Florida,UC-Davis
+ACF Nationals 2021,6,20210608,Brown,Jason Hong,1,2,0,Florida,UC-Davis
+ACF Nationals 2021,6,20210608,Brown,Michael Li,0,0,0,Florida,UC-Davis
+ACF Nationals 2021,6,20210608,Brown,Walter Zhang,2,0,20,Florida,UC-Davis
+ACF Nationals 2021,6,20210609,Princeton,Eve Fleisig,3,0,30,Chicago A,UC-Davis
+ACF Nationals 2021,6,20210609,Princeton,Nathaniel Hull,2,2,10,Chicago A,UC-Davis
+ACF Nationals 2021,6,20210609,Princeton,Maya Chande,0,1,-5,Chicago A,UC-Davis
+ACF Nationals 2021,6,20210609,Princeton,Samuel Lockwood,0,0,0,Chicago A,UC-Davis
+ACF Nationals 2021,6,20210609,Chicago A,Matthew Lehmann,4,0,40,Princeton,UC-Davis
+ACF Nationals 2021,6,20210609,Chicago A,Adam Fine,4,0,40,Princeton,UC-Davis
+ACF Nationals 2021,6,20210609,Chicago A,Alston Boyd,4,0,40,Princeton,UC-Davis
+ACF Nationals 2021,6,20210609,Chicago A,Ben Miller,1,1,5,Princeton,UC-Davis
+ACF Nationals 2021,6,20210610,Stanford,Tim Morrison,3,1,25,North Carolina,UC-Davis
+ACF Nationals 2021,6,20210610,Stanford,Natan Holtzman,2,0,20,North Carolina,UC-Davis
+ACF Nationals 2021,6,20210610,Stanford,Ethan Strombeck,2,1,15,North Carolina,UC-Davis
+ACF Nationals 2021,6,20210610,Stanford,Eric Wolfsberg,2,2,10,North Carolina,UC-Davis
+ACF Nationals 2021,6,20210610,North Carolina,Vincent Du,2,0,20,Stanford,UC-Davis
+ACF Nationals 2021,6,20210610,North Carolina,Henry Goff,2,0,20,Stanford,UC-Davis
+ACF Nationals 2021,6,20210610,North Carolina,Grant Peet,3,1,25,Stanford,UC-Davis
+ACF Nationals 2021,6,20210610,North Carolina,Kevin Thomas,3,0,30,Stanford,UC-Davis
+ACF Nationals 2021,7,20210701,Chicago A,Matthew Lehmann,3,2,20,Texas,Editors 1
+ACF Nationals 2021,7,20210701,Chicago A,Adam Fine,3,1,25,Texas,Editors 1
+ACF Nationals 2021,7,20210701,Chicago A,Alston Boyd,1,1,5,Texas,Editors 1
+ACF Nationals 2021,7,20210701,Chicago A,Ben Miller,2,0,20,Texas,Editors 1
+ACF Nationals 2021,7,20210701,Texas,William Golden,5,1,45,Chicago A,Editors 1
+ACF Nationals 2021,7,20210701,Texas,Jaskaran Singh,2,0,20,Chicago A,Editors 1
+ACF Nationals 2021,7,20210701,Texas,Ryan Humphrey,2,0,20,Chicago A,Editors 1
+ACF Nationals 2021,7,20210701,Texas,Bradley McLain,2,1,15,Chicago A,Editors 1
+ACF Nationals 2021,7,20210702,Georgia Tech,Tejas Santanam,0,0,0,Harvard A,Editors 1
+ACF Nationals 2021,7,20210702,Georgia Tech,Hari Parameswaran,6,2,50,Harvard A,Editors 1
+ACF Nationals 2021,7,20210702,Georgia Tech,Sarah Mueller,1,1,5,Harvard A,Editors 1
+ACF Nationals 2021,7,20210702,Georgia Tech,S.A. Shenoy,1,1,5,Harvard A,Editors 1
+ACF Nationals 2021,7,20210702,Harvard A,Ricky Li,3,0,30,Georgia Tech,Editors 1
+ACF Nationals 2021,7,20210702,Harvard A,Kelvin Li,0,1,-5,Georgia Tech,Editors 1
+ACF Nationals 2021,7,20210702,Harvard A,Jason Golfinos,5,0,50,Georgia Tech,Editors 1
+ACF Nationals 2021,7,20210702,Harvard A,Thomas Gioia,1,0,10,Georgia Tech,Editors 1
+ACF Nationals 2021,7,20210703,Stanford,Tim Morrison,3,0,30,Ohio State,Editors 1
+ACF Nationals 2021,7,20210703,Stanford,Natan Holtzman,3,1,25,Ohio State,Editors 1
+ACF Nationals 2021,7,20210703,Stanford,Ethan Strombeck,1,1,5,Ohio State,Editors 1
+ACF Nationals 2021,7,20210703,Stanford,Eric Wolfsberg,2,1,15,Ohio State,Editors 1
+ACF Nationals 2021,7,20210703,Ohio State,Eddy Liu,1,0,10,Stanford,Editors 1
+ACF Nationals 2021,7,20210703,Ohio State,Roxanne Tang,2,0,20,Stanford,Editors 1
+ACF Nationals 2021,7,20210703,Ohio State,Chris Ray,3,1,25,Stanford,Editors 1
+ACF Nationals 2021,7,20210703,Ohio State,Clark Smith,5,0,50,Stanford,Editors 1
+ACF Nationals 2021,7,20210704,Columbia,Will Alston,6,1,55,WUSTL,Editors 1
+ACF Nationals 2021,7,20210704,Columbia,Noah Chen,1,0,10,WUSTL,Editors 1
+ACF Nationals 2021,7,20210704,Columbia,Noah Sheidlower,1,1,5,WUSTL,Editors 1
+ACF Nationals 2021,7,20210704,Columbia,Caroline Mao,3,0,30,WUSTL,Editors 1
+ACF Nationals 2021,7,20210704,WUSTL,Charles Hang,5,4,30,Columbia,Editors 1
+ACF Nationals 2021,7,20210704,WUSTL,Athena Kern,1,0,10,Columbia,Editors 1
+ACF Nationals 2021,7,20210704,WUSTL,Jeremy Cummings,1,0,10,Columbia,Editors 1
+ACF Nationals 2021,7,20210704,WUSTL,Paul Lee,1,0,10,Columbia,Editors 1
+ACF Nationals 2021,7,20210705,Maryland,Vishwa Shanmugam,1,0,10,Florida,Editors 1
+ACF Nationals 2021,7,20210705,Maryland,Connor Mayers,0,0,0,Florida,Editors 1
+ACF Nationals 2021,7,20210705,Maryland,Caleb Kendrick,7,0,70,Florida,Editors 1
+ACF Nationals 2021,7,20210705,Maryland,Graham Reid,1,0,10,Florida,Editors 1
+ACF Nationals 2021,7,20210705,Florida,Taylor Harvey,1,1,5,Maryland,Editors 1
+ACF Nationals 2021,7,20210705,Florida,Jonathen Settle,3,2,20,Maryland,Editors 1
+ACF Nationals 2021,7,20210705,Florida,Tracy Mirkin,5,1,45,Maryland,Editors 1
+ACF Nationals 2021,7,20210705,Florida,Leo Law,2,0,20,Maryland,Editors 1
+ACF Nationals 2021,7,20210706,Chicago C,Vivek Sasse,3,0,30,Brown,Editors 1
+ACF Nationals 2021,7,20210706,Chicago C,Robert Condron,4,1,35,Brown,Editors 1
+ACF Nationals 2021,7,20210706,Chicago C,Daniel Yang,0,0,0,Brown,Editors 1
+ACF Nationals 2021,7,20210706,Chicago C,Yohhan Kumarasinghe,2,0,20,Brown,Editors 1
+ACF Nationals 2021,7,20210706,Brown,Anson Berns,3,1,25,Chicago C,Editors 1
+ACF Nationals 2021,7,20210706,Brown,Jason Hong,2,1,15,Chicago C,Editors 1
+ACF Nationals 2021,7,20210706,Brown,Michael Li,0,0,0,Chicago C,Editors 1
+ACF Nationals 2021,7,20210706,Brown,Walter Zhang,4,1,35,Chicago C,Editors 1
+ACF Nationals 2021,7,20210707,Minnesota,Ben Weiner,1,0,10,Vanderbilt,Editors 1
+ACF Nationals 2021,7,20210707,Minnesota,Davis Everson-Rose,5,1,45,Vanderbilt,Editors 1
+ACF Nationals 2021,7,20210707,Minnesota,Ethan Ashbrook,1,1,5,Vanderbilt,Editors 1
+ACF Nationals 2021,7,20210707,Minnesota,Urbas Ekka,2,2,10,Vanderbilt,Editors 1
+ACF Nationals 2021,7,20210707,Vanderbilt,Aidan Fein,2,0,20,Minnesota,Editors 1
+ACF Nationals 2021,7,20210707,Vanderbilt,Jacob Augelli,2,1,15,Minnesota,Editors 1
+ACF Nationals 2021,7,20210707,Vanderbilt,Michael Ponce,1,0,10,Minnesota,Editors 1
+ACF Nationals 2021,7,20210707,Vanderbilt,Jonathan Caldwell,1,0,10,Minnesota,Editors 1
+ACF Nationals 2021,7,20210708,Chicago B,John Marvin,0,2,-10,Northwestern,Editors 1
+ACF Nationals 2021,7,20210708,Chicago B,Sam Moore,2,1,15,Northwestern,Editors 1
+ACF Nationals 2021,7,20210708,Chicago B,Wonyoung Jang,3,1,25,Northwestern,Editors 1
+ACF Nationals 2021,7,20210708,Chicago B,Walker Combs,6,0,60,Northwestern,Editors 1
+ACF Nationals 2021,7,20210708,Northwestern,Rohin Devanathan,2,0,20,Chicago B,Editors 1
+ACF Nationals 2021,7,20210708,Northwestern,Christopher Sims,3,1,25,Chicago B,Editors 1
+ACF Nationals 2021,7,20210708,Northwestern,Andrew Salij,3,1,25,Chicago B,Editors 1
+ACF Nationals 2021,7,20210708,Northwestern,Nikhil Chellam,0,0,0,Chicago B,Editors 1
+ACF Nationals 2021,7,20210709,Harvard B,Mazin Omer,2,0,20,UC-Berkeley,Editors 1
+ACF Nationals 2021,7,20210709,Harvard B,Christopher Gilmer-Hill,3,0,30,UC-Berkeley,Editors 1
+ACF Nationals 2021,7,20210709,UC-Berkeley,Michael Coates,2,1,15,Harvard B,Editors 1
+ACF Nationals 2021,7,20210709,UC-Berkeley,Rahul Keyal,4,2,30,Harvard B,Editors 1
+ACF Nationals 2021,7,20210709,UC-Berkeley,James Malouf,4,2,30,Harvard B,Editors 1
+ACF Nationals 2021,7,20210709,UC-Berkeley,Shahar Schwartz,1,1,5,Harvard B,Editors 1
+ACF Nationals 2021,7,20210710,Princeton,Eve Fleisig,2,0,20,Yale,Editors 1
+ACF Nationals 2021,7,20210710,Princeton,Nathaniel Hull,2,0,20,Yale,Editors 1
+ACF Nationals 2021,7,20210710,Princeton,Maya Chande,0,1,-5,Yale,Editors 1
+ACF Nationals 2021,7,20210710,Princeton,Samuel Lockwood,0,0,0,Yale,Editors 1
+ACF Nationals 2021,7,20210710,Yale,Hasna Karim,1,0,10,Princeton,Editors 1
+ACF Nationals 2021,7,20210710,Yale,Daniel Sheinberg,4,0,40,Princeton,Editors 1
+ACF Nationals 2021,7,20210710,Yale,Matt Pecoraro,2,0,20,Princeton,Editors 1
+ACF Nationals 2021,7,20210710,Yale,Michał Gerasimiuk,7,3,55,Princeton,Editors 1
+ACF Nationals 2021,8,20210801,Illinois,Iain Carpenter,3,1,25,North Carolina,Editors 2
+ACF Nationals 2021,8,20210801,Illinois,Mitch McCullar,1,0,10,North Carolina,Editors 2
+ACF Nationals 2021,8,20210801,Illinois,Olivia Kiser,0,0,0,North Carolina,Editors 2
+ACF Nationals 2021,8,20210801,Illinois,Auroni Gupta,6,2,50,North Carolina,Editors 2
+ACF Nationals 2021,8,20210801,North Carolina,Vincent Du,1,2,0,Illinois,Editors 2
+ACF Nationals 2021,8,20210801,North Carolina,Henry Goff,1,0,10,Illinois,Editors 2
+ACF Nationals 2021,8,20210801,North Carolina,Grant Peet,3,0,30,Illinois,Editors 2
+ACF Nationals 2021,8,20210801,North Carolina,Kevin Thomas,1,0,10,Illinois,Editors 2
+ACF Nationals 2021,8,20210802,Stanford,Tim Morrison,1,1,5,Chicago A,Editors 2
+ACF Nationals 2021,8,20210802,Stanford,Natan Holtzman,5,0,50,Chicago A,Editors 2
+ACF Nationals 2021,8,20210802,Stanford,Ethan Strombeck,2,0,20,Chicago A,Editors 2
+ACF Nationals 2021,8,20210802,Stanford,Eric Wolfsberg,6,1,55,Chicago A,Editors 2
+ACF Nationals 2021,8,20210802,Chicago A,Matthew Lehmann,2,1,15,Stanford,Editors 2
+ACF Nationals 2021,8,20210802,Chicago A,Adam Fine,1,0,10,Stanford,Editors 2
+ACF Nationals 2021,8,20210802,Chicago A,Alston Boyd,0,0,0,Stanford,Editors 2
+ACF Nationals 2021,8,20210802,Chicago A,Ben Miller,3,0,30,Stanford,Editors 2
+ACF Nationals 2021,8,20210803,Georgia Tech,Tejas Santanam,0,0,0,Florida,Editors 2
+ACF Nationals 2021,8,20210803,Georgia Tech,Hari Parameswaran,3,2,20,Florida,Editors 2
+ACF Nationals 2021,8,20210803,Georgia Tech,Sarah Mueller,2,0,20,Florida,Editors 2
+ACF Nationals 2021,8,20210803,Georgia Tech,S.A. Shenoy,0,0,0,Florida,Editors 2
+ACF Nationals 2021,8,20210803,Florida,Taylor Harvey,2,1,15,Georgia Tech,Editors 2
+ACF Nationals 2021,8,20210803,Florida,Jonathen Settle,4,0,40,Georgia Tech,Editors 2
+ACF Nationals 2021,8,20210803,Florida,Tracy Mirkin,6,2,50,Georgia Tech,Editors 2
+ACF Nationals 2021,8,20210803,Florida,Leo Law,1,0,10,Georgia Tech,Editors 2
+ACF Nationals 2021,8,20210804,Columbia,Will Alston,10,1,95,Ohio State,Editors 2
+ACF Nationals 2021,8,20210804,Columbia,Noah Chen,1,1,5,Ohio State,Editors 2
+ACF Nationals 2021,8,20210804,Columbia,Noah Sheidlower,0,0,0,Ohio State,Editors 2
+ACF Nationals 2021,8,20210804,Columbia,Caroline Mao,1,0,10,Ohio State,Editors 2
+ACF Nationals 2021,8,20210804,Ohio State,Eddy Liu,0,0,0,Columbia,Editors 2
+ACF Nationals 2021,8,20210804,Ohio State,Roxanne Tang,0,0,0,Columbia,Editors 2
+ACF Nationals 2021,8,20210804,Ohio State,Chris Ray,3,2,20,Columbia,Editors 2
+ACF Nationals 2021,8,20210804,Ohio State,Clark Smith,3,0,30,Columbia,Editors 2
+ACF Nationals 2021,8,20210805,Cornell,Raymond Wang,4,0,40,MIT,Editors 2
+ACF Nationals 2021,8,20210805,Cornell,Dan Ni,2,2,10,MIT,Editors 2
+ACF Nationals 2021,8,20210805,Cornell,Allan Lee,2,0,20,MIT,Editors 2
+ACF Nationals 2021,8,20210805,Cornell,Jonathan Tran,4,0,40,MIT,Editors 2
+ACF Nationals 2021,8,20210805,MIT,David Gomez,1,0,10,Cornell,Editors 2
+ACF Nationals 2021,8,20210805,MIT,Katherine Lei,1,0,10,Cornell,Editors 2
+ACF Nationals 2021,8,20210805,MIT,Swapnil Garg,3,1,25,Cornell,Editors 2
+ACF Nationals 2021,8,20210805,MIT,Grace Liu,2,2,10,Cornell,Editors 2
+ACF Nationals 2021,8,20210806,UC-Berkeley,Michael Coates,1,0,10,Princeton,Editors 2
+ACF Nationals 2021,8,20210806,UC-Berkeley,Rahul Keyal,6,0,60,Princeton,Editors 2
+ACF Nationals 2021,8,20210806,UC-Berkeley,James Malouf,4,3,25,Princeton,Editors 2
+ACF Nationals 2021,8,20210806,UC-Berkeley,Shahar Schwartz,2,0,20,Princeton,Editors 2
+ACF Nationals 2021,8,20210806,Princeton,Eve Fleisig,2,0,20,UC-Berkeley,Editors 2
+ACF Nationals 2021,8,20210806,Princeton,Nathaniel Hull,1,0,10,UC-Berkeley,Editors 2
+ACF Nationals 2021,8,20210806,Princeton,Maya Chande,0,0,0,UC-Berkeley,Editors 2
+ACF Nationals 2021,8,20210806,Princeton,Samuel Lockwood,0,0,0,UC-Berkeley,Editors 2
+ACF Nationals 2021,8,20210807,Harvard A,Ricky Li,1,1,5,WUSTL,Editors 2
+ACF Nationals 2021,8,20210807,Harvard A,Kelvin Li,2,0,20,WUSTL,Editors 2
+ACF Nationals 2021,8,20210807,Harvard A,Jason Golfinos,3,0,30,WUSTL,Editors 2
+ACF Nationals 2021,8,20210807,Harvard A,Thomas Gioia,2,0,20,WUSTL,Editors 2
+ACF Nationals 2021,8,20210807,WUSTL,Charles Hang,6,2,50,Harvard A,Editors 2
+ACF Nationals 2021,8,20210807,WUSTL,Athena Kern,0,0,0,Harvard A,Editors 2
+ACF Nationals 2021,8,20210807,WUSTL,Jeremy Cummings,0,1,-5,Harvard A,Editors 2
+ACF Nationals 2021,8,20210807,WUSTL,Paul Lee,2,1,15,Harvard A,Editors 2
+ACF Nationals 2021,8,20210808,Minnesota,Ben Weiner,1,0,10,Chicago B,Editors 2
+ACF Nationals 2021,8,20210808,Minnesota,Davis Everson-Rose,3,1,25,Chicago B,Editors 2
+ACF Nationals 2021,8,20210808,Minnesota,Ethan Ashbrook,2,0,20,Chicago B,Editors 2
+ACF Nationals 2021,8,20210808,Minnesota,Urbas Ekka,1,0,10,Chicago B,Editors 2
+ACF Nationals 2021,8,20210808,Chicago B,John Marvin,2,1,15,Minnesota,Editors 2
+ACF Nationals 2021,8,20210808,Chicago B,Sam Moore,2,1,15,Minnesota,Editors 2
+ACF Nationals 2021,8,20210808,Chicago B,Wonyoung Jang,4,0,40,Minnesota,Editors 2
+ACF Nationals 2021,8,20210808,Chicago B,Walker Combs,1,1,5,Minnesota,Editors 2
+ACF Nationals 2021,8,20210809,Yale,Hasna Karim,1,0,10,Northwestern,Editors 2
+ACF Nationals 2021,8,20210809,Yale,Daniel Sheinberg,2,0,20,Northwestern,Editors 2
+ACF Nationals 2021,8,20210809,Yale,Matt Pecoraro,0,0,0,Northwestern,Editors 2
+ACF Nationals 2021,8,20210809,Yale,Michał Gerasimiuk,3,0,30,Northwestern,Editors 2
+ACF Nationals 2021,8,20210809,Northwestern,Rohin Devanathan,2,3,5,Yale,Editors 2
+ACF Nationals 2021,8,20210809,Northwestern,Christopher Sims,6,1,55,Yale,Editors 2
+ACF Nationals 2021,8,20210809,Northwestern,Andrew Salij,0,1,-5,Yale,Editors 2
+ACF Nationals 2021,8,20210809,Northwestern,Nikhil Chellam,1,1,5,Yale,Editors 2
+ACF Nationals 2021,8,20210810,Harvard B,Mazin Omer,2,1,15,Brown,Editors 2
+ACF Nationals 2021,8,20210810,Harvard B,Christopher Gilmer-Hill,7,0,70,Brown,Editors 2
+ACF Nationals 2021,8,20210810,Brown,Anson Berns,2,1,15,Harvard B,Editors 2
+ACF Nationals 2021,8,20210810,Brown,Jason Hong,4,1,35,Harvard B,Editors 2
+ACF Nationals 2021,8,20210810,Brown,Michael Li,1,1,5,Harvard B,Editors 2
+ACF Nationals 2021,8,20210810,Brown,Walter Zhang,1,0,10,Harvard B,Editors 2
+ACF Nationals 2021,9,20210901,Stanford,Tim Morrison,5,0,50,Florida,Editors 3
+ACF Nationals 2021,9,20210901,Stanford,Natan Holtzman,1,1,5,Florida,Editors 3
+ACF Nationals 2021,9,20210901,Stanford,Ethan Strombeck,1,3,-5,Florida,Editors 3
+ACF Nationals 2021,9,20210901,Stanford,Eric Wolfsberg,1,2,0,Florida,Editors 3
+ACF Nationals 2021,9,20210901,Florida,Taylor Harvey,3,1,25,Stanford,Editors 3
+ACF Nationals 2021,9,20210901,Florida,Jonathen Settle,3,0,30,Stanford,Editors 3
+ACF Nationals 2021,9,20210901,Florida,Tracy Mirkin,3,0,30,Stanford,Editors 3
+ACF Nationals 2021,9,20210901,Florida,Leo Law,1,0,10,Stanford,Editors 3
+ACF Nationals 2021,9,20210902,Maryland,Vishwa Shanmugam,3,1,25,WUSTL,Editors 3
+ACF Nationals 2021,9,20210902,Maryland,Connor Mayers,0,0,0,WUSTL,Editors 3
+ACF Nationals 2021,9,20210902,Maryland,Caleb Kendrick,6,1,55,WUSTL,Editors 3
+ACF Nationals 2021,9,20210902,Maryland,Graham Reid,2,0,20,WUSTL,Editors 3
+ACF Nationals 2021,9,20210902,WUSTL,Charles Hang,3,2,20,Maryland,Editors 3
+ACF Nationals 2021,9,20210902,WUSTL,Athena Kern,1,1,5,Maryland,Editors 3
+ACF Nationals 2021,9,20210902,WUSTL,Jeremy Cummings,0,0,0,Maryland,Editors 3
+ACF Nationals 2021,9,20210902,WUSTL,Paul Lee,1,3,-5,Maryland,Editors 3
+ACF Nationals 2021,9,20210903,Georgia Tech,Tejas Santanam,2,0,20,North Carolina,Editors 3
+ACF Nationals 2021,9,20210903,Georgia Tech,Hari Parameswaran,7,0,70,North Carolina,Editors 3
+ACF Nationals 2021,9,20210903,Georgia Tech,Sarah Mueller,0,0,0,North Carolina,Editors 3
+ACF Nationals 2021,9,20210903,Georgia Tech,S.A. Shenoy,2,0,20,North Carolina,Editors 3
+ACF Nationals 2021,9,20210903,North Carolina,Vincent Du,4,1,35,Georgia Tech,Editors 3
+ACF Nationals 2021,9,20210903,North Carolina,Henry Goff,1,2,0,Georgia Tech,Editors 3
+ACF Nationals 2021,9,20210903,North Carolina,Grant Peet,1,0,10,Georgia Tech,Editors 3
+ACF Nationals 2021,9,20210903,North Carolina,Kevin Thomas,1,0,10,Georgia Tech,Editors 3
+ACF Nationals 2021,9,20210904,Harvard A,Ricky Li,0,0,0,Chicago A,Editors 3
+ACF Nationals 2021,9,20210904,Harvard A,Kelvin Li,1,0,10,Chicago A,Editors 3
+ACF Nationals 2021,9,20210904,Harvard A,Jason Golfinos,6,4,40,Chicago A,Editors 3
+ACF Nationals 2021,9,20210904,Harvard A,Thomas Gioia,1,0,10,Chicago A,Editors 3
+ACF Nationals 2021,9,20210904,Chicago A,Matthew Lehmann,4,0,40,Harvard A,Editors 3
+ACF Nationals 2021,9,20210904,Chicago A,Adam Fine,3,0,30,Harvard A,Editors 3
+ACF Nationals 2021,9,20210904,Chicago A,Alston Boyd,2,0,20,Harvard A,Editors 3
+ACF Nationals 2021,9,20210904,Chicago A,Ben Miller,1,0,10,Harvard A,Editors 3
+ACF Nationals 2021,9,20210905,Minnesota,Ben Weiner,1,0,10,UC-Berkeley,Editors 3
+ACF Nationals 2021,9,20210905,Minnesota,Davis Everson-Rose,4,2,30,UC-Berkeley,Editors 3
+ACF Nationals 2021,9,20210905,Minnesota,Ethan Ashbrook,0,0,0,UC-Berkeley,Editors 3
+ACF Nationals 2021,9,20210905,Minnesota,Urbas Ekka,0,0,0,UC-Berkeley,Editors 3
+ACF Nationals 2021,9,20210905,UC-Berkeley,Michael Coates,4,0,40,Minnesota,Editors 3
+ACF Nationals 2021,9,20210905,UC-Berkeley,Rahul Keyal,3,1,25,Minnesota,Editors 3
+ACF Nationals 2021,9,20210905,UC-Berkeley,James Malouf,3,1,25,Minnesota,Editors 3
+ACF Nationals 2021,9,20210905,UC-Berkeley,Shahar Schwartz,2,2,10,Minnesota,Editors 3
+ACF Nationals 2021,9,20210906,Harvard B,Mazin Omer,3,1,25,Cornell,Editors 3
+ACF Nationals 2021,9,20210906,Harvard B,Christopher Gilmer-Hill,4,0,40,Cornell,Editors 3
+ACF Nationals 2021,9,20210906,Cornell,Raymond Wang,5,1,45,Harvard B,Editors 3
+ACF Nationals 2021,9,20210906,Cornell,Dan Ni,0,0,0,Harvard B,Editors 3
+ACF Nationals 2021,9,20210906,Cornell,Allan Lee,2,1,15,Harvard B,Editors 3
+ACF Nationals 2021,9,20210906,Cornell,Jonathan Tran,3,0,30,Harvard B,Editors 3
+ACF Nationals 2021,9,20210907,Chicago B,John Marvin,2,4,0,Brown,Editors 3
+ACF Nationals 2021,9,20210907,Chicago B,Sam Moore,0,3,-15,Brown,Editors 3
+ACF Nationals 2021,9,20210907,Chicago B,Wonyoung Jang,1,0,10,Brown,Editors 3
+ACF Nationals 2021,9,20210907,Chicago B,Walker Combs,4,1,35,Brown,Editors 3
+ACF Nationals 2021,9,20210907,Brown,Anson Berns,6,0,60,Chicago B,Editors 3
+ACF Nationals 2021,9,20210907,Brown,Jason Hong,3,1,25,Chicago B,Editors 3
+ACF Nationals 2021,9,20210907,Brown,Michael Li,0,1,-5,Chicago B,Editors 3
+ACF Nationals 2021,9,20210907,Brown,Walter Zhang,2,0,20,Chicago B,Editors 3
+ACF Nationals 2021,9,20210908,Vanderbilt,Aidan Fein,0,0,0,Northwestern,Editors 3
+ACF Nationals 2021,9,20210908,Vanderbilt,Jacob Augelli,1,1,5,Northwestern,Editors 3
+ACF Nationals 2021,9,20210908,Vanderbilt,Michael Ponce,1,0,10,Northwestern,Editors 3
+ACF Nationals 2021,9,20210908,Vanderbilt,Jonathan Caldwell,1,1,5,Northwestern,Editors 3
+ACF Nationals 2021,9,20210908,Northwestern,Rohin Devanathan,5,0,50,Vanderbilt,Editors 3
+ACF Nationals 2021,9,20210908,Northwestern,Christopher Sims,2,0,20,Vanderbilt,Editors 3
+ACF Nationals 2021,9,20210908,Northwestern,Andrew Salij,5,0,50,Vanderbilt,Editors 3
+ACF Nationals 2021,9,20210908,Northwestern,Nikhil Chellam,1,1,5,Vanderbilt,Editors 3
+ACF Nationals 2021,9,20210909,Chicago C,Vivek Sasse,2,2,10,Princeton,Editors 3
+ACF Nationals 2021,9,20210909,Chicago C,Robert Condron,5,1,45,Princeton,Editors 3
+ACF Nationals 2021,9,20210909,Chicago C,Daniel Yang,1,0,10,Princeton,Editors 3
+ACF Nationals 2021,9,20210909,Chicago C,Yohhan Kumarasinghe,0,0,0,Princeton,Editors 3
+ACF Nationals 2021,9,20210909,Princeton,Eve Fleisig,4,1,35,Chicago C,Editors 3
+ACF Nationals 2021,9,20210909,Princeton,Nathaniel Hull,3,0,30,Chicago C,Editors 3
+ACF Nationals 2021,9,20210909,Princeton,Maya Chande,1,0,10,Chicago C,Editors 3
+ACF Nationals 2021,9,20210909,Princeton,Samuel Lockwood,0,0,0,Chicago C,Editors 3
+ACF Nationals 2021,9,20210910,Ohio State,Eddy Liu,0,0,0,Texas,Editors 3
+ACF Nationals 2021,9,20210910,Ohio State,Roxanne Tang,0,0,0,Texas,Editors 3
+ACF Nationals 2021,9,20210910,Ohio State,Chris Ray,6,2,50,Texas,Editors 3
+ACF Nationals 2021,9,20210910,Ohio State,Clark Smith,5,0,50,Texas,Editors 3
+ACF Nationals 2021,9,20210910,Texas,William Golden,3,1,25,Ohio State,Editors 3
+ACF Nationals 2021,9,20210910,Texas,Jaskaran Singh,2,1,15,Ohio State,Editors 3
+ACF Nationals 2021,9,20210910,Texas,Ryan Humphrey,2,1,15,Ohio State,Editors 3
+ACF Nationals 2021,9,20210910,Texas,Bradley McLain,2,1,15,Ohio State,Editors 3
+ACF Nationals 2021,10,20211001,Stanford,Tim Morrison,2,1,15,Illinois,Chicago A
+ACF Nationals 2021,10,20211001,Stanford,Natan Holtzman,5,0,50,Illinois,Chicago A
+ACF Nationals 2021,10,20211001,Stanford,Ethan Strombeck,1,0,10,Illinois,Chicago A
+ACF Nationals 2021,10,20211001,Stanford,Eric Wolfsberg,3,1,25,Illinois,Chicago A
+ACF Nationals 2021,10,20211001,Illinois,Iain Carpenter,2,0,20,Stanford,Chicago A
+ACF Nationals 2021,10,20211001,Illinois,Mitch McCullar,2,0,20,Stanford,Chicago A
+ACF Nationals 2021,10,20211001,Illinois,Olivia Kiser,0,0,0,Stanford,Chicago A
+ACF Nationals 2021,10,20211001,Illinois,Auroni Gupta,5,2,40,Stanford,Chicago A
+ACF Nationals 2021,10,20211002,Columbia,Will Alston,6,2,50,North Carolina,Chicago A
+ACF Nationals 2021,10,20211002,Columbia,Noah Chen,1,0,10,North Carolina,Chicago A
+ACF Nationals 2021,10,20211002,Columbia,Noah Sheidlower,1,0,10,North Carolina,Chicago A
+ACF Nationals 2021,10,20211002,Columbia,Caroline Mao,1,0,10,North Carolina,Chicago A
+ACF Nationals 2021,10,20211002,North Carolina,Vincent Du,4,0,40,Columbia,Chicago A
+ACF Nationals 2021,10,20211002,North Carolina,Henry Goff,1,1,5,Columbia,Chicago A
+ACF Nationals 2021,10,20211002,North Carolina,Grant Peet,4,0,40,Columbia,Chicago A
+ACF Nationals 2021,10,20211002,North Carolina,Kevin Thomas,0,1,-5,Columbia,Chicago A
+ACF Nationals 2021,10,20211003,Georgia Tech,Tejas Santanam,0,0,0,Maryland,Chicago A
+ACF Nationals 2021,10,20211003,Georgia Tech,Hari Parameswaran,3,0,30,Maryland,Chicago A
+ACF Nationals 2021,10,20211003,Georgia Tech,Sarah Mueller,3,0,30,Maryland,Chicago A
+ACF Nationals 2021,10,20211003,Georgia Tech,S.A. Shenoy,0,0,0,Maryland,Chicago A
+ACF Nationals 2021,10,20211003,Maryland,Vishwa Shanmugam,4,0,40,Georgia Tech,Chicago A
+ACF Nationals 2021,10,20211003,Maryland,Connor Mayers,1,0,10,Georgia Tech,Chicago A
+ACF Nationals 2021,10,20211003,Maryland,Caleb Kendrick,5,1,45,Georgia Tech,Chicago A
+ACF Nationals 2021,10,20211003,Maryland,Graham Reid,3,0,30,Georgia Tech,Chicago A
+ACF Nationals 2021,10,20211004,Harvard A,Ricky Li,1,0,10,Ohio State,Chicago A
+ACF Nationals 2021,10,20211004,Harvard A,Kelvin Li,1,2,0,Ohio State,Chicago A
+ACF Nationals 2021,10,20211004,Harvard A,Jason Golfinos,5,0,50,Ohio State,Chicago A
+ACF Nationals 2021,10,20211004,Harvard A,Thomas Gioia,1,1,5,Ohio State,Chicago A
+ACF Nationals 2021,10,20211004,Ohio State,Eddy Liu,1,0,10,Harvard A,Chicago A
+ACF Nationals 2021,10,20211004,Ohio State,Roxanne Tang,0,0,0,Harvard A,Chicago A
+ACF Nationals 2021,10,20211004,Ohio State,Chris Ray,10,1,95,Harvard A,Chicago A
+ACF Nationals 2021,10,20211004,Ohio State,Clark Smith,1,0,10,Harvard A,Chicago A
+ACF Nationals 2021,10,20211005,WUSTL,Charles Hang,4,2,30,Texas,Chicago A
+ACF Nationals 2021,10,20211005,WUSTL,Athena Kern,2,0,20,Texas,Chicago A
+ACF Nationals 2021,10,20211005,WUSTL,Jeremy Cummings,1,0,10,Texas,Chicago A
+ACF Nationals 2021,10,20211005,WUSTL,Paul Lee,2,1,15,Texas,Chicago A
+ACF Nationals 2021,10,20211005,Texas,William Golden,4,0,40,WUSTL,Chicago A
+ACF Nationals 2021,10,20211005,Texas,Jaskaran Singh,2,0,20,WUSTL,Chicago A
+ACF Nationals 2021,10,20211005,Texas,Ryan Humphrey,2,0,20,WUSTL,Chicago A
+ACF Nationals 2021,10,20211005,Texas,Bradley McLain,1,0,10,WUSTL,Chicago A
+ACF Nationals 2021,10,20211006,Cornell,Raymond Wang,3,1,25,Yale,Chicago A
+ACF Nationals 2021,10,20211006,Cornell,Dan Ni,2,0,20,Yale,Chicago A
+ACF Nationals 2021,10,20211006,Cornell,Allan Lee,0,1,-5,Yale,Chicago A
+ACF Nationals 2021,10,20211006,Cornell,Jonathan Tran,3,0,30,Yale,Chicago A
+ACF Nationals 2021,10,20211006,Yale,Hasna Karim,2,0,20,Cornell,Chicago A
+ACF Nationals 2021,10,20211006,Yale,Daniel Sheinberg,6,1,55,Cornell,Chicago A
+ACF Nationals 2021,10,20211006,Yale,Matt Pecoraro,0,0,0,Cornell,Chicago A
+ACF Nationals 2021,10,20211006,Yale,Michał Gerasimiuk,3,0,30,Cornell,Chicago A
+ACF Nationals 2021,10,20211007,MIT,David Gomez,0,0,0,Chicago B,Chicago A
+ACF Nationals 2021,10,20211007,MIT,Katherine Lei,2,0,20,Chicago B,Chicago A
+ACF Nationals 2021,10,20211007,MIT,Swapnil Garg,3,3,15,Chicago B,Chicago A
+ACF Nationals 2021,10,20211007,MIT,Grace Liu,2,0,20,Chicago B,Chicago A
+ACF Nationals 2021,10,20211007,Chicago B,John Marvin,2,0,20,MIT,Chicago A
+ACF Nationals 2021,10,20211007,Chicago B,Sam Moore,2,0,20,MIT,Chicago A
+ACF Nationals 2021,10,20211007,Chicago B,Wonyoung Jang,2,0,20,MIT,Chicago A
+ACF Nationals 2021,10,20211007,Chicago B,Walker Combs,3,2,20,MIT,Chicago A
+ACF Nationals 2021,10,20211008,Vanderbilt,Aidan Fein,3,1,25,Princeton,Chicago A
+ACF Nationals 2021,10,20211008,Vanderbilt,Jacob Augelli,4,0,40,Princeton,Chicago A
+ACF Nationals 2021,10,20211008,Vanderbilt,Michael Ponce,1,0,10,Princeton,Chicago A
+ACF Nationals 2021,10,20211008,Vanderbilt,Jonathan Caldwell,0,0,0,Princeton,Chicago A
+ACF Nationals 2021,10,20211008,Princeton,Eve Fleisig,5,1,45,Vanderbilt,Chicago A
+ACF Nationals 2021,10,20211008,Princeton,Nathaniel Hull,3,0,30,Vanderbilt,Chicago A
+ACF Nationals 2021,10,20211008,Princeton,Maya Chande,0,1,-5,Vanderbilt,Chicago A
+ACF Nationals 2021,10,20211008,Princeton,Samuel Lockwood,0,0,0,Vanderbilt,Chicago A
+ACF Nationals 2021,10,20211009,Northwestern,Rohin Devanathan,2,0,20,UC-Berkeley,Chicago A
+ACF Nationals 2021,10,20211009,Northwestern,Christopher Sims,4,1,35,UC-Berkeley,Chicago A
+ACF Nationals 2021,10,20211009,Northwestern,Andrew Salij,2,0,20,UC-Berkeley,Chicago A
+ACF Nationals 2021,10,20211009,Northwestern,Nikhil Chellam,1,0,10,UC-Berkeley,Chicago A
+ACF Nationals 2021,10,20211009,UC-Berkeley,Michael Coates,1,1,5,Northwestern,Chicago A
+ACF Nationals 2021,10,20211009,UC-Berkeley,Rahul Keyal,4,0,40,Northwestern,Chicago A
+ACF Nationals 2021,10,20211009,UC-Berkeley,James Malouf,1,1,5,Northwestern,Chicago A
+ACF Nationals 2021,10,20211009,UC-Berkeley,Shahar Schwartz,2,1,15,Northwestern,Chicago A
+ACF Nationals 2021,10,20211010,Chicago C,Vivek Sasse,1,1,5,Harvard B,Chicago A
+ACF Nationals 2021,10,20211010,Chicago C,Robert Condron,2,2,10,Harvard B,Chicago A
+ACF Nationals 2021,10,20211010,Chicago C,Daniel Yang,2,0,20,Harvard B,Chicago A
+ACF Nationals 2021,10,20211010,Chicago C,Yohhan Kumarasinghe,1,0,10,Harvard B,Chicago A
+ACF Nationals 2021,10,20211010,Harvard B,Mazin Omer,8,1,75,Chicago C,Chicago A
+ACF Nationals 2021,10,20211010,Harvard B,Christopher Gilmer-Hill,3,1,25,Chicago C,Chicago A
+ACF Nationals 2021,11,20211101,Illinois,Iain Carpenter,2,2,10,Chicago A,Editors 4
+ACF Nationals 2021,11,20211101,Illinois,Mitch McCullar,1,2,0,Chicago A,Editors 4
+ACF Nationals 2021,11,20211101,Illinois,Olivia Kiser,1,0,10,Chicago A,Editors 4
+ACF Nationals 2021,11,20211101,Illinois,Auroni Gupta,7,0,70,Chicago A,Editors 4
+ACF Nationals 2021,11,20211101,Chicago A,Matthew Lehmann,4,1,35,Illinois,Editors 4
+ACF Nationals 2021,11,20211101,Chicago A,Adam Fine,0,1,-5,Illinois,Editors 4
+ACF Nationals 2021,11,20211101,Chicago A,Alston Boyd,3,1,25,Illinois,Editors 4
+ACF Nationals 2021,11,20211101,Chicago A,Ben Miller,1,0,10,Illinois,Editors 4
+ACF Nationals 2021,11,20211102,Harvard A,Ricky Li,2,1,15,Maryland,Editors 4
+ACF Nationals 2021,11,20211102,Harvard A,Kelvin Li,2,0,20,Maryland,Editors 4
+ACF Nationals 2021,11,20211102,Harvard A,Jason Golfinos,3,1,25,Maryland,Editors 4
+ACF Nationals 2021,11,20211102,Harvard A,Thomas Gioia,1,0,10,Maryland,Editors 4
+ACF Nationals 2021,11,20211102,Maryland,Vishwa Shanmugam,0,0,0,Harvard A,Editors 4
+ACF Nationals 2021,11,20211102,Maryland,Connor Mayers,0,0,0,Harvard A,Editors 4
+ACF Nationals 2021,11,20211102,Maryland,Caleb Kendrick,8,2,70,Harvard A,Editors 4
+ACF Nationals 2021,11,20211102,Maryland,Graham Reid,2,1,15,Harvard A,Editors 4
+ACF Nationals 2021,11,20211103,Stanford,Tim Morrison,4,0,40,Texas,Editors 4
+ACF Nationals 2021,11,20211103,Stanford,Natan Holtzman,4,1,35,Texas,Editors 4
+ACF Nationals 2021,11,20211103,Stanford,Ethan Strombeck,6,0,60,Texas,Editors 4
+ACF Nationals 2021,11,20211103,Stanford,Eric Wolfsberg,4,0,40,Texas,Editors 4
+ACF Nationals 2021,11,20211103,Texas,William Golden,0,1,-5,Stanford,Editors 4
+ACF Nationals 2021,11,20211103,Texas,Jaskaran Singh,1,1,5,Stanford,Editors 4
+ACF Nationals 2021,11,20211103,Texas,Ryan Humphrey,1,1,5,Stanford,Editors 4
+ACF Nationals 2021,11,20211103,Texas,Bradley McLain,0,1,-5,Stanford,Editors 4
+ACF Nationals 2021,11,20211104,WUSTL,Charles Hang,6,1,55,North Carolina,Editors 4
+ACF Nationals 2021,11,20211104,WUSTL,Athena Kern,1,0,10,North Carolina,Editors 4
+ACF Nationals 2021,11,20211104,WUSTL,Jeremy Cummings,0,1,-5,North Carolina,Editors 4
+ACF Nationals 2021,11,20211104,WUSTL,Paul Lee,2,0,20,North Carolina,Editors 4
+ACF Nationals 2021,11,20211104,North Carolina,Vincent Du,6,0,60,WUSTL,Editors 4
+ACF Nationals 2021,11,20211104,North Carolina,Henry Goff,0,2,-10,WUSTL,Editors 4
+ACF Nationals 2021,11,20211104,North Carolina,Grant Peet,4,1,35,WUSTL,Editors 4
+ACF Nationals 2021,11,20211104,North Carolina,Kevin Thomas,1,0,10,WUSTL,Editors 4
+ACF Nationals 2021,11,20211105,Florida,Taylor Harvey,3,0,30,Ohio State,Editors 4
+ACF Nationals 2021,11,20211105,Florida,Jonathen Settle,1,0,10,Ohio State,Editors 4
+ACF Nationals 2021,11,20211105,Florida,Tracy Mirkin,3,1,25,Ohio State,Editors 4
+ACF Nationals 2021,11,20211105,Florida,Leo Law,1,0,10,Ohio State,Editors 4
+ACF Nationals 2021,11,20211105,Ohio State,Eddy Liu,0,0,0,Florida,Editors 4
+ACF Nationals 2021,11,20211105,Ohio State,Roxanne Tang,1,0,10,Florida,Editors 4
+ACF Nationals 2021,11,20211105,Ohio State,Chris Ray,5,1,45,Florida,Editors 4
+ACF Nationals 2021,11,20211105,Ohio State,Clark Smith,6,0,60,Florida,Editors 4
+ACF Nationals 2021,11,20211106,Princeton,Eve Fleisig,5,1,45,Cornell,Editors 4
+ACF Nationals 2021,11,20211106,Princeton,Nathaniel Hull,3,0,30,Cornell,Editors 4
+ACF Nationals 2021,11,20211106,Princeton,Maya Chande,0,2,-10,Cornell,Editors 4
+ACF Nationals 2021,11,20211106,Princeton,Samuel Lockwood,0,0,0,Cornell,Editors 4
+ACF Nationals 2021,11,20211106,Cornell,Raymond Wang,2,0,20,Princeton,Editors 4
+ACF Nationals 2021,11,20211106,Cornell,Dan Ni,3,1,25,Princeton,Editors 4
+ACF Nationals 2021,11,20211106,Cornell,Allan Lee,2,0,20,Princeton,Editors 4
+ACF Nationals 2021,11,20211106,Cornell,Jonathan Tran,3,0,30,Princeton,Editors 4
+ACF Nationals 2021,11,20211107,Chicago B,John Marvin,5,1,45,Vanderbilt,Editors 4
+ACF Nationals 2021,11,20211107,Chicago B,Sam Moore,5,0,50,Vanderbilt,Editors 4
+ACF Nationals 2021,11,20211107,Chicago B,Wonyoung Jang,1,0,10,Vanderbilt,Editors 4
+ACF Nationals 2021,11,20211107,Chicago B,Walker Combs,2,3,5,Vanderbilt,Editors 4
+ACF Nationals 2021,11,20211107,Vanderbilt,Aidan Fein,0,1,-5,Chicago B,Editors 4
+ACF Nationals 2021,11,20211107,Vanderbilt,Jacob Augelli,2,0,20,Chicago B,Editors 4
+ACF Nationals 2021,11,20211107,Vanderbilt,Michael Ponce,0,0,0,Chicago B,Editors 4
+ACF Nationals 2021,11,20211107,Vanderbilt,Jonathan Caldwell,2,0,20,Chicago B,Editors 4
+ACF Nationals 2021,11,20211108,Northwestern,Rohin Devanathan,1,0,10,Brown,Editors 4
+ACF Nationals 2021,11,20211108,Northwestern,Christopher Sims,4,1,35,Brown,Editors 4
+ACF Nationals 2021,11,20211108,Northwestern,Andrew Salij,1,1,5,Brown,Editors 4
+ACF Nationals 2021,11,20211108,Northwestern,Nikhil Chellam,2,1,15,Brown,Editors 4
+ACF Nationals 2021,11,20211108,Brown,Anson Berns,3,1,25,Northwestern,Editors 4
+ACF Nationals 2021,11,20211108,Brown,Jason Hong,6,1,55,Northwestern,Editors 4
+ACF Nationals 2021,11,20211108,Brown,Michael Li,1,0,10,Northwestern,Editors 4
+ACF Nationals 2021,11,20211108,Brown,Walter Zhang,1,0,10,Northwestern,Editors 4
+ACF Nationals 2021,11,20211109,Minnesota,Ben Weiner,1,0,10,MIT,Editors 4
+ACF Nationals 2021,11,20211109,Minnesota,Davis Everson-Rose,4,2,30,MIT,Editors 4
+ACF Nationals 2021,11,20211109,Minnesota,Ethan Ashbrook,3,1,25,MIT,Editors 4
+ACF Nationals 2021,11,20211109,Minnesota,Urbas Ekka,1,0,10,MIT,Editors 4
+ACF Nationals 2021,11,20211109,MIT,David Gomez,0,0,0,Minnesota,Editors 4
+ACF Nationals 2021,11,20211109,MIT,Katherine Lei,3,0,30,Minnesota,Editors 4
+ACF Nationals 2021,11,20211109,MIT,Swapnil Garg,3,1,25,Minnesota,Editors 4
+ACF Nationals 2021,11,20211109,MIT,Grace Liu,5,2,40,Minnesota,Editors 4
+ACF Nationals 2021,11,20211110,Chicago C,Vivek Sasse,2,0,20,UC-Berkeley,Editors 4
+ACF Nationals 2021,11,20211110,Chicago C,Robert Condron,6,1,55,UC-Berkeley,Editors 4
+ACF Nationals 2021,11,20211110,Chicago C,Daniel Yang,0,0,0,UC-Berkeley,Editors 4
+ACF Nationals 2021,11,20211110,Chicago C,Yohhan Kumarasinghe,1,1,5,UC-Berkeley,Editors 4
+ACF Nationals 2021,11,20211110,UC-Berkeley,Michael Coates,2,0,20,Chicago C,Editors 4
+ACF Nationals 2021,11,20211110,UC-Berkeley,Rahul Keyal,4,0,40,Chicago C,Editors 4
+ACF Nationals 2021,11,20211110,UC-Berkeley,James Malouf,2,1,15,Chicago C,Editors 4
+ACF Nationals 2021,11,20211110,UC-Berkeley,Shahar Schwartz,2,1,15,Chicago C,Editors 4
+ACF Nationals 2021,12,20211201,Chicago B,John Marvin,9,2,80,Yale,Berkeley
+ACF Nationals 2021,12,20211201,Chicago B,Sam Moore,0,0,0,Yale,Berkeley
+ACF Nationals 2021,12,20211201,Chicago B,Wonyoung Jang,2,0,20,Yale,Berkeley
+ACF Nationals 2021,12,20211201,Chicago B,Walker Combs,0,0,0,Yale,Berkeley
+ACF Nationals 2021,12,20211201,Yale,Hasna Karim,3,0,30,Chicago B,Berkeley
+ACF Nationals 2021,12,20211201,Yale,Daniel Sheinberg,2,0,20,Chicago B,Berkeley
+ACF Nationals 2021,12,20211201,Yale,Matt Pecoraro,0,0,0,Chicago B,Berkeley
+ACF Nationals 2021,12,20211201,Yale,Michał Gerasimiuk,2,0,20,Chicago B,Berkeley
+ACF Nationals 2021,12,20211202,Florida,Taylor Harvey,4,0,40,Texas,Berkeley
+ACF Nationals 2021,12,20211202,Florida,Jonathen Settle,2,1,15,Texas,Berkeley
+ACF Nationals 2021,12,20211202,Florida,Tracy Mirkin,4,1,35,Texas,Berkeley
+ACF Nationals 2021,12,20211202,Florida,Leo Law,2,0,20,Texas,Berkeley
+ACF Nationals 2021,12,20211202,Texas,William Golden,2,0,20,Florida,Berkeley
+ACF Nationals 2021,12,20211202,Texas,Jaskaran Singh,3,1,25,Florida,Berkeley
+ACF Nationals 2021,12,20211202,Texas,Ryan Humphrey,1,1,5,Florida,Berkeley
+ACF Nationals 2021,12,20211202,Texas,Bradley McLain,0,2,-10,Florida,Berkeley
+ACF Nationals 2021,12,20211203,Columbia,Will Alston,7,2,60,Stanford,Berkeley
+ACF Nationals 2021,12,20211203,Columbia,Noah Chen,1,1,5,Stanford,Berkeley
+ACF Nationals 2021,12,20211203,Columbia,Noah Sheidlower,0,0,0,Stanford,Berkeley
+ACF Nationals 2021,12,20211203,Columbia,Caroline Mao,1,0,10,Stanford,Berkeley
+ACF Nationals 2021,12,20211203,Stanford,Tim Morrison,3,0,30,Columbia,Berkeley
+ACF Nationals 2021,12,20211203,Stanford,Natan Holtzman,4,1,35,Columbia,Berkeley
+ACF Nationals 2021,12,20211203,Stanford,Ethan Strombeck,1,0,10,Columbia,Berkeley
+ACF Nationals 2021,12,20211203,Stanford,Eric Wolfsberg,1,1,5,Columbia,Berkeley
+ACF Nationals 2021,12,20211204,Chicago C,Vivek Sasse,2,1,15,MIT,Berkeley
+ACF Nationals 2021,12,20211204,Chicago C,Robert Condron,5,1,45,MIT,Berkeley
+ACF Nationals 2021,12,20211204,Chicago C,Daniel Yang,0,0,0,MIT,Berkeley
+ACF Nationals 2021,12,20211204,Chicago C,Yohhan Kumarasinghe,0,1,-5,MIT,Berkeley
+ACF Nationals 2021,12,20211204,MIT,David Gomez,0,0,0,Chicago C,Berkeley
+ACF Nationals 2021,12,20211204,MIT,Katherine Lei,1,0,10,Chicago C,Berkeley
+ACF Nationals 2021,12,20211204,MIT,Swapnil Garg,5,2,40,Chicago C,Berkeley
+ACF Nationals 2021,12,20211204,MIT,Grace Liu,5,0,50,Chicago C,Berkeley
+ACF Nationals 2021,12,20211205,Harvard B,Mazin Omer,2,1,15,Princeton,Berkeley
+ACF Nationals 2021,12,20211205,Harvard B,Christopher Gilmer-Hill,3,1,25,Princeton,Berkeley
+ACF Nationals 2021,12,20211205,Princeton,Eve Fleisig,5,0,50,Harvard B,Berkeley
+ACF Nationals 2021,12,20211205,Princeton,Nathaniel Hull,5,0,50,Harvard B,Berkeley
+ACF Nationals 2021,12,20211205,Princeton,Maya Chande,0,0,0,Harvard B,Berkeley
+ACF Nationals 2021,12,20211205,Princeton,Samuel Lockwood,0,0,0,Harvard B,Berkeley
+ACF Nationals 2021,12,20211206,Maryland,Vishwa Shanmugam,0,1,-5,Illinois,Berkeley
+ACF Nationals 2021,12,20211206,Maryland,Connor Mayers,2,0,20,Illinois,Berkeley
+ACF Nationals 2021,12,20211206,Maryland,Caleb Kendrick,5,1,45,Illinois,Berkeley
+ACF Nationals 2021,12,20211206,Maryland,Graham Reid,2,0,20,Illinois,Berkeley
+ACF Nationals 2021,12,20211206,Illinois,Iain Carpenter,2,0,20,Maryland,Berkeley
+ACF Nationals 2021,12,20211206,Illinois,Mitch McCullar,0,0,0,Maryland,Berkeley
+ACF Nationals 2021,12,20211206,Illinois,Olivia Kiser,2,1,15,Maryland,Berkeley
+ACF Nationals 2021,12,20211206,Illinois,Auroni Gupta,5,3,35,Maryland,Berkeley
+ACF Nationals 2021,12,20211207,WUSTL,Charles Hang,4,4,20,Georgia Tech,Berkeley
+ACF Nationals 2021,12,20211207,WUSTL,Athena Kern,3,0,30,Georgia Tech,Berkeley
+ACF Nationals 2021,12,20211207,WUSTL,Jeremy Cummings,0,0,0,Georgia Tech,Berkeley
+ACF Nationals 2021,12,20211207,WUSTL,Paul Lee,3,0,30,Georgia Tech,Berkeley
+ACF Nationals 2021,12,20211207,Georgia Tech,Tejas Santanam,1,2,0,WUSTL,Berkeley
+ACF Nationals 2021,12,20211207,Georgia Tech,Hari Parameswaran,7,0,70,WUSTL,Berkeley
+ACF Nationals 2021,12,20211207,Georgia Tech,Sarah Mueller,0,0,0,WUSTL,Berkeley
+ACF Nationals 2021,12,20211207,Georgia Tech,S.A. Shenoy,0,0,0,WUSTL,Berkeley
+ACF Nationals 2021,12,20211208,Brown,Anson Berns,6,1,55,Vanderbilt,Berkeley
+ACF Nationals 2021,12,20211208,Brown,Jason Hong,3,2,20,Vanderbilt,Berkeley
+ACF Nationals 2021,12,20211208,Brown,Michael Li,1,0,10,Vanderbilt,Berkeley
+ACF Nationals 2021,12,20211208,Brown,Walter Zhang,0,0,0,Vanderbilt,Berkeley
+ACF Nationals 2021,12,20211208,Vanderbilt,Aidan Fein,1,0,10,Brown,Berkeley
+ACF Nationals 2021,12,20211208,Vanderbilt,Jacob Augelli,6,0,60,Brown,Berkeley
+ACF Nationals 2021,12,20211208,Vanderbilt,Michael Ponce,0,0,0,Brown,Berkeley
+ACF Nationals 2021,12,20211208,Vanderbilt,Jonathan Caldwell,1,0,10,Brown,Berkeley
+ACF Nationals 2021,13,20211301,Illinois,Iain Carpenter,1,1,5,Harvard A,Editors 5
+ACF Nationals 2021,13,20211301,Illinois,Mitch McCullar,0,0,0,Harvard A,Editors 5
+ACF Nationals 2021,13,20211301,Illinois,Olivia Kiser,1,0,10,Harvard A,Editors 5
+ACF Nationals 2021,13,20211301,Illinois,Auroni Gupta,4,3,25,Harvard A,Editors 5
+ACF Nationals 2021,13,20211301,Harvard A,Ricky Li,2,0,20,Illinois,Editors 5
+ACF Nationals 2021,13,20211301,Harvard A,Kelvin Li,2,0,20,Illinois,Editors 5
+ACF Nationals 2021,13,20211301,Harvard A,Jason Golfinos,8,0,80,Illinois,Editors 5
+ACF Nationals 2021,13,20211301,Harvard A,Thomas Gioia,2,0,20,Illinois,Editors 5
+ACF Nationals 2021,13,20211302,Columbia,Will Alston,9,1,85,Chicago A,Editors 5
+ACF Nationals 2021,13,20211302,Columbia,Noah Chen,2,0,20,Chicago A,Editors 5
+ACF Nationals 2021,13,20211302,Columbia,Noah Sheidlower,2,0,20,Chicago A,Editors 5
+ACF Nationals 2021,13,20211302,Columbia,Caroline Mao,1,0,10,Chicago A,Editors 5
+ACF Nationals 2021,13,20211302,Chicago A,Matthew Lehmann,0,3,-15,Columbia,Editors 5
+ACF Nationals 2021,13,20211302,Chicago A,Adam Fine,2,0,20,Columbia,Editors 5
+ACF Nationals 2021,13,20211302,Chicago A,Alston Boyd,2,1,15,Columbia,Editors 5
+ACF Nationals 2021,13,20211302,Chicago A,Ben Miller,2,0,20,Columbia,Editors 5
+ACF Nationals 2021,13,20211303,Florida,Taylor Harvey,2,1,15,North Carolina,Editors 5
+ACF Nationals 2021,13,20211303,Florida,Jonathen Settle,4,1,35,North Carolina,Editors 5
+ACF Nationals 2021,13,20211303,Florida,Tracy Mirkin,4,2,30,North Carolina,Editors 5
+ACF Nationals 2021,13,20211303,Florida,Leo Law,1,1,5,North Carolina,Editors 5
+ACF Nationals 2021,13,20211303,North Carolina,Vincent Du,4,0,40,Florida,Editors 5
+ACF Nationals 2021,13,20211303,North Carolina,Henry Goff,1,1,5,Florida,Editors 5
+ACF Nationals 2021,13,20211303,North Carolina,Grant Peet,1,2,0,Florida,Editors 5
+ACF Nationals 2021,13,20211303,North Carolina,Kevin Thomas,2,2,10,Florida,Editors 5
+ACF Nationals 2021,13,20211304,Texas,William Golden,1,1,5,Georgia Tech,Editors 5
+ACF Nationals 2021,13,20211304,Texas,Jaskaran Singh,2,1,15,Georgia Tech,Editors 5
+ACF Nationals 2021,13,20211304,Texas,Ryan Humphrey,3,0,30,Georgia Tech,Editors 5
+ACF Nationals 2021,13,20211304,Texas,Bradley McLain,5,1,45,Georgia Tech,Editors 5
+ACF Nationals 2021,13,20211304,Georgia Tech,Tejas Santanam,0,0,0,Texas,Editors 5
+ACF Nationals 2021,13,20211304,Georgia Tech,Hari Parameswaran,3,2,20,Texas,Editors 5
+ACF Nationals 2021,13,20211304,Georgia Tech,Sarah Mueller,0,0,0,Texas,Editors 5
+ACF Nationals 2021,13,20211304,Georgia Tech,S.A. Shenoy,5,0,50,Texas,Editors 5
+ACF Nationals 2021,13,20211305,Maryland,Vishwa Shanmugam,0,3,-15,Ohio State,Editors 5
+ACF Nationals 2021,13,20211305,Maryland,Connor Mayers,1,0,10,Ohio State,Editors 5
+ACF Nationals 2021,13,20211305,Maryland,Caleb Kendrick,5,2,40,Ohio State,Editors 5
+ACF Nationals 2021,13,20211305,Maryland,Graham Reid,1,1,5,Ohio State,Editors 5
+ACF Nationals 2021,13,20211305,Ohio State,Eddy Liu,1,0,10,Maryland,Editors 5
+ACF Nationals 2021,13,20211305,Ohio State,Roxanne Tang,2,0,20,Maryland,Editors 5
+ACF Nationals 2021,13,20211305,Ohio State,Chris Ray,7,0,70,Maryland,Editors 5
+ACF Nationals 2021,13,20211305,Ohio State,Clark Smith,2,1,15,Maryland,Editors 5
+ACF Nationals 2021,13,20211306,Cornell,Raymond Wang,4,0,40,Brown,Editors 5
+ACF Nationals 2021,13,20211306,Cornell,Dan Ni,1,2,0,Brown,Editors 5
+ACF Nationals 2021,13,20211306,Cornell,Allan Lee,1,0,10,Brown,Editors 5
+ACF Nationals 2021,13,20211306,Cornell,Jonathan Tran,3,1,25,Brown,Editors 5
+ACF Nationals 2021,13,20211306,Brown,Anson Berns,3,1,25,Cornell,Editors 5
+ACF Nationals 2021,13,20211306,Brown,Jason Hong,3,1,25,Cornell,Editors 5
+ACF Nationals 2021,13,20211306,Brown,Michael Li,1,0,10,Cornell,Editors 5
+ACF Nationals 2021,13,20211306,Brown,Walter Zhang,3,0,30,Cornell,Editors 5
+ACF Nationals 2021,13,20211307,MIT,David Gomez,1,0,10,UC-Berkeley,Editors 5
+ACF Nationals 2021,13,20211307,MIT,Katherine Lei,0,0,0,UC-Berkeley,Editors 5
+ACF Nationals 2021,13,20211307,MIT,Swapnil Garg,4,1,35,UC-Berkeley,Editors 5
+ACF Nationals 2021,13,20211307,MIT,Grace Liu,3,2,20,UC-Berkeley,Editors 5
+ACF Nationals 2021,13,20211307,UC-Berkeley,Michael Coates,3,0,30,MIT,Editors 5
+ACF Nationals 2021,13,20211307,UC-Berkeley,Rahul Keyal,1,0,10,MIT,Editors 5
+ACF Nationals 2021,13,20211307,UC-Berkeley,James Malouf,6,1,55,MIT,Editors 5
+ACF Nationals 2021,13,20211307,UC-Berkeley,Shahar Schwartz,1,0,10,MIT,Editors 5
+ACF Nationals 2021,13,20211308,Minnesota,Ben Weiner,0,0,0,Yale,Editors 5
+ACF Nationals 2021,13,20211308,Minnesota,Davis Everson-Rose,2,2,10,Yale,Editors 5
+ACF Nationals 2021,13,20211308,Minnesota,Ethan Ashbrook,5,0,50,Yale,Editors 5
+ACF Nationals 2021,13,20211308,Minnesota,Urbas Ekka,1,0,10,Yale,Editors 5
+ACF Nationals 2021,13,20211308,Yale,Hasna Karim,2,1,15,Minnesota,Editors 5
+ACF Nationals 2021,13,20211308,Yale,Daniel Sheinberg,4,0,40,Minnesota,Editors 5
+ACF Nationals 2021,13,20211308,Yale,Matt Pecoraro,3,0,30,Minnesota,Editors 5
+ACF Nationals 2021,13,20211308,Yale,Michał Gerasimiuk,0,1,-5,Minnesota,Editors 5
+ACF Nationals 2021,13,20211309,Vanderbilt,Aidan Fein,3,0,30,Harvard B,Editors 5
+ACF Nationals 2021,13,20211309,Vanderbilt,Jacob Augelli,3,0,30,Harvard B,Editors 5
+ACF Nationals 2021,13,20211309,Vanderbilt,Michael Ponce,1,1,5,Harvard B,Editors 5
+ACF Nationals 2021,13,20211309,Vanderbilt,Jonathan Caldwell,1,1,5,Harvard B,Editors 5
+ACF Nationals 2021,13,20211309,Harvard B,Mazin Omer,6,1,55,Vanderbilt,Editors 5
+ACF Nationals 2021,13,20211309,Harvard B,Christopher Gilmer-Hill,3,0,30,Vanderbilt,Editors 5
+ACF Nationals 2021,13,20211310,Chicago C,Vivek Sasse,4,0,40,Northwestern,Editors 5
+ACF Nationals 2021,13,20211310,Chicago C,Robert Condron,3,0,30,Northwestern,Editors 5
+ACF Nationals 2021,13,20211310,Chicago C,Daniel Yang,1,1,5,Northwestern,Editors 5
+ACF Nationals 2021,13,20211310,Chicago C,Yohhan Kumarasinghe,0,1,-5,Northwestern,Editors 5
+ACF Nationals 2021,13,20211310,Northwestern,Rohin Devanathan,5,1,45,Chicago C,Editors 5
+ACF Nationals 2021,13,20211310,Northwestern,Christopher Sims,2,0,20,Chicago C,Editors 5
+ACF Nationals 2021,13,20211310,Northwestern,Andrew Salij,2,1,15,Chicago C,Editors 5
+ACF Nationals 2021,13,20211310,Northwestern,Nikhil Chellam,2,1,15,Chicago C,Editors 5
+ACF Nationals 2021,14,20211401,UC-Berkeley,Michael Coates,2,0,20,Vanderbilt,Ohio State + Duke
+ACF Nationals 2021,14,20211401,UC-Berkeley,Rahul Keyal,8,1,75,Vanderbilt,Ohio State + Duke
+ACF Nationals 2021,14,20211401,UC-Berkeley,James Malouf,2,0,20,Vanderbilt,Ohio State + Duke
+ACF Nationals 2021,14,20211401,UC-Berkeley,Shahar Schwartz,0,2,-10,Vanderbilt,Ohio State + Duke
+ACF Nationals 2021,14,20211401,Vanderbilt,Aidan Fein,1,2,0,UC-Berkeley,Ohio State + Duke
+ACF Nationals 2021,14,20211401,Vanderbilt,Jacob Augelli,2,0,20,UC-Berkeley,Ohio State + Duke
+ACF Nationals 2021,14,20211401,Vanderbilt,Michael Ponce,0,1,-5,UC-Berkeley,Ohio State + Duke
+ACF Nationals 2021,14,20211401,Vanderbilt,Jonathan Caldwell,0,1,-5,UC-Berkeley,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Princeton,Eve Fleisig,7,0,70,Chicago B,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Princeton,Nathaniel Hull,4,0,40,Chicago B,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Princeton,Maya Chande,0,0,0,Chicago B,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Princeton,Samuel Lockwood,0,0,0,Chicago B,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Chicago B,John Marvin,3,0,30,Princeton,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Chicago B,Sam Moore,2,1,15,Princeton,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Chicago B,Wonyoung Jang,1,1,5,Princeton,Ohio State + Duke
+ACF Nationals 2021,14,20211402,Chicago B,Walker Combs,2,0,20,Princeton,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Minnesota,Ben Weiner,0,0,0,Cornell,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Minnesota,Davis Everson-Rose,3,3,15,Cornell,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Minnesota,Ethan Ashbrook,1,0,10,Cornell,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Minnesota,Urbas Ekka,2,0,20,Cornell,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Cornell,Raymond Wang,3,1,25,Minnesota,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Cornell,Dan Ni,1,1,5,Minnesota,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Cornell,Allan Lee,1,0,10,Minnesota,Ohio State + Duke
+ACF Nationals 2021,14,20211403,Cornell,Jonathan Tran,4,0,40,Minnesota,Ohio State + Duke
+ACF Nationals 2021,14,20211404,Stanford,Tim Morrison,3,0,30,WUSTL,Ohio State + Duke
+ACF Nationals 2021,14,20211404,Stanford,Natan Holtzman,3,0,30,WUSTL,Ohio State + Duke
+ACF Nationals 2021,14,20211404,Stanford,Ethan Strombeck,3,0,30,WUSTL,Ohio State + Duke
+ACF Nationals 2021,14,20211404,Stanford,Eric Wolfsberg,4,1,35,WUSTL,Ohio State + Duke
+ACF Nationals 2021,14,20211404,WUSTL,Charles Hang,4,1,35,Stanford,Ohio State + Duke
+ACF Nationals 2021,14,20211404,WUSTL,Athena Kern,2,0,20,Stanford,Ohio State + Duke
+ACF Nationals 2021,14,20211404,WUSTL,Jeremy Cummings,0,0,0,Stanford,Ohio State + Duke
+ACF Nationals 2021,14,20211404,WUSTL,Paul Lee,0,1,-5,Stanford,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Texas,William Golden,3,0,30,Harvard A,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Texas,Jaskaran Singh,3,0,30,Harvard A,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Texas,Ryan Humphrey,0,0,0,Harvard A,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Texas,Bradley McLain,4,1,35,Harvard A,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Harvard A,Ricky Li,1,1,5,Texas,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Harvard A,Kelvin Li,1,1,5,Texas,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Harvard A,Jason Golfinos,3,3,15,Texas,Ohio State + Duke
+ACF Nationals 2021,14,20211405,Harvard A,Thomas Gioia,2,0,20,Texas,Ohio State + Duke
+ACF Nationals 2021,14,20211406,North Carolina,Vincent Du,2,1,15,Chicago A,Ohio State + Duke
+ACF Nationals 2021,14,20211406,North Carolina,Henry Goff,2,0,20,Chicago A,Ohio State + Duke
+ACF Nationals 2021,14,20211406,North Carolina,Grant Peet,1,0,10,Chicago A,Ohio State + Duke
+ACF Nationals 2021,14,20211406,North Carolina,Kevin Thomas,1,1,5,Chicago A,Ohio State + Duke
+ACF Nationals 2021,14,20211406,Chicago A,Matthew Lehmann,6,1,55,North Carolina,Ohio State + Duke
+ACF Nationals 2021,14,20211406,Chicago A,Adam Fine,5,0,50,North Carolina,Ohio State + Duke
+ACF Nationals 2021,14,20211406,Chicago A,Alston Boyd,2,1,15,North Carolina,Ohio State + Duke
+ACF Nationals 2021,14,20211406,Chicago A,Ben Miller,1,0,10,North Carolina,Ohio State + Duke
+ACF Nationals 2021,14,20211407,Yale,Hasna Karim,2,0,20,Harvard B,Ohio State + Duke
+ACF Nationals 2021,14,20211407,Yale,Daniel Sheinberg,6,0,60,Harvard B,Ohio State + Duke
+ACF Nationals 2021,14,20211407,Yale,Matt Pecoraro,0,0,0,Harvard B,Ohio State + Duke
+ACF Nationals 2021,14,20211407,Yale,Michał Gerasimiuk,2,0,20,Harvard B,Ohio State + Duke
+ACF Nationals 2021,14,20211407,Harvard B,Mazin Omer,3,1,25,Yale,Ohio State + Duke
+ACF Nationals 2021,14,20211407,Harvard B,Christopher Gilmer-Hill,4,0,40,Yale,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Columbia,Will Alston,9,0,90,Georgia Tech,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Columbia,Noah Chen,1,0,10,Georgia Tech,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Columbia,Noah Sheidlower,1,0,10,Georgia Tech,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Columbia,Caroline Mao,2,0,20,Georgia Tech,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Georgia Tech,Tejas Santanam,0,1,-5,Columbia,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Georgia Tech,Hari Parameswaran,0,1,-5,Columbia,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Georgia Tech,S.A. Shenoy,4,1,35,Columbia,Ohio State + Duke
+ACF Nationals 2021,14,20211408,Georgia Tech,Sarah Mueller,0,1,-5,Columbia,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Florida,Taylor Harvey,3,0,30,Illinois,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Florida,Jonathen Settle,2,0,20,Illinois,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Florida,Tracy Mirkin,5,0,50,Illinois,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Florida,Leo Law,0,0,0,Illinois,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Illinois,Iain Carpenter,3,1,25,Florida,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Illinois,Mitch McCullar,0,2,-10,Florida,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Illinois,Olivia Kiser,1,1,5,Florida,Ohio State + Duke
+ACF Nationals 2021,14,20211409,Illinois,Auroni Gupta,6,3,45,Florida,Ohio State + Duke
+ACF Nationals 2021,14,20211410,MIT,David Gomez,0,0,0,Brown,Ohio State + Duke
+ACF Nationals 2021,14,20211410,MIT,Katherine Lei,3,0,30,Brown,Ohio State + Duke
+ACF Nationals 2021,14,20211410,MIT,Swapnil Garg,2,1,15,Brown,Ohio State + Duke
+ACF Nationals 2021,14,20211410,MIT,Grace Liu,5,1,45,Brown,Ohio State + Duke
+ACF Nationals 2021,14,20211410,Brown,Anson Berns,2,2,10,MIT,Ohio State + Duke
+ACF Nationals 2021,14,20211410,Brown,Jason Hong,2,3,5,MIT,Ohio State + Duke
+ACF Nationals 2021,14,20211410,Brown,Michael Li,1,0,10,MIT,Ohio State + Duke
+ACF Nationals 2021,14,20211410,Brown,Walter Zhang,1,0,10,MIT,Ohio State + Duke
+ACF Nationals 2021,15,20211501,Minnesota,Ben Weiner,0,0,0,Harvard B,Editors 6
+ACF Nationals 2021,15,20211501,Minnesota,Davis Everson-Rose,4,4,20,Harvard B,Editors 6
+ACF Nationals 2021,15,20211501,Minnesota,Ethan Ashbrook,1,1,5,Harvard B,Editors 6
+ACF Nationals 2021,15,20211501,Minnesota,Urbas Ekka,1,0,10,Harvard B,Editors 6
+ACF Nationals 2021,15,20211501,Harvard B,Mazin Omer,6,0,60,Minnesota,Editors 6
+ACF Nationals 2021,15,20211501,Harvard B,Christopher Gilmer-Hill,3,2,20,Minnesota,Editors 6
+ACF Nationals 2021,15,20211502,Columbia,Will Alston,7,5,45,Florida,Editors 6
+ACF Nationals 2021,15,20211502,Columbia,Noah Chen,1,1,5,Florida,Editors 6
+ACF Nationals 2021,15,20211502,Columbia,Noah Sheidlower,0,0,0,Florida,Editors 6
+ACF Nationals 2021,15,20211502,Columbia,Caroline Mao,1,0,10,Florida,Editors 6
+ACF Nationals 2021,15,20211502,Florida,Taylor Harvey,5,0,50,Columbia,Editors 6
+ACF Nationals 2021,15,20211502,Florida,Jonathen Settle,2,1,15,Columbia,Editors 6
+ACF Nationals 2021,15,20211502,Florida,Tracy Mirkin,3,1,25,Columbia,Editors 6
+ACF Nationals 2021,15,20211502,Florida,Leo Law,1,0,10,Columbia,Editors 6
+ACF Nationals 2021,15,20211503,Texas,William Golden,3,0,30,Illinois,Editors 6
+ACF Nationals 2021,15,20211503,Texas,Jaskaran Singh,2,0,20,Illinois,Editors 6
+ACF Nationals 2021,15,20211503,Texas,Ryan Humphrey,1,1,5,Illinois,Editors 6
+ACF Nationals 2021,15,20211503,Texas,Bradley McLain,1,0,10,Illinois,Editors 6
+ACF Nationals 2021,15,20211503,Illinois,Iain Carpenter,4,1,35,Texas,Editors 6
+ACF Nationals 2021,15,20211503,Illinois,Mitch McCullar,1,0,10,Texas,Editors 6
+ACF Nationals 2021,15,20211503,Illinois,Olivia Kiser,0,0,0,Texas,Editors 6
+ACF Nationals 2021,15,20211503,Illinois,Auroni Gupta,7,4,50,Texas,Editors 6
+ACF Nationals 2021,15,20211504,Ohio State,Eddy Liu,0,1,-5,WUSTL,Editors 6
+ACF Nationals 2021,15,20211504,Ohio State,Roxanne Tang,0,0,0,WUSTL,Editors 6
+ACF Nationals 2021,15,20211504,Ohio State,Chris Ray,10,2,90,WUSTL,Editors 6
+ACF Nationals 2021,15,20211504,Ohio State,Clark Smith,4,0,40,WUSTL,Editors 6
+ACF Nationals 2021,15,20211504,WUSTL,Charles Hang,2,5,-5,Ohio State,Editors 6
+ACF Nationals 2021,15,20211504,WUSTL,Athena Kern,1,0,10,Ohio State,Editors 6
+ACF Nationals 2021,15,20211504,WUSTL,Jeremy Cummings,1,0,10,Ohio State,Editors 6
+ACF Nationals 2021,15,20211504,WUSTL,Paul Lee,1,0,10,Ohio State,Editors 6
+ACF Nationals 2021,15,20211505,Yale,Hasna Karim,1,1,5,Brown,Editors 6
+ACF Nationals 2021,15,20211505,Yale,Daniel Sheinberg,3,0,30,Brown,Editors 6
+ACF Nationals 2021,15,20211505,Yale,Matt Pecoraro,2,0,20,Brown,Editors 6
+ACF Nationals 2021,15,20211505,Yale,Michał Gerasimiuk,3,2,20,Brown,Editors 6
+ACF Nationals 2021,15,20211505,Brown,Anson Berns,1,1,5,Yale,Editors 6
+ACF Nationals 2021,15,20211505,Brown,Jason Hong,2,3,5,Yale,Editors 6
+ACF Nationals 2021,15,20211505,Brown,Michael Li,1,1,5,Yale,Editors 6
+ACF Nationals 2021,15,20211505,Brown,Walter Zhang,2,1,15,Yale,Editors 6
+ACF Nationals 2021,15,20211506,Chicago C,Vivek Sasse,3,1,25,Cornell,Editors 6
+ACF Nationals 2021,15,20211506,Chicago C,Robert Condron,5,0,50,Cornell,Editors 6
+ACF Nationals 2021,15,20211506,Chicago C,Daniel Yang,0,1,-5,Cornell,Editors 6
+ACF Nationals 2021,15,20211506,Chicago C,Yohhan Kumarasinghe,0,1,-5,Cornell,Editors 6
+ACF Nationals 2021,15,20211506,Cornell,Raymond Wang,3,1,25,Chicago C,Editors 6
+ACF Nationals 2021,15,20211506,Cornell,Dan Ni,1,0,10,Chicago C,Editors 6
+ACF Nationals 2021,15,20211506,Cornell,Allan Lee,1,1,5,Chicago C,Editors 6
+ACF Nationals 2021,15,20211506,Cornell,Jonathan Tran,3,0,30,Chicago C,Editors 6
+ACF Nationals 2021,15,20211507,Princeton,Eve Fleisig,3,0,30,Northwestern,Editors 6
+ACF Nationals 2021,15,20211507,Princeton,Nathaniel Hull,4,0,40,Northwestern,Editors 6
+ACF Nationals 2021,15,20211507,Princeton,Maya Chande,1,0,10,Northwestern,Editors 6
+ACF Nationals 2021,15,20211507,Princeton,Samuel Lockwood,0,0,0,Northwestern,Editors 6
+ACF Nationals 2021,15,20211507,Northwestern,Rohin Devanathan,3,1,25,Princeton,Editors 6
+ACF Nationals 2021,15,20211507,Northwestern,Christopher Sims,5,1,45,Princeton,Editors 6
+ACF Nationals 2021,15,20211507,Northwestern,Andrew Salij,0,1,-5,Princeton,Editors 6
+ACF Nationals 2021,15,20211507,Northwestern,Nikhil Chellam,1,2,0,Princeton,Editors 6
+ACF Nationals 2021,15,20211508,Chicago A,Matthew Lehmann,5,0,50,Georgia Tech,Editors 6
+ACF Nationals 2021,15,20211508,Chicago A,Adam Fine,2,1,15,Georgia Tech,Editors 6
+ACF Nationals 2021,15,20211508,Chicago A,Alston Boyd,3,0,30,Georgia Tech,Editors 6
+ACF Nationals 2021,15,20211508,Chicago A,Ben Miller,1,0,10,Georgia Tech,Editors 6
+ACF Nationals 2021,15,20211508,Georgia Tech,Tejas Santanam,1,0,10,Chicago A,Editors 6
+ACF Nationals 2021,15,20211508,Georgia Tech,Hari Parameswaran,4,2,30,Chicago A,Editors 6
+ACF Nationals 2021,15,20211508,Georgia Tech,S.A. Shenoy,1,1,5,Chicago A,Editors 6
+ACF Nationals 2021,15,20211508,Georgia Tech,Sarah Mueller,1,0,10,Chicago A,Editors 6
+ACF Nationals 2021,15,20211509,Maryland,Vishwa Shanmugam,4,1,35,North Carolina,Editors 6
+ACF Nationals 2021,15,20211509,Maryland,Connor Mayers,0,0,0,North Carolina,Editors 6
+ACF Nationals 2021,15,20211509,Maryland,Caleb Kendrick,3,2,20,North Carolina,Editors 6
+ACF Nationals 2021,15,20211509,Maryland,Graham Reid,2,0,20,North Carolina,Editors 6
+ACF Nationals 2021,15,20211509,North Carolina,Vincent Du,3,3,15,Maryland,Editors 6
+ACF Nationals 2021,15,20211509,North Carolina,Henry Goff,2,1,15,Maryland,Editors 6
+ACF Nationals 2021,15,20211509,North Carolina,Grant Peet,0,0,0,Maryland,Editors 6
+ACF Nationals 2021,15,20211509,North Carolina,Kevin Thomas,3,0,30,Maryland,Editors 6
+ACF Nationals 2021,15,20211510,MIT,David Gomez,1,0,10,Vanderbilt,Editors 6
+ACF Nationals 2021,15,20211510,MIT,Katherine Lei,0,2,-10,Vanderbilt,Editors 6
+ACF Nationals 2021,15,20211510,MIT,Swapnil Garg,3,2,20,Vanderbilt,Editors 6
+ACF Nationals 2021,15,20211510,MIT,Grace Liu,6,0,60,Vanderbilt,Editors 6
+ACF Nationals 2021,15,20211510,Vanderbilt,Aidan Fein,2,0,20,MIT,Editors 6
+ACF Nationals 2021,15,20211510,Vanderbilt,Jacob Augelli,3,1,25,MIT,Editors 6
+ACF Nationals 2021,15,20211510,Vanderbilt,Michael Ponce,1,0,10,MIT,Editors 6
+ACF Nationals 2021,15,20211510,Vanderbilt,Jonathan Caldwell,2,0,20,MIT,Editors 6
+ACF Nationals 2021,16,20211601,Illinois,Iain Carpenter,3,1,25,Columbia,Editors 8
+ACF Nationals 2021,16,20211601,Illinois,Mitch McCullar,2,0,20,Columbia,Editors 8
+ACF Nationals 2021,16,20211601,Illinois,Olivia Kiser,0,0,0,Columbia,Editors 8
+ACF Nationals 2021,16,20211601,Illinois,Auroni Gupta,8,1,75,Columbia,Editors 8
+ACF Nationals 2021,16,20211601,Columbia,Will Alston,5,1,45,Illinois,Editors 8
+ACF Nationals 2021,16,20211601,Columbia,Noah Chen,2,0,20,Illinois,Editors 8
+ACF Nationals 2021,16,20211601,Columbia,Noah Sheidlower,0,0,0,Illinois,Editors 8
+ACF Nationals 2021,16,20211601,Columbia,Caroline Mao,0,0,0,Illinois,Editors 8
+ACF Nationals 2021,16,20211602,Cornell,Raymond Wang,4,0,40,Northwestern,Editors 8
+ACF Nationals 2021,16,20211602,Cornell,Dan Ni,1,1,5,Northwestern,Editors 8
+ACF Nationals 2021,16,20211602,Cornell,Allan Lee,2,0,20,Northwestern,Editors 8
+ACF Nationals 2021,16,20211602,Cornell,Jonathan Tran,2,0,20,Northwestern,Editors 8
+ACF Nationals 2021,16,20211602,Northwestern,Rohin Devanathan,2,2,10,Cornell,Editors 8
+ACF Nationals 2021,16,20211602,Northwestern,Christopher Sims,3,1,25,Cornell,Editors 8
+ACF Nationals 2021,16,20211602,Northwestern,Andrew Salij,0,0,0,Cornell,Editors 8
+ACF Nationals 2021,16,20211602,Northwestern,Nikhil Chellam,2,1,15,Cornell,Editors 8
+ACF Nationals 2021,16,20211603,Chicago B,John Marvin,2,2,10,Harvard B,Editors 8
+ACF Nationals 2021,16,20211603,Chicago B,Sam Moore,3,0,30,Harvard B,Editors 8
+ACF Nationals 2021,16,20211603,Chicago B,Wonyoung Jang,3,1,25,Harvard B,Editors 8
+ACF Nationals 2021,16,20211603,Chicago B,Walker Combs,2,1,15,Harvard B,Editors 8
+ACF Nationals 2021,16,20211603,Harvard B,Mazin Omer,4,0,40,Chicago B,Editors 8
+ACF Nationals 2021,16,20211603,Harvard B,Christopher Gilmer-Hill,5,1,45,Chicago B,Editors 8
+ACF Nationals 2021,16,20211604,Harvard A,Ricky Li,3,0,30,Florida,Editors 8
+ACF Nationals 2021,16,20211604,Harvard A,Kelvin Li,2,1,15,Florida,Editors 8
+ACF Nationals 2021,16,20211604,Harvard A,Jason Golfinos,6,1,55,Florida,Editors 8
+ACF Nationals 2021,16,20211604,Harvard A,Thomas Gioia,1,1,5,Florida,Editors 8
+ACF Nationals 2021,16,20211604,Florida,Taylor Harvey,5,0,50,Harvard A,Editors 8
+ACF Nationals 2021,16,20211604,Florida,Jonathen Settle,1,0,10,Harvard A,Editors 8
+ACF Nationals 2021,16,20211604,Florida,Tracy Mirkin,2,0,20,Harvard A,Editors 8
+ACF Nationals 2021,16,20211604,Florida,Leo Law,0,1,-5,Harvard A,Editors 8
+ACF Nationals 2021,16,20211605,Maryland,Vishwa Shanmugam,3,2,20,Chicago A,Editors 8
+ACF Nationals 2021,16,20211605,Maryland,Connor Mayers,0,0,0,Chicago A,Editors 8
+ACF Nationals 2021,16,20211605,Maryland,Caleb Kendrick,3,1,25,Chicago A,Editors 8
+ACF Nationals 2021,16,20211605,Maryland,Graham Reid,0,0,0,Chicago A,Editors 8
+ACF Nationals 2021,16,20211605,Chicago A,Matthew Lehmann,6,2,50,Maryland,Editors 8
+ACF Nationals 2021,16,20211605,Chicago A,Adam Fine,2,0,20,Maryland,Editors 8
+ACF Nationals 2021,16,20211605,Chicago A,Alston Boyd,1,0,10,Maryland,Editors 8
+ACF Nationals 2021,16,20211605,Chicago A,Ben Miller,2,0,20,Maryland,Editors 8
+ACF Nationals 2021,16,20211606,Ohio State,Eddy Liu,1,0,10,North Carolina,Editors 8
+ACF Nationals 2021,16,20211606,Ohio State,Roxanne Tang,0,1,-5,North Carolina,Editors 8
+ACF Nationals 2021,16,20211606,Ohio State,Chris Ray,7,1,65,North Carolina,Editors 8
+ACF Nationals 2021,16,20211606,Ohio State,Clark Smith,4,0,40,North Carolina,Editors 8
+ACF Nationals 2021,16,20211606,North Carolina,Vincent Du,1,3,-5,Ohio State,Editors 8
+ACF Nationals 2021,16,20211606,North Carolina,Henry Goff,0,0,0,Ohio State,Editors 8
+ACF Nationals 2021,16,20211606,North Carolina,Grant Peet,5,0,50,Ohio State,Editors 8
+ACF Nationals 2021,16,20211606,North Carolina,Kevin Thomas,1,0,10,Ohio State,Editors 8
+ACF Nationals 2021,16,20211607,Stanford,Tim Morrison,8,0,80,Georgia Tech,Editors 8
+ACF Nationals 2021,16,20211607,Stanford,Natan Holtzman,4,1,35,Georgia Tech,Editors 8
+ACF Nationals 2021,16,20211607,Stanford,Ethan Strombeck,1,0,10,Georgia Tech,Editors 8
+ACF Nationals 2021,16,20211607,Stanford,Eric Wolfsberg,0,0,0,Georgia Tech,Editors 8
+ACF Nationals 2021,16,20211607,Georgia Tech,Tejas Santanam,0,0,0,Stanford,Editors 8
+ACF Nationals 2021,16,20211607,Georgia Tech,Hari Parameswaran,4,0,40,Stanford,Editors 8
+ACF Nationals 2021,16,20211607,Georgia Tech,S.A. Shenoy,0,0,0,Stanford,Editors 8
+ACF Nationals 2021,16,20211607,Georgia Tech,Sarah Mueller,2,0,20,Stanford,Editors 8
+ACF Nationals 2021,16,20211608,Yale,Hasna Karim,4,1,35,MIT,Editors 8
+ACF Nationals 2021,16,20211608,Yale,Daniel Sheinberg,2,1,15,MIT,Editors 8
+ACF Nationals 2021,16,20211608,Yale,Matt Pecoraro,2,0,20,MIT,Editors 8
+ACF Nationals 2021,16,20211608,Yale,Michał Gerasimiuk,0,0,0,MIT,Editors 8
+ACF Nationals 2021,16,20211608,MIT,David Gomez,0,0,0,Yale,Editors 8
+ACF Nationals 2021,16,20211608,MIT,Katherine Lei,2,0,20,Yale,Editors 8
+ACF Nationals 2021,16,20211608,MIT,Swapnil Garg,1,0,10,Yale,Editors 8
+ACF Nationals 2021,16,20211608,MIT,Grace Liu,7,2,60,Yale,Editors 8
+ACF Nationals 2021,16,20211609,Minnesota,Ben Weiner,1,1,5,Chicago C,Editors 8
+ACF Nationals 2021,16,20211609,Minnesota,Davis Everson-Rose,1,5,-15,Chicago C,Editors 8
+ACF Nationals 2021,16,20211609,Minnesota,Ethan Ashbrook,3,0,30,Chicago C,Editors 8
+ACF Nationals 2021,16,20211609,Minnesota,Urbas Ekka,0,0,0,Chicago C,Editors 8
+ACF Nationals 2021,16,20211609,Chicago C,Vivek Sasse,3,0,30,Minnesota,Editors 8
+ACF Nationals 2021,16,20211609,Chicago C,Robert Condron,3,0,30,Minnesota,Editors 8
+ACF Nationals 2021,16,20211609,Chicago C,Daniel Yang,1,0,10,Minnesota,Editors 8
+ACF Nationals 2021,16,20211609,Chicago C,Yohhan Kumarasinghe,2,0,20,Minnesota,Editors 8
+ACF Nationals 2021,16,20211610,UC-Berkeley,Michael Coates,2,1,15,Brown,Editors 8
+ACF Nationals 2021,16,20211610,UC-Berkeley,Rahul Keyal,5,1,45,Brown,Editors 8
+ACF Nationals 2021,16,20211610,UC-Berkeley,James Malouf,2,2,10,Brown,Editors 8
+ACF Nationals 2021,16,20211610,UC-Berkeley,Shahar Schwartz,0,2,-10,Brown,Editors 8
+ACF Nationals 2021,16,20211610,Brown,Anson Berns,3,0,30,UC-Berkeley,Editors 8
+ACF Nationals 2021,16,20211610,Brown,Jason Hong,6,1,55,UC-Berkeley,Editors 8
+ACF Nationals 2021,16,20211610,Brown,Michael Li,1,0,10,UC-Berkeley,Editors 8
+ACF Nationals 2021,16,20211610,Brown,Walter Zhang,1,0,10,UC-Berkeley,Editors 8
+ACF Nationals 2021,17,20211701,Stanford,Tim Morrison,2,1,15,Maryland,Editors 9
+ACF Nationals 2021,17,20211701,Stanford,Natan Holtzman,8,0,80,Maryland,Editors 9
+ACF Nationals 2021,17,20211701,Stanford,Ethan Strombeck,1,0,10,Maryland,Editors 9
+ACF Nationals 2021,17,20211701,Stanford,Eric Wolfsberg,3,0,30,Maryland,Editors 9
+ACF Nationals 2021,17,20211701,Maryland,Vishwa Shanmugam,2,3,5,Stanford,Editors 9
+ACF Nationals 2021,17,20211701,Maryland,Connor Mayers,1,0,10,Stanford,Editors 9
+ACF Nationals 2021,17,20211701,Maryland,Caleb Kendrick,2,0,20,Stanford,Editors 9
+ACF Nationals 2021,17,20211701,Maryland,Graham Reid,1,0,10,Stanford,Editors 9
+ACF Nationals 2021,17,20211702,Minnesota,Ben Weiner,1,0,10,Northwestern,Editors 9
+ACF Nationals 2021,17,20211702,Minnesota,Davis Everson-Rose,2,1,15,Northwestern,Editors 9
+ACF Nationals 2021,17,20211702,Minnesota,Ethan Ashbrook,4,1,35,Northwestern,Editors 9
+ACF Nationals 2021,17,20211702,Minnesota,Urbas Ekka,1,0,10,Northwestern,Editors 9
+ACF Nationals 2021,17,20211702,Northwestern,Rohin Devanathan,1,0,10,Minnesota,Editors 9
+ACF Nationals 2021,17,20211702,Northwestern,Christopher Sims,2,0,20,Minnesota,Editors 9
+ACF Nationals 2021,17,20211702,Northwestern,Andrew Salij,3,1,25,Minnesota,Editors 9
+ACF Nationals 2021,17,20211702,Northwestern,Nikhil Chellam,3,1,25,Minnesota,Editors 9
+ACF Nationals 2021,17,20211703,Texas,William Golden,4,1,35,North Carolina,Editors 9
+ACF Nationals 2021,17,20211703,Texas,Jaskaran Singh,3,2,20,North Carolina,Editors 9
+ACF Nationals 2021,17,20211703,Texas,Ryan Humphrey,1,1,5,North Carolina,Editors 9
+ACF Nationals 2021,17,20211703,Texas,Bradley McLain,1,0,10,North Carolina,Editors 9
+ACF Nationals 2021,17,20211703,North Carolina,Vincent Du,4,0,40,Texas,Editors 9
+ACF Nationals 2021,17,20211703,North Carolina,Henry Goff,4,0,40,Texas,Editors 9
+ACF Nationals 2021,17,20211703,North Carolina,Grant Peet,1,0,10,Texas,Editors 9
+ACF Nationals 2021,17,20211703,North Carolina,Kevin Thomas,0,1,-5,Texas,Editors 9
+ACF Nationals 2021,17,20211704,Ohio State,Eddy Liu,0,0,0,Chicago A,Editors 9
+ACF Nationals 2021,17,20211704,Ohio State,Roxanne Tang,0,0,0,Chicago A,Editors 9
+ACF Nationals 2021,17,20211704,Ohio State,Chris Ray,4,0,40,Chicago A,Editors 9
+ACF Nationals 2021,17,20211704,Ohio State,Clark Smith,3,1,25,Chicago A,Editors 9
+ACF Nationals 2021,17,20211704,Chicago A,Matthew Lehmann,8,3,65,Ohio State,Editors 9
+ACF Nationals 2021,17,20211704,Chicago A,Adam Fine,2,0,20,Ohio State,Editors 9
+ACF Nationals 2021,17,20211704,Chicago A,Alston Boyd,1,0,10,Ohio State,Editors 9
+ACF Nationals 2021,17,20211704,Chicago A,Ben Miller,1,0,10,Ohio State,Editors 9
+ACF Nationals 2021,17,20211705,WUSTL,Charles Hang,7,1,65,Illinois,Editors 9
+ACF Nationals 2021,17,20211705,WUSTL,Athena Kern,0,0,0,Illinois,Editors 9
+ACF Nationals 2021,17,20211705,WUSTL,Jeremy Cummings,0,0,0,Illinois,Editors 9
+ACF Nationals 2021,17,20211705,WUSTL,Paul Lee,1,1,5,Illinois,Editors 9
+ACF Nationals 2021,17,20211705,Illinois,Iain Carpenter,1,1,5,WUSTL,Editors 9
+ACF Nationals 2021,17,20211705,Illinois,Mitch McCullar,0,1,-5,WUSTL,Editors 9
+ACF Nationals 2021,17,20211705,Illinois,Olivia Kiser,1,0,10,WUSTL,Editors 9
+ACF Nationals 2021,17,20211705,Illinois,Auroni Gupta,8,3,65,WUSTL,Editors 9
+ACF Nationals 2021,17,20211706,Harvard A,Ricky Li,1,1,5,Columbia,Editors 9
+ACF Nationals 2021,17,20211706,Harvard A,Kelvin Li,0,1,-5,Columbia,Editors 9
+ACF Nationals 2021,17,20211706,Harvard A,Jason Golfinos,6,1,55,Columbia,Editors 9
+ACF Nationals 2021,17,20211706,Harvard A,Thomas Gioia,2,1,15,Columbia,Editors 9
+ACF Nationals 2021,17,20211706,Columbia,Will Alston,7,1,65,Harvard A,Editors 9
+ACF Nationals 2021,17,20211706,Columbia,Noah Chen,1,0,10,Harvard A,Editors 9
+ACF Nationals 2021,17,20211706,Columbia,Noah Sheidlower,1,0,10,Harvard A,Editors 9
+ACF Nationals 2021,17,20211706,Columbia,Caroline Mao,1,0,10,Harvard A,Editors 9
+ACF Nationals 2021,17,20211707,Yale,Hasna Karim,2,0,20,UC-Berkeley,Editors 9
+ACF Nationals 2021,17,20211707,Yale,Daniel Sheinberg,3,1,25,UC-Berkeley,Editors 9
+ACF Nationals 2021,17,20211707,Yale,Matt Pecoraro,0,0,0,UC-Berkeley,Editors 9
+ACF Nationals 2021,17,20211707,Yale,Michał Gerasimiuk,3,0,30,UC-Berkeley,Editors 9
+ACF Nationals 2021,17,20211707,UC-Berkeley,Michael Coates,2,0,20,Yale,Editors 9
+ACF Nationals 2021,17,20211707,UC-Berkeley,Rahul Keyal,3,3,15,Yale,Editors 9
+ACF Nationals 2021,17,20211707,UC-Berkeley,James Malouf,4,2,30,Yale,Editors 9
+ACF Nationals 2021,17,20211707,UC-Berkeley,Shahar Schwartz,1,1,5,Yale,Editors 9
+ACF Nationals 2021,17,20211708,Chicago C,Vivek Sasse,4,2,30,Chicago B,Editors 9
+ACF Nationals 2021,17,20211708,Chicago C,Robert Condron,2,0,20,Chicago B,Editors 9
+ACF Nationals 2021,17,20211708,Chicago C,Daniel Yang,2,2,10,Chicago B,Editors 9
+ACF Nationals 2021,17,20211708,Chicago C,Yohhan Kumarasinghe,0,1,-5,Chicago B,Editors 9
+ACF Nationals 2021,17,20211708,Chicago B,John Marvin,2,4,0,Chicago C,Editors 9
+ACF Nationals 2021,17,20211708,Chicago B,Sam Moore,2,0,20,Chicago C,Editors 9
+ACF Nationals 2021,17,20211708,Chicago B,Wonyoung Jang,0,0,0,Chicago C,Editors 9
+ACF Nationals 2021,17,20211708,Chicago B,Walker Combs,2,1,15,Chicago C,Editors 9
+ACF Nationals 2021,17,20211709,MIT,David Gomez,1,0,10,Princeton,Editors 9
+ACF Nationals 2021,17,20211709,MIT,Katherine Lei,3,0,30,Princeton,Editors 9
+ACF Nationals 2021,17,20211709,MIT,Swapnil Garg,3,0,30,Princeton,Editors 9
+ACF Nationals 2021,17,20211709,MIT,Grace Liu,5,0,50,Princeton,Editors 9
+ACF Nationals 2021,17,20211709,Princeton,Eve Fleisig,3,1,25,MIT,Editors 9
+ACF Nationals 2021,17,20211709,Princeton,Nathaniel Hull,1,1,5,MIT,Editors 9
+ACF Nationals 2021,17,20211709,Princeton,Maya Chande,0,0,0,MIT,Editors 9
+ACF Nationals 2021,17,20211709,Princeton,Samuel Lockwood,0,0,0,MIT,Editors 9
+ACF Nationals 2021,17,20211710,Vanderbilt,Aidan Fein,1,0,10,Cornell,Editors 9
+ACF Nationals 2021,17,20211710,Vanderbilt,Jacob Augelli,4,0,40,Cornell,Editors 9
+ACF Nationals 2021,17,20211710,Vanderbilt,Michael Ponce,0,1,-5,Cornell,Editors 9
+ACF Nationals 2021,17,20211710,Vanderbilt,Jonathan Caldwell,1,0,10,Cornell,Editors 9
+ACF Nationals 2021,17,20211710,Cornell,Raymond Wang,4,1,35,Vanderbilt,Editors 9
+ACF Nationals 2021,17,20211710,Cornell,Dan Ni,3,2,20,Vanderbilt,Editors 9
+ACF Nationals 2021,17,20211710,Cornell,Allan Lee,1,0,10,Vanderbilt,Editors 9
+ACF Nationals 2021,17,20211710,Cornell,Jonathan Tran,3,0,30,Vanderbilt,Editors 9
+ACF Nationals 2021,18,20211801,Ohio State,Eddy Liu,0,0,0,Columbia,Editors 11
+ACF Nationals 2021,18,20211801,Ohio State,Roxanne Tang,0,0,0,Columbia,Editors 11
+ACF Nationals 2021,18,20211801,Ohio State,Chris Ray,4,4,20,Columbia,Editors 11
+ACF Nationals 2021,18,20211801,Ohio State,Clark Smith,1,0,10,Columbia,Editors 11
+ACF Nationals 2021,18,20211801,Columbia,Will Alston,8,1,75,Ohio State,Editors 11
+ACF Nationals 2021,18,20211801,Columbia,Noah Chen,3,0,30,Ohio State,Editors 11
+ACF Nationals 2021,18,20211801,Columbia,Noah Sheidlower,2,0,20,Ohio State,Editors 11
+ACF Nationals 2021,18,20211801,Columbia,Caroline Mao,1,0,10,Ohio State,Editors 11
+ACF Nationals 2021,19,20211901,Stanford,Tim Morrison,6,1,55,Columbia,Editors 10
+ACF Nationals 2021,19,20211901,Stanford,Natan Holtzman,0,3,-15,Columbia,Editors 10
+ACF Nationals 2021,19,20211901,Stanford,Ethan Strombeck,3,0,30,Columbia,Editors 10
+ACF Nationals 2021,19,20211901,Stanford,Eric Wolfsberg,1,1,5,Columbia,Editors 10
+ACF Nationals 2021,19,20211901,Columbia,Will Alston,6,1,55,Stanford,Editors 10
+ACF Nationals 2021,19,20211901,Columbia,Noah Chen,1,0,10,Stanford,Editors 10
+ACF Nationals 2021,19,20211901,Columbia,Noah Sheidlower,1,0,10,Stanford,Editors 10
+ACF Nationals 2021,19,20211901,Columbia,Caroline Mao,0,0,0,Stanford,Editors 10
+ACF Nationals 2021,20,20212001,Columbia,Will Alston,6,2,50,Florida,Finals 1
+ACF Nationals 2021,20,20212001,Columbia,Noah Chen,3,0,30,Florida,Finals 1
+ACF Nationals 2021,20,20212001,Columbia,Noah Sheidlower,1,0,10,Florida,Finals 1
+ACF Nationals 2021,20,20212001,Columbia,Caroline Mao,2,0,20,Florida,Finals 1
+ACF Nationals 2021,20,20212001,Florida,Taylor Harvey,4,0,40,Columbia,Finals 1
+ACF Nationals 2021,20,20212001,Florida,Jonathen Settle,0,0,0,Columbia,Finals 1
+ACF Nationals 2021,20,20212001,Florida,Tracy Mirkin,1,2,0,Columbia,Finals 1
+ACF Nationals 2021,20,20212001,Florida,Leo Law,0,0,0,Columbia,Finals 1
+ACF Nationals 2021,20,20212002,Brown,Anson Berns,3,0,30,Cornell,Finals 1
+ACF Nationals 2021,20,20212002,Brown,Jason Hong,3,1,25,Cornell,Finals 1
+ACF Nationals 2021,20,20212002,Brown,Michael Li,2,0,20,Cornell,Finals 1
+ACF Nationals 2021,20,20212002,Brown,Walter Zhang,4,1,35,Cornell,Finals 1
+ACF Nationals 2021,20,20212002,Cornell,Raymond Wang,3,0,30,Brown,Finals 1
+ACF Nationals 2021,20,20212002,Cornell,Dan Ni,1,1,5,Brown,Finals 1
+ACF Nationals 2021,20,20212002,Cornell,Allan Lee,0,0,0,Brown,Finals 1
+ACF Nationals 2021,20,20212002,Cornell,Jonathan Tran,2,0,20,Brown,Finals 1
+ACF Nationals 2021,21,20212101,Florida,Taylor Harvey,6,0,60,Columbia,Finals 2
+ACF Nationals 2021,21,20212101,Florida,Jonathen Settle,3,0,30,Columbia,Finals 2
+ACF Nationals 2021,21,20212101,Florida,Tracy Mirkin,4,0,40,Columbia,Finals 2
+ACF Nationals 2021,21,20212101,Florida,Leo Law,2,0,20,Columbia,Finals 2
+ACF Nationals 2021,21,20212101,Columbia,Will Alston,3,2,20,Florida,Finals 2
+ACF Nationals 2021,21,20212101,Columbia,Noah Chen,2,1,15,Florida,Finals 2
+ACF Nationals 2021,21,20212101,Columbia,Noah Sheidlower,0,0,0,Florida,Finals 2
+ACF Nationals 2021,21,20212101,Columbia,Caroline Mao,0,0,0,Florida,Finals 2
 ACF Nationals 2019,1,20190101,UCLA,Justin French,5,3,35,Columbia A,Yale A + Michigan
 ACF Nationals 2019,1,20190101,UCLA,Wolfram Poh,3,0,30,Columbia A,Yale A + Michigan
 ACF Nationals 2019,1,20190102,MIT A,Clare Keenan,1,1,5,Minnesota A,Yale A + Michigan
