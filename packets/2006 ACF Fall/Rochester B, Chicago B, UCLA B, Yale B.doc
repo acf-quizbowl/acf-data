@@ -1,85 +1,358 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML>
-
-
-<HEAD>
-    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
-    <base href="https://collegiate.quizbowlpackets.com/">
-    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</HEAD>
-
-<BODY>
-    <script type="text/javascript" src="core.js?3">
-    // Core javascript
-    </script>
-    <!-- MARGIN CONTAINER -->
-    <DIV CLASS="Container">
-        <!-- BORDERED MAIN BODY -->
-        <DIV CLASS="OverallBody">
-            <!-- PAGE HEADER -->
-            <DIV CLASS="MainHeader">
-                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
-                <DIV class="FloatLeft">
-                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
-                    <H2>Free quizbowl packets for practice</H2>
-                </DIV>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-
-            <!-- NAVIGATION BAR -->
-                        <DIV CLASS="Navigation">
-                <UL CLASS="MainNav">
-                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
-                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
-                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
-                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
-                </UL>
-                <UL CLASS="Account">
-                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
-                </UL>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-                    <!-- MAIN PAGE CONTENT SECTION -->
-            <DIV class="ContentContainer">
-
-                                    
-                                <!-- SIDEBAR CONTENT -->
-                <DIV id="AdditionalActionsSidebar" class="SidebarColumn">
-                                        <!-- ACTION BOX -->
-                    <DIV id="ActionBox">
-                        <DIV class="Content">
-                            <UL Class="NoHeader">
-                            <LI><a href="http://www.hsquizbowl.org/forums/viewtopic.php?t=2603">View website/forum thread</a></LI>
-                            </UL>
-                        </DIV>
-                    </DIV>
-                    <!-- END ACTION BOX --> 
-                                    </DIV> <!-- END SIDEBAR -->
-                
-                <!-- MAIN COLUMN - Question set details -->
-                <DIV class="MainColumn">
-                    <DIV class="First">
-                        <H2>2006 ACF Fall</H2>
-
-                        <!-- SET DETAILS -->
-                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 2006-2007</p>                                            </DIV>
-
-                    <P><a href="https://hsquizbowl.org/db/questionsets/284/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
-<h2>Download packets</h2>
-<UL class="FileList">
-<LI><a href="https://collegiate.quizbowlpackets.com/284/Berkeley A.doc">Berkeley A.doc</a> (77.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Darmouth A, Rochester A, UGA C.doc">Darmouth A, Rochester A, UGA C.doc</a> (74.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Drake A, MIT B, GT B.doc">Drake A, MIT B, GT B.doc</a> (69 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Georgia Tech A, Oklahoma A, Florida B.doc">Georgia Tech A, Oklahoma A, Florida B.doc</a> (73.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Harding A.doc">Harding A.doc</a> (73.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Harvard A, Illinois B.doc">Harvard A, Illinois B.doc</a> (74 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Harvard B, Maryland B, Oklahoma B.doc">Harvard B, Maryland B, Oklahoma B.doc</a> (49.98 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Illinois A, Virginia A, Florida A, MIT A.doc">Illinois A, Virginia A, Florida A, MIT A.doc</a> (75.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Keller.doc">Keller.doc</a> (80 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Kentucky B, South Carolina A, Dartmouth B.doc">Kentucky B, South Carolina A, Dartmouth B.doc</a> (52.8 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Maryland A.doc">Maryland A.doc</a> (66.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Rochester B, Chicago B, UCLA B, Yale B.doc">Rochester B, Chicago B, UCLA B, Yale B.doc</a> (54.16 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Rutgers-NB A.doc">Rutgers-NB A.doc</a> (69 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Sorice.doc">Sorice.doc</a> (71.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/UCLA A.doc">UCLA A.doc</a> (67 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Weiner, Brown University.doc">Weiner, Brown University.doc</a> (83.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Yale A, Florida Metro.doc">Yale A, Florida Metro.doc</a> (71 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Yale C, Chicago A.doc">Yale C, Chicago A.doc</a> (69 kB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=1656">Jeffrey Hill</a>.</DIV>                </DIV> <!--END FORM -->
-                        </DIV> <!-- END CONTENT CONTAINER --> 
-        <DIV class="FloatDivider"></DIV>
-        </DIV>
-        <!-- END BORDERED MAIN BODY -->
-
-        <!-- FOOTER -->
-                <DIV CLASS="Footer">
-            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
-            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#0e646b68687c6b774e6667626261606267606b20606b7a">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#5b313e3d3d293e221b3332373734353732353e75353e2f">Jeffrey Hill</a></P>
-        </DIV>
-    </DIV>
-    <!-- END MARGIN CONTAINER -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
-</HTML>
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f70\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f71\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f73\froman\fcharset161\fprq2 Times New Roman Greek;}{\f74\froman\fcharset162\fprq2 Times New Roman Tur;}{\f75\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f76\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f77\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f78\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}
+{\*\rsidtbl \rsid1835900\rsid2844212\rsid5248966\rsid6442642\rsid6625666\rsid8400383\rsid8874946\rsid12919478\rsid14683463}{\*\generator Microsoft Word 10.0.3416;}{\info{\author MLW}{\operator MLW}{\creatim\yr2006\mo11\dy4\hr11\min14}
+{\revtim\yr2006\mo11\dy4\hr11\min23}{\version10}{\edmins8}{\nofpages8}{\nofwords4394}{\nofchars25046}{\nofcharsws29382}{\vern16453}}\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120
+\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot14683463 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs20\insrsid14683463\charrsid8400383 ACF Fall 2006
+\par Tossups by Rochester B, Chicago B, UCLA B, and Yale B
+\par }{\fs20\insrsid8874946\charrsid8400383 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\cf1\insrsid8400383 1. }{\fs20\cf1\insrsid1835900\charrsid8400383 Scriptural evidence for this event includes a greeting by Gabriel in the Gospel of Luke, and a co
+nversation between God and the serpent in the Book of Genesis. William of Ware and Duns Scotus defended this doctrine, the later of which 
+used Anselm of Cantebury's principle, "potuit, decuit ergo fecit." Sixtus IV established December 8th as the date of the feast of this event, which was defined as dogma by the }{\i\fs20\cf1\insrsid1835900\charrsid8400383 Ineffabilis Deus}{
+\fs20\cf1\insrsid1835900\charrsid8400383  during the rule of Pius IX. FTP, name this Catholic doctrine that asserts Mary was preserved by God from the stain of original sin at the time of her conception of Jesus. }{
+\fs20\cf1\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\cf1\insrsid1835900\charrsid8400383  }{\b\fs20\ul\cf1\insrsid1835900\charrsid8400383 Immaculate Conception}{\b\fs20\ul\cf1\insrsid1835900\charrsid8400383 
+\par }{\b\fs20\ul\cf1\insrsid5248966\charrsid8400383 
+\par }\pard \ql \li0\ri0\nowidctlpar\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\faauto\rin0\lin0\itap0\pararsid5248966 {\fs20\insrsid8400383 2. }{\fs20\insrsid5248966\charrsid8400383 
+This ruler had military success in taking Dorpat, and inaugurated an eastward expansion after conqu
+ering Astrakhan. He celebrated another victory by having Barma construct a religious structure also known as the Cathedral of Intercession of the Virgin on the Moat. However, he gave up Narva in the Treaty of Plussa with Sweden, and in the Treaty of Jam Z
+a
+polski, renounced claims to Livonia. The Oprichniks were members of his private army, which he used to terrorize the boyars, and the first Zemsky Sobor was called by him. His son Feodor was succeeded by Boris Godunov, who likely killed his youngest son Dm
+itri. FTP, name first Russian to take the title of tsar, who was nicknamed for his fearsome acts. 
+\par ANSWER: }{\b\fs20\ul\insrsid5248966\charrsid8400383 Ivan IV}{\fs20\insrsid5248966\charrsid8400383  or }{\b\fs20\ul\insrsid5248966\charrsid8400383 Ivan the Terrible}{\fs20\insrsid5248966\charrsid8400383  or }{\b\fs20\ul\insrsid5248966\charrsid8400383 
+Ivan Groznyi
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\cf1\insrsid1835900\charrsid8400383 
+\par }{\fs20\cf1\insrsid8400383 3. }{\fs20\cf1\insrsid1835900\charrsid8400383 It may be read as an examination of the works of Wolff and Baumgarten, whose texts its author used while teaching at a university. Its section on the \'93Antithetic\'94
+ of the title concept discusses conflicts over the notions of causality through freedom and the existence of a necessary being, among other transcendental ideas. The one entitled \'93Ideals\'94 of the title concept 
+shows that certain types of proofs of the existence of God cannot exist. It was published in two additions, the first preferred by idealists, the second by realists, and its author set out in what he called a \'93Copernican revolution\'94
+ in philosophy. It asks the question, \'93How are a priori synthetic judgments possible?\'94 FTP, identify this most famous work of Immanuel Kant. }{\fs20\cf1\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\cf1\insrsid1835900\charrsid8400383  }{\b\i\fs20\ul\cf1\insrsid1835900\charrsid8400383 Critique of Pure Reason}{\fs20\cf1\insrsid1835900\charrsid8400383  or }{\b\i\fs20\ul\cf1\insrsid1835900\charrsid8400383 Kritik der reinen Vernunft}{
+\fs20\cf1\insrsid1835900\charrsid8400383 
+\par 
+\par }{\fs20\insrsid8400383 4. }{\fs20\insrsid1835900\charrsid8400383 In the introduction to this novel the author describes himself as the \'93manager of the performance\'94
+ and refers to his characters as puppets.  The two main characters attend an institution that has been honored by the presence of \'93THE GREAT LEXICOGRAPHER,\'94 Pinkerton School.  Another ch
+aracter eschews hunting and entertainments at Fuddleston to be with his Aunt Bute.  At her parsonage he meets his siblings\rquote 
+ governess, who had attended a large party at Vauxhall just before taking her appointment.  Also at that party were two soldiers, Geo
+rge and Joseph, who eventually fall for the two main characters.  One has an affair with Lord Steyne after marrying Rawdon Crawley, while the other eventually marries Captain Dobbin after George Osborne dies at Waterloo.  FTP name this \'93
+novel without a hero\'94 about Amelia Sedley and her conniving friend Becky Sharp by William Thackeray. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  }{\b\i\fs20\ul\insrsid1835900\charrsid8400383 Vanity Fair}{\b\fs20\ul\insrsid1835900\charrsid8400383  }{\b\fs20\insrsid1835900\charrsid8400383  }{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8400383 {\fs20\insrsid8400383 5. }{\fs20\insrsid8400383\charrsid8400383 In one of his stranger appearances, he conspired with Dr. Winkler, a corrupt optometrist
+ who used a modified Snellen chart to hypnotize patients into be
+coming thieves. As part of an attempt to kill Black Tarantula, this man was given additional powers by The Rose, which required his traditional adversary to enlist the help of X-Man in order to contain him. More recently responsible for freeing the inmate
+s of the prison known as The Raft, this character was previously captured in the opening of the }{\i\fs20\insrsid8400383\charrsid8400383 Amazing Spider-Man }{\fs20\insrsid8400383\charrsid8400383 issue in which Spider-Man married Mary Jane. D
+efeated in his first appearance by being sprayed with a hose, this villain, whose original name was Max Dillon, wears a star-shaped yellow mask on top of a green and yellow costume. For ten
+ points, name this foe who can shoot energy from his fingers and control most advanced technological devices due to being struck by lightning.
+\par ANSWER: }{\b\fs20\ul\insrsid8400383\charrsid8400383 Electro}{\fs20\insrsid8400383\charrsid8400383  [accept Maxwell }{\b\fs20\ul\insrsid8400383\charrsid8400383 Dillon}{\fs20\insrsid8400383\charrsid8400383  before it is reads]}{
+\fs20\insrsid12919478\charrsid8400383 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid8400383\charrsid8400383 
+\par }{\fs20\insrsid8400383 6. }{\fs20\insrsid1835900\charrsid8400383 By refusing a bunch of Muscatel grapes the protagonist rejects his former love, who eventually flees with her son Albert.  His servant Haidee confronts Albert\rquote 
+s father about his betrayal of Ali Pasha, which leads to his suicide.  The protagonist saves Valentine from her mother\rquote s mad poison rampage and reunites her with her love Maximillian, the son of a shipping master who had taken care of the protago
+nist\rquote s father.  He gives a diamond to his old neighbor Caderousse for telling him about a banker and a politician with familial connections to Napoleon who had arranged for him to be sent to the Chateau d\rquote 
+If, where he learned of the Abbe Faria\rquote s fortune on the titular island.  FTP name this novel about Edmond Dantes by Alexander Dumas, }{\i\fs20\insrsid1835900\charrsid8400383 p\'e8re}{\fs20\insrsid1835900\charrsid8400383 . }{
+\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  }{\i\fs20\insrsid1835900\charrsid8400383 The }{\b\i\fs20\ul\insrsid1835900\charrsid8400383 Count of Monte Cristo}{\fs20\insrsid1835900\charrsid8400383  or Le }{\b\i\fs20\ul\insrsid1835900\charrsid8400383 
+Comte de Monte Cristo}{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }{\fs20\insrsid8400383 7. }{\fs20\insrsid1835900\charrsid8400383 A line from one of this man\rquote s poems forms the title of a book subtitled \'93Studies in the Structure of Poetry\'94 by Cleanth Brooks.  He ponders about \'93
+what thou and I/Did, till we loved\'94 in a poem in which he claims \'93My face in thine eye, thine in mine appears,/And true plain hearts do in the faces rest,\'94 \'93The Good-Morrow.\'94 The title feeling \'93doth unperplex/(We
+ said) and tell us what we love\'94 in his poem \'93The Ecstasy,  while he declares \'93Kind pity chokes my spleen\'94 in the third of his }{\i\fs20\insrsid1835900\charrsid8400383 Satires}{\fs20\insrsid1835900\charrsid8400383 .  He writes that \'93We
+\rquote ll build in sonnets pretty rooms\'94 in \'93The Canonizaiton,\'94 while \'93At the Round Earth\rquote s Imagin\rquote d Corners\'94 and \'93Batter my heart, three-person\rquote d God\'94
+ are part of a sonnet cycle that also includes a poem in which he tells the title figure \'93thou shalt die.\'94  Known for his Holy Sonnets, this is, FTP, what author of \'93Death, Be not Proud\'94 and \'93A Valediction: Forbidding Mourning?\'94 }{
+\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  John }{\b\fs20\ul\insrsid1835900\charrsid8400383 Donne}{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8400383 {\fs20\insrsid8400383 8. }{\fs20\insrsid8400383\charrsid8400383 
+This broad group, which is now considered paraphyletic, does contain what modern taxonomists regard as a monophyletic subgroup known as the tricolpates, a name that describes the distinctive three apertures that characterizes the group\rquote 
+s pollen grains. Distinctive families within this group include the }{\i\fs20\insrsid8400383\charrsid8400383 Ranunculaceae}{\fs20\insrsid8400383\charrsid8400383 , }{\i\fs20\insrsid8400383\charrsid8400383 Brassicaceae}{\fs20\insrsid8400383\charrsid8400383 
+, and }{\i\fs20\insrsid8400383\charrsid8400383 Asteraceae}{\fs20\insrsid8400383\charrsid8400383 . Known formally as the class }{\i\fs20\insrsid8400383\charrsid8400383 Magnoliopsida}{\fs20\insrsid8400383\charrsid8400383 
+, organisms in this class tend to develop their roots from the radicle, possess flower parts in multiples of four or five, and maintain reticulate or netlike leaf venation. FTP name this class of plants, home to more than 190,000 species of angiosperms an
+d named for its having two embryonic leaves. }{\fs20\insrsid8400383\charrsid8400383 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid8400383\charrsid8400383 ANSWER:}{\fs20\insrsid8400383\charrsid8400383  }{\b\fs20\ul\insrsid8400383\charrsid8400383 dicot}{\fs20\insrsid8400383\charrsid8400383 
+yledons [do not accept 'eudicots']}{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }{\fs20\insrsid8400383 9. }{\fs20\insrsid1835900\charrsid8400383 He discussed his childhood dream of being an irrigation engineer in his memoir }{\i\fs20\insrsid1835900\charrsid8400383 Pinkas Sherut}{\fs20\insrsid1835900\charrsid8400383 
+. He met his wife Leah while both were members of the Palmach, and he was responsible for the defense of Jerusalem during the 1948 war. He later served as chief of staff during the Six Day War and as Golda Meir\rquote 
+s labor minister. He was the first native-born prime minister of Israel, but his first administration, which included the Entebbe raid, ended when his illegal American bank accounts became public. He later used criticism of the Madrid talks to ini
+tiate a new approach that produced the Declaration of Principles and the Cairo Agreement. He thus earned a 1994 Nobel Peace Prize and a 1995 assassination by Yigal Amir. FTP, name this Labor Party politician who signed the Oslo Accords with Yassir Arafat.
+ }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  Yitzhak }{\b\fs20\ul\insrsid1835900\charrsid8400383 Rabin}{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1835900 {\fs20\insrsid8400383 10. }{\fs20\insrsid1835900\charrsid8400383 
+Most German theaters chose this as the last film screened before a Nazi ban on Hollywood movies took effect. It was originally planned with a much longer ending that included 
+depictions of a hometown parade, but after a test screening, these were cut in favor of a final shot of a grinning Harry Carey. The title character gets his job over Horace Miller, the favorite of Jim Taylor, and popular choice Henry Hill. He is intended 
+to be an oblivious dupe to Taylor\rquote s graft plan, along with Senator Paine, but when those plans run afoul of a bill funding a boys camp, the protagonist protests, culminating in a filibuster and Paine\rquote 
+s confession. FTP, name this 1939 Columbia film directed by Frank Capra and starring Claude Rains, Jean Arthur, and, as the title character, Jimmy Stewart. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  }{\b\i\fs20\ul\insrsid1835900\charrsid8400383 Mr. Smith Goes to Washington}{\fs20\insrsid1835900\charrsid8400383 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid1835900\charrsid8400383 
+\par }{\fs20\insrsid8400383 11. }{\fs20\insrsid1835900\charrsid8400383 John Salvius, Johann Wittgenstein, Count Trautmansdorff, and Henri d'Orl\'e9
+ans participated in its negotiation. Present as Papal nuncio was Fabio Chigi, the future Alexander VIII. It became necessary after after Ferdinand III\rquote s confl
+ict with the electors over the baseline date for territorial acquisitions led to the collapse of the Peace of Prague. Negotiated in M\'fcnster and Osnabr\'fc
+ck, it established the independence of the United Provinces from Spain, endorsed hereditary succession in Bohemia, and legitimized Brandenburg\rquote 
+s acquisition of Magdeburg, Halberstadt, and East Pomerania. Revoking the 1629 Edict of Restitution and setting all land ownership back to its \'93standard year\'94 state of 1624, it eliminated almost all practical power of 
+the Holy Roman Emperor. FTP, identify this agreement, largely completed in 1648, that ended the Thirty Years\rquote  War. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  Peace/Treaty of }{\b\fs20\ul\insrsid1835900\charrsid8400383 Westphalia}{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }{\fs20\insrsid8400383 12. }{\fs20\insrsid1835900\charrsid8400383 His half-brother of the same name won the Battle of Anaquito against Blasco N\'fa\'f1ez but was eventually defeated by Pedro de la Gasca. This man first came to the New World with Balboa
+\rquote s Panama expedition and settled down as a cattle farmer until he joined with a priest named Hernando de Luque and commander Diego de Almagro, using two borrowed ships to search for gold in the Dari\'e9n area. This leader of the \'93famous thirteen
+\'94 ambushed a certain opponent at Cajamarca and retrieved twenty-four tons of gold and silver after ordering a room to be filled with precious metal. He then declared Manco Capac the new king an
+d ordered the execution of Atahualpa. FTP, name this conqueror of the Incan empire. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  Francisco }{\b\fs20\ul\insrsid1835900\charrsid8400383 Pizarro}{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }{\fs20\insrsid8400383 13. }{\fs20\insrsid1835900\charrsid8400383 Gernit Rietveld\rquote s red/blue armchair and Schroder House are some of the most noted designs of this movement.  However, the controversial introdu
+ction of the diagonal in a certain member's work alienated the movement\rquote s best known artist, who afterwards stopped contributing to the journal in which he had argued for \'93equilibration\'94
+ between opposites realized through the interplay of positive and nega
+tive space and asymmetrical balance of rectilinear elements, which he referred to as Neoplasticism.  Founded by Theo van Doesburg , this FTP, what modern art movements characterized by bold black lines and blocks of primary color, most commonly associated
+ with Piet Mondrian. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  }{\b\fs20\ul\insrsid1835900\charrsid8400383 De Stijl}{\fs20\insrsid1835900\charrsid8400383  (prompt on Neoplasticism)}{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }{\fs20\insrsid8400383 14. }{\fs20\insrsid1835900\charrsid8400383 They normally have association energies between -12 and -40 kilojoules per mole.\~ The bifurcated type occurs when each donor interacts with two acceptors and vice versa.\~
+ They tend to be linear, with the donor group pointing along the acceptor\rquote s lone pair orbital, though deviations often occur, particularly within the secondary structure of proteins.\~ With approximately 
+10% covalent character, they are predominantly electrostatic interactions between electronegative atoms, such as fluorine, nitrogen, or oxygen, and their namesake.\~
+ FTP name these bonds that explain the unusual physical characteristics of water, named for the presence of the first element on the periodic table. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  }{\b\fs20\ul\insrsid1835900\charrsid8400383 h}{\fs20\insrsid1835900\charrsid8400383 ydrogen }{\b\fs20\ul\insrsid1835900\charrsid8400383 bond}{\fs20\insrsid1835900\charrsid8400383 s }{
+\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8400383 {\fs20\insrsid8400383 15. }{\fs20\insrsid8400383\charrsid8400383 
+A person by this English name who was a canonized member of the Portuguese royal family settled a dispute between Afonso IV of Portugal and Alfonso XI of Castile, earning her the nickname \'93Peacemaker.\'94
+ Italian anarchist Lugi Leccheni killed another one, who was the queen consort to Franz Josef in Austria. Another woman of this name made the Golden Speech, put down a rebellion by her servant Robert Devereux, and mandated use of the 
+Book of Common Prayer by the Act of Uniformity, several decades before she was targeted by the Spanish Armada. FTP, name this successor of Mary I and daughter of Henry VIII, who never married. }{\fs20\insrsid8400383\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid8400383\charrsid8400383  }{\b\fs20\ul\insrsid8400383\charrsid8400383 Elizabeth}{\fs20\insrsid8400383\charrsid8400383  (I)}{\fs20\insrsid1835900\charrsid8400383 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid1835900\charrsid8400383 
+\par }{\fs20\insrsid8400383 16. }{\fs20\insrsid1835900\charrsid8400383 Its singly-ionized form produces the 3968 and 3933 Angstrom spectral lines that are the strongest absorption features in the solar spectrum, the so-called H and 
+K lines.  Its hydroxide is used in preparing nixtamal, and its chloride, which is used to make chemicompetent bacteria, is a byproduct of the Solvay process. It is selectively bound by both EGTA and serum albumin, and within cells, it is sequestered in th
+e endoplasmic reticulum. \~Along with phosphate, it forms hydroxyapatite, a major component of bone. \~FTP, name this alkaline earth metal found in milk with chemical symbol Ca. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383 \~}{\b\fs20\ul\insrsid1835900\charrsid8400383 calcium}{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }{\fs20\insrsid8400383 17. }{\fs20\insrsid1835900\charrsid8400383 Goldbach proved that no two of them share a common factor.  It
+ has been shown that an n-sided regular polygon can be constructed with a compass and straightedge if and only if n is a power of two or the product of a power of two and two distinct prime members of this sequence.  As such, there are only five known pri
+me ones, despite their namesake\rquote 
+s assertion that all of them are prime.  However, only the first twelve have been completely factored, and it is not known whether there are infinitely many composite ones.  FTP, name this sequence of integers of the form 2 t
+o the quantity (2 to the n) + 1, which bears the name of an amateur mathematician with well-known last and little theorems. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  }{\b\fs20\ul\insrsid1835900\charrsid8400383 Fermat}{\fs20\insrsid1835900\charrsid8400383  numbers }{\fs20\insrsid1835900\charrsid8400383 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8400383 {\fs20\insrsid8400383 
+\par 18. }{\fs20\insrsid8400383\charrsid8400383 His earliest works included landscapes such as }{\i\fs20\insrsid8400383\charrsid8400383 Going West}{\fs20\insrsid8400383\charrsid8400383 
+, produced during his tutelage under Albert Pinkham Ryder, and later works such as }{\i\fs20\insrsid8400383\charrsid8400383 Frogman}{\fs20\insrsid8400383\charrsid8400383  echoed the exploration of Jungian archetypes that influenced earlier works like }{
+\i\fs20\insrsid8400383\charrsid8400383 Guardians of the Secret}{\fs20\insrsid8400383\charrsid8400383 . This early work was also influenced by Orozco and Rivera. After }{\i\fs20\insrsid8400383\charrsid8400383 Mural}{\fs20\insrsid8400383\charrsid8400383 
+, a work that included elements of Thomas Hart Benton\rquote s techniques, he turned in the late 1940s to }{\i\fs20\insrsid8400383\charrsid8400383 Galaxy}{\fs20\insrsid8400383\charrsid8400383  and }{\i\fs20\insrsid8400383\charrsid8400383 Eyes in the Heat}
+{\fs20\insrsid8400383\charrsid8400383 , early examples of his \'93poured\'94 painting technique. Art historians have argued that his work led to the viewer\rquote s association not with the subject but with the artist. }{
+\i\fs20\insrsid8400383\charrsid8400383 Full Fathom Five}{\fs20\insrsid8400383\charrsid8400383  is one of the best-known works of, FTP, this founder of the school of abstract expressionism. }{\fs20\insrsid8400383\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid8400383\charrsid8400383  Jackson }{\b\fs20\ul\insrsid8400383\charrsid8400383 Pollock}{\fs20\insrsid8400383\charrsid8400383 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid8400383 
+\par 19. }{\fs20\insrsid1835900\charrsid8400383 In African American Vernacular English, the ones indicating possession and the third singular present are both null. In suppletion, one of these is replaced with another to denote a grammatical contrast, such as 
+\'93went\'94 for the past tense of \'93go.\'94 The insertion of one of these into another, such as an expletive into a word such as \'93outstanding,\'94 is known as in
+fixation. The brothers Von Schlegel classified languages as either analytic or synthetic based on the number of these per word. They can be either free or bound, and in isolating languages such as Vietnamese, there is a one to one correspondence between f
+ree ones and words. FTP, identify this smallest meaningful unit in the grammar of a language. }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  }{\b\fs20\ul\insrsid1835900\charrsid8400383 morpheme}{\fs20\insrsid1835900\charrsid8400383 s }{\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }{\fs20\insrsid8400383 20.}{\fs20\insrsid1835900\charrsid8400383  Tomasso Landolfi wrote a novel in which this man is married to a balloon doll named Caracas.  In one story by this man a theology student is
+ terrorized by a witch over whom he refuses to read last rites, which results in the summoning of the title gnome.  He completely revised his first play three times, producing An Official\rquote s Morning, The Servants\rquote 
+ Hall, and The Lawsuit.  A better-known short story features a government clerk who loves the Chief of the Division\rquote 
+s daughter Sophie and includes the improbable correspondences of Madgie and Fidele, two dogs.  The machinations of Osip to exploit his master Ivan\rquote s case of mistaken identity in a smal
+l town is the subject of his best-known play, The Inspector General.  Also known for a story about Akaky Akakievich\rquote s lost jacket and a novel about the collector Pavel Chichikov, FTP name this author of The Overcoat and Dead Souls.   }{
+\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  Nikolai }{\b\fs20\ul\insrsid1835900\charrsid8400383 Gogol}{\fs20\insrsid1835900\charrsid8400383 
+\par }{\fs20\insrsid8400383 
+\par TB.}{\fs20\insrsid1835900\charrsid8400383 
+  Two of these relatively close by were reported by Kazimierz Kordylewski as harboring faint nebulosities, perhaps due to clouds of dust.  The impact hypothesis of the formation of the moon posits that a Mars-sized body formed at one of these points an
+d then collided with the Earth, creating our moon.  They were predicted in 1772 by their namesake, and in 1906 Max Wolf discovered the first object occupying one of these locations with his observation of a Trojan asteroid.  FTP, what is the name for the 
+five positions in space where a small object can remain stationary relative to two massive objects, named for an Italian-French astronomer and mathematician who developed the calculus of variations? }{\fs20\insrsid1835900\charrsid8400383 
+\par ANSWER:}{\fs20\insrsid1835900\charrsid8400383  }{\b\fs20\ul\insrsid1835900\charrsid8400383 Lagrange points}{\fs20\insrsid1835900\charrsid8400383  [or }{\b\fs20\ul\insrsid1835900\charrsid8400383 Lagrangian points}{\fs20\insrsid1835900\charrsid8400383 ]}{
+\fs20\insrsid1835900\charrsid8400383 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\faauto\rin0\lin0\itap0 {\fs20\cf1\insrsid8874946\charrsid8400383 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid14683463 {\fs20\cf1\insrsid14683463\charrsid8400383 \page }{\b\fs20\insrsid14683463\charrsid8400383 ACF Fall 2006
+\par Bonuses by Rochester B, Chicago B, UCLA B, and Yale B
+\par }\pard \ql \li0\ri0\nowidctlpar\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\faauto\rin0\lin0\itap0 {\fs20\cf1\insrsid14683463\charrsid8400383 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid6442642 1. }{\fs20\insrsid6442642 Answer these questions about American psychologist John B. Watson for ten points each. }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Watson was a pioneer in what psychological field that believes that human actions are not the result of mental states or personality, but rather prior teachings?  B.F. Skinner was a notable proponent as well. }{
+\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Behaviorism}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This was Watson\rquote s most famous experiment, in which he taught the titular baby to be afraid of a large white rat by making loud noises whenever it was presented to him. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  The }{\b\fs20\ul\insrsid6442642 Little Albert}{\fs20\insrsid6442642  Experiment [accept }{\b\fs20\ul\insrsid6442642 Baby Albert}{\fs20\insrsid6442642 ] }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  After many iterations of pairing the rat and noise, Albert's distress at being presented the rat without accompanying loud noise provided empircal evidence of what psychological principle? }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 classical conditioning}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par 
+\par 2. }{\fs20\insrsid6442642 Identify these characters from }{\i\fs20\insrsid6442642 Futurama}{\fs20\insrsid6442642  FTPE. }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  He possesses both a Cheating Unit and a Hilarity Unit. He takes his name from his occupation of manipulating steel girders to angles of 32 to 34 degrees, and he invites you to bite his shiny metal ass. }{\fs20\insrsid6442642 
+
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Bender}{\fs20\insrsid6442642  Bending Rodriguez }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This cowardly space captain and commander of the D.O.O.P. fleet has a very sexy learning disability, sexlexia. His assistant Kif Kroker keeps his schedule on an Etch-A-Sketch. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  General Major Webelo Zapp }{\b\fs20\ul\insrsid6442642 Brannigan}{\fs20\insrsid6442642\charrsid6442642  }{\fs20\insrsid6442642\charrsid6442642 [accept }{\b\fs20\ul\insrsid6442642\charrsid6442642 Zapp}{
+\fs20\insrsid6442642\charrsid6442642 ]}{\b\fs20\ul\insrsid6442642\charrsid6442642 
+\par }{\fs20\insrsid6442642 [10]}{\fs20\insrsid6442642  This champion of the Madison Cube Garden pet show stars on America\rquote  most popular television program, which consists of him staring into the camera while the \'93angry machine\'94
+ noise plays and his eyes display mind-controlling patterns. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  the }{\b\fs20\ul\insrsid6442642 Hypno Toad}{\fs20\insrsid6442642 
+\par 
+\par 3. }{\fs20\insrsid6442642 Answer these questions about Russian author Fyodor Dostoevsky's works FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  The unnamed narrator of this novel is a government clerk who regularly patronizes the prostitute Liza at a local brothel while mooching off his friend Simonov. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\i\fs20\ul\insrsid6442642 Notes From The Underground}{\fs20\insrsid6442642  or }{\b\i\fs20\ul\insrsid6442642 Letters from the Underworld}{\fs20\insrsid6442642  or }{\b\i\fs20\ul\insrsid6442642 Zapiski iz podpolya}{
+\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Mitya, Ivan, and Alyosha are the titular offspring of Fyodor in this novel. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\i\fs20\insrsid6442642 The }{\b\i\fs20\ul\insrsid6442642 Brothers Karamazov}{\fs20\insrsid6442642  or }{\b\i\fs20\ul\insrsid6442642 Bratya Karamazovy}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Rogozhin murders Nastasya Filipovna in this novel about the superfluous Prince Myshkin. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\i\fs20\insrsid6442642 The }{\b\i\fs20\ul\insrsid6442642 Idiot}{\fs20\insrsid6442642 
+\par 
+\par 4. }{\fs20\insrsid6442642 Name these waterfalls FTPE. }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  The single largest curtain of water at over 100 meters tall and one mile wide, this waterfall is found on the Zambezi River at the junction of the Zambia- Zimbabwe border. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Victoria}{\b\fs20\insrsid6442642  }{\fs20\insrsid6442642 Falls}{\b\i\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This waterfall is found at the Brazil and Argentina border where the namesake river connects with the Paran\'e1 River.  }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Igua\'e7u}{\b\fs20\insrsid6442642  }{\fs20\insrsid6442642 Falls }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Name this waterfall in Venezuela, the highest drop in the world at around 3,267 feet. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Angel}{\b\fs20\insrsid6442642  }{\fs20\insrsid6442642 Falls}{\fs20\insrsid6442642 
+\par 
+\par 5. }{\fs20\insrsid6442642 Name these players in conflicts between Native Americans and English colonists FTPE. }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This son of Massasoit and ruler of the Wampagnoag lends his name to a 1675 to 1676 war which included the massacre of Narrangaset in the Great Swamp Fight. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  King }{\b\fs20\ul\insrsid6442642 Philip}{\fs20\insrsid6442642  [or }{\b\fs20\ul\insrsid6442642 Metacom}{\fs20\insrsid6442642 et]}{\b\fs20\ul\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  French traders and their Algonquin and Huron allies battled over fur trading rights with this confederacy of the Mohawk, Oneida, Onondaga, Cayuga, and Seneca. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Iroquois}{\fs20\insrsid6442642  Confederacy [prompt on }{\b\fs20\ul\insrsid6442642 Five Nations}{\fs20\insrsid6442642 ; prompt on }{\b\fs20\ul\insrsid6442642 Six Nations}{\fs20\insrsid6442642 ] }{
+\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This governor of Virginia is the namesake of a 1774 conflict, which included the Battle of Point Pleasant, fought between would-be settlers led b
+y Michael Cresap and George Rogers Clark and Shawnee Indians of modern-day Kentucky. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  Lord John Murray }{\b\fs20\ul\insrsid6442642 Dunmore}{\fs20\insrsid6442642 , 4th Earl of Dunmore, Viscount Of Fincastle, Lord Murray Of Blair, Moulin, And Tillemot}{\fs20\insrsid6442642 
+\par 
+\par 6. }{\fs20\insrsid6442642 It was originally published by Grant Richards, whose correspondence with the author reveals the author\rquote s motivation behind the order of the stories, FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Name this 1914 collection that includes the stories }{\i\fs20\insrsid6442642 Araby }{\fs20\insrsid6442642 and }{\i\fs20\insrsid6442642 Ivy Day in the Committee Room}{\fs20\insrsid6442642 . }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\i\fs20\ul\insrsid6442642 Dubliners}{\fs20\insrsid6442642  (note: do not accept }{\i\fs20\insrsid6442642 The Dubliners}{\fs20\insrsid6442642 ) }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This author of the play }{\i\fs20\insrsid6442642 Exiles}{\fs20\insrsid6442642  and }{\i\fs20\insrsid6442642 Finnegan\rquote s Wake}{\fs20\insrsid6442642  wrote }{\i\fs20\insrsid6442642 Dubliners}{\fs20\insrsid6442642 . }{
+\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  James }{\b\fs20\ul\insrsid6442642 Joyce}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Gabriel Conroy attempts to come to terms with his wife\rquote s former passion for Michael Furey in this }{\i\fs20\insrsid6442642 Dubliners}{\fs20\insrsid6442642  story, the last in the collection. }{\fs20\insrsid6442642 
+
+\par ANSWER:}{\fs20\insrsid6442642  \'93The }{\b\fs20\ul\insrsid6442642 Dead}{\fs20\insrsid6442642 \'94}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 7. }{\fs20\insrsid6442642 Its initial reactants are incubated in liquid ammonia with sodium to give cyclohexadienes. FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642 \~Identify this organic reaction, named for an Australian chemist. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642 \~}{\b\fs20\ul\insrsid6442642 Birch}{\fs20\insrsid6442642  reduction }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642 \~The Birch reduction generates 1,4-cyclohexadiene from this aromatic compound, formula C6H6, whose structure was described by Kekule. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642 \~}{\b\fs20\ul\insrsid6442642 benzene}{\fs20\insrsid6442642   }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642 \~This electrophilic aromatic substitution reaction combines benzene and alkyl halides in the presence of a Lewis acid to generate alkylated benzene derivatives. Its two namesakes also developed a very similar acylation. }{
+\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642 \~}{\b\fs20\ul\insrsid6442642 Friedel-Crafts}{\fs20\insrsid6442642  alkylation}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\cf1\insrsid8874946 8. }{\fs20\cf1\insrsid6442642 His chariot is pulled by a pair of goats that regenerate instantly after he roasts and devours them. FTPE, }{\fs20\cf1\insrsid6442642 
+\par [10]}{\fs20\cf1\insrsid6442642  Name this belt-wearing, hammer-carrying Norse god of thunder. }{\fs20\cf1\insrsid6442642 
+\par ANSWER:}{\fs20\cf1\insrsid6442642  }{\b\fs20\ul\cf1\insrsid6442642 Thor }{\fs20\cf1\insrsid6442642 
+\par [10]}{\fs20\cf1\insrsid6442642  Thor once disguised himself as a bride in order to retrieve this hammer from Thrym the frost giant. }{\fs20\cf1\insrsid6442642 
+\par ANSWER:}{\fs20\cf1\insrsid6442642  }{\b\fs20\ul\cf1\insrsid6442642 Mjolnir }{\fs20\cf1\insrsid6442642 
+\par [10]}{\fs20\cf1\insrsid6442642  In order to wield Mjolnir, Thor must wear this belt. }{\fs20\cf1\insrsid6442642 
+\par ANSWER:}{\fs20\cf1\insrsid6442642  }{\b\fs20\ul\cf1\insrsid6442642 Megingjord}{\fs20\cf1\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 9. }{\fs20\insrsid6442642 It concerns the nervous breakdown of Larry Shannon}{\fs20\insrsid8874946 .}{\fs20\insrsid6442642  FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Name this play set primarily at the Costa Verde hotel in Mexico, in which Shannon meets Maxine Faulk and becomes a tour guide. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\i\fs20\insrsid6442642 The }{\b\i\fs20\ul\insrsid6442642 Night of the Iguana}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This author of }{\i\fs20\insrsid6442642 A Streetcar Named Desire}{\fs20\insrsid6442642  wrote }{\i\fs20\insrsid6442642 The Night of the Iguana}{\fs20\insrsid6442642 . }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  Tennesee }{\b\fs20\ul\insrsid6442642 Williams}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Tom Wingfield cries out \'93nowadays the world is lit by lightning!\'94 at the end of this play, which is named for his sister Laura\rquote s collection of animal figures. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\i\fs20\ul\insrsid6442642 The Glass Menagerie}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 10. }{\fs20\insrsid6442642 Name these Athenian politicians FTPE. }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  One of the seven wise men of Greece, he became archon in 594, and his reforms of the Draconian code are credited with leading to Athenian democracy. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Solon}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  The first businessman to become leader of Athens was this rival of Pericles who defeated Sparta at Sphacteria but was later killed at Amphipolis by Brasidas. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Cleon }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This sixth-century BCE tyrant built the Telesterion and Propylea and was succeeded by his less able sons Hippias and Hipparchus. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Peisistratus}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 11. }{\fs20\insrsid6442642 FTPE, answer these questions about different kinds of scattering.  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This type of scattering is caused by spherical particles with size on the order of the wavelength of light.  It is proportional to the square root of wavelength and has a forward directionality.  }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Mie}{\fs20\insrsid6442642  scattering }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  It occurs whenever light is scattered by particles much smaller than the wavelength of the light. Proportional to the 4}{\fs20\super\insrsid6442642 th}{\fs20\insrsid6442642  power of the wavelength, it
+ is the main reason why light from the sky is blue. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Raleigh}{\b\fs20\insrsid6442642  }{\fs20\insrsid6442642 scattering }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Differential cross sections of this type of scattering can be described by the Klein-Nishina formula. It occurs whenever a photon interacts with matter, resulting in a decrease in energy and change in direction of the photon.  
+}{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Compton}{\b\fs20\insrsid6442642  }{\fs20\insrsid6442642 scattering}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 12. }{\fs20\insrsid6442642 Answer the following related biochemical questions, FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This technique utilizes a porous substrate, in which proteins or DNA fragments are placed, and an applied electric field forces the displacement of the molecules and separates them by size. SDS-PAGE is a common example. }{
+\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 electrophoresis}{\fs20\insrsid6442642   }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  These y-shaped molecules, also known as immunoglobulins, are produced by B cells and respond to infection with foreign substances by binding to specific antigens. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 antibodies }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This molecular biology method typically involves an SDS-PAGE to separate a set of proteins, a transfer of the proteins to nitrocellulose, blocking, and both a primary and secondary an
+tibody. It serves to detect one specific protein in a sample and can also reveal size information. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Western}{\fs20\insrsid6442642  blot [also accept }{\b\fs20\ul\insrsid6442642 immunoblot}{\fs20\insrsid6442642 ]}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\cf1\insrsid8874946 13. }{\fs20\cf1\insrsid6442642 Seth Kendall is waiting with bated breath for his upcoming }{\i\fs20\cf1\insrsid6442642 Lectures on the History of Political Philosophy}{\fs20\cf1\insrsid6442642 , and his last work was entitled }{
+\i\fs20\cf1\insrsid6442642 Justice as Fairness: A Restatement}{\fs20\cf1\insrsid6442642 . FTPE, }{\fs20\cf1\insrsid6442642 
+\par [10]}{\fs20\cf1\insrsid6442642  Name this Harvard professor who pioneered the idea of the veil of ignorance in }{\i\fs20\cf1\insrsid6442642 A Theory of Justice}{\fs20\cf1\insrsid6442642 . }{\fs20\cf1\insrsid6442642 
+\par ANSWER:}{\fs20\cf1\insrsid6442642  John }{\b\fs20\ul\cf1\insrsid6442642 Rawls }{\fs20\cf1\insrsid6442642 
+\par [10]}{\fs20\cf1\insrsid6442642  This political philosopher rebutted Rawls\rquote  social-liberal democratic ideas in his 1974 defense of libertarianism, }{\i\fs20\cf1\insrsid6442642 Anarchy, State, and Utopia}{\fs20\cf1\insrsid6442642 . }{
+\fs20\cf1\insrsid6442642 
+\par ANSWER:}{\fs20\cf1\insrsid6442642  Robert }{\b\fs20\ul\cf1\insrsid6442642 Nozick }{\fs20\cf1\insrsid6442642 
+\par [10]}{\fs20\cf1\insrsid6442642  Rawls\rquote s works depend on this idea, an agreement between government and the governed, that gave its name to a Jean-Jacques Rousseau work. }{\fs20\cf1\insrsid6442642 
+\par ANSWER:}{\fs20\cf1\insrsid6442642  }{\b\fs20\ul\cf1\insrsid6442642 social contract}{\fs20\cf1\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 14. }{\fs20\insrsid6442642 This program\rquote s name was introduced in the 1965 State of the Union address, along with the \'93war on poverty.\'94 FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Name this social agenda of the Lyndon Johnson administration, whose notable components included Head Start and Medicare. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  the }{\b\fs20\ul\insrsid6442642 Great Society}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  The Great Society included this 1965 act that empowered the Justice Department to oversee certain practices in the southern states. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Voting Rights Act}{\fs20\insrsid6442642  of 1965 }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Most of the Great Society programs were administered by this Health, Education, and Welfare secretary who went on to found Common Cause. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  John William }{\b\fs20\ul\insrsid6442642 Gardner}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 15. }{\fs20\insrsid6442642 Answer the following about types of matrices in linear algebra, FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This fundamental kind of matrix has ones along its diagonal and is zero everywhere else. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Identity }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This kind of matrix results from the namesake operation of switching the rows and columns of a matrix. If the original matrix was 2 by 3, this new one is 3 by 2. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 transpose }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Matrices which are equal to their own transpose conjugate are described as having this property, named after the French mathematician who first proved that e is transcendental. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Hermitian}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 16. }{\fs20\insrsid6442642 November 9 is a momentous day in German history. FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  G\'fcnter Schabowski\rquote s mistaken television announcement on November 9, 1989 regarding \'93private trips abroad\'94 caused a crowd to gather at this structure, which was soon torn apart by hammer-wielding citizens.  }{
+\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Berlin Wall}{\fs20\insrsid6442642  [or }{\b\fs20\ul\insrsid6442642 Berliner Mauer}{\fs20\insrsid6442642 ] }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This occurred in November 9, 1938 on the pretext of Herschel Grynszpan\rquote s assassination of Ernst vom Rath, and involved Heinrich Muller\rquote s instructions to police not to interfere.  }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Kristallnacht}{\fs20\insrsid6442642  [or }{\b\fs20\ul\insrsid6442642 Night of}{\fs20\insrsid6442642  the }{\b\fs20\ul\insrsid6442642 Broken Glass}{\fs20\insrsid6442642 ; prompt on }{
+\b\fs20\ul\insrsid6442642 November Pogroms}{\fs20\insrsid6442642 ] }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  During this event of November 9, 1923, Hitler and Ludendorff attempted to take control of  Munich. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Beer Hall Putsch}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 17. }{\fs20\insrsid6442642 This opera begins with the marriage of B.F. Pinkerton to a 15-year old Japanese geisha. FTPE, }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Name this opera whose title character is Cio-Cio-San. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\i\fs20\ul\insrsid6442642 Madame Butterfly}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This Italian composer is responsible for }{\i\fs20\insrsid6442642 Madame Butterfly}{\fs20\insrsid6442642 , along with }{\i\fs20\insrsid6442642 Turandot}{\fs20\insrsid6442642  and }{\i\fs20\insrsid6442642 Tosca}{
+\fs20\insrsid6442642 . }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  Giacomo }{\b\fs20\ul\insrsid6442642 Puccini}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  In 1904, }{\i\fs20\insrsid6442642 Madama Butterfly}{\fs20\insrsid6442642  opened in this Milan opera house. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 La Scala}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 18. }{\fs20\insrsid6442642 The seventh addresses the \'93thin men of Haddam\'94, the fourth asserts that \'93A man and a woman / Are one\'94, and the eleventh describes someone who \'93Rode over Connecticut / in a glass coach\'94
+. FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Name this Wallace Stevens poem about a titular avian. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Thirteen Ways of Looking at a Blackbird}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This Stevens poem about a title ruler begins, \'93Call the roller of big cigars, / \~The muscular one, and bid him whip /\~In kitchen cups concupiscient curds.\'94 }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  The }{\b\fs20\ul\insrsid6442642 Emperor of Ice Cream}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  \'93Thirteen Ways of Looking at a Blackbird\'94 and \'93The Emperor of Ice Cream\'94 first appeared in this Stevens collection that was originally published in 1923. It also included \'93Peter Quince at the Clavier\'94 and \'93
+Domination of Black\'94. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\i\fs20\ul\insrsid6442642 Harmonium}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 19. }{\fs20\insrsid6442642 Name these Greek fabricators\emdash and, no, we don\rquote t mean Sinon\emdash FTPE. }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This 5}{\fs20\super\insrsid6442642 th}{\fs20\insrsid6442642  Century B.C. Athenian sculpted the gold and ivory statue of Zeus for the Temple of Zeus at Olympia and the giant statue of Athena in the Parthenon. }{
+\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Phidias}{\fs20\insrsid6442642  (or Pheidias; accept equivalents) }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This Greek sculpted the Aphrodite of Knidos and created a new namesake pose with his Hermes with the Infant Dionysus in the 4}{\fs20\super\insrsid6442642 th}{\fs20\insrsid6442642  Century B.C. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Praxiteles}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  This Greek architect designed the Parthenon along with Ictinos. He also built the Temple of Athena Nike on the Acropolis. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Callicrates}{\fs20\insrsid6442642 
+\par 
+\par }{\fs20\insrsid8874946 20. }{\fs20\insrsid6442642 Einstein won his Nobel Prize for the description of this phenomenon. FTPE: }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  Name this effect in which light incident on a metal surface can cause the ejection of electrons. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 photoelectric}{\fs20\insrsid6442642  effect }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  The photoelectric effect was first noted by this German, who was the first to generate and detect electromagnetic waves while working with LC circuits. He also has an SI unit named for him. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  Heinrich }{\b\fs20\ul\insrsid6442642 Hertz}{\fs20\insrsid6442642  }{\fs20\insrsid6442642 
+\par [10]}{\fs20\insrsid6442642  When determining the kinetic energy of emitted electrons, one subtracts this quantity equal to Planck\rquote s constant times the cutoff frequency, which is the amount of energy needed by an elect
+ron to escape the forces that normally bind it to the metal. }{\fs20\insrsid6442642 
+\par ANSWER:}{\fs20\insrsid6442642  }{\b\fs20\ul\insrsid6442642 Work Function}{\fs20\insrsid6442642 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6442642 {\insrsid8874946\charrsid8400383 
+\par }}

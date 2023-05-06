@@ -1,73 +1,374 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML>
-
-
-<HEAD>
-    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
-    <base href="https://collegiate.quizbowlpackets.com/">
-    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</HEAD>
-
-<BODY>
-    <script type="text/javascript" src="core.js?3">
-    // Core javascript
-    </script>
-    <!-- MARGIN CONTAINER -->
-    <DIV CLASS="Container">
-        <!-- BORDERED MAIN BODY -->
-        <DIV CLASS="OverallBody">
-            <!-- PAGE HEADER -->
-            <DIV CLASS="MainHeader">
-                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
-                <DIV class="FloatLeft">
-                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
-                    <H2>Free quizbowl packets for practice</H2>
-                </DIV>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-
-            <!-- NAVIGATION BAR -->
-                        <DIV CLASS="Navigation">
-                <UL CLASS="MainNav">
-                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
-                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
-                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
-                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
-                </UL>
-                <UL CLASS="Account">
-                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
-                </UL>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-                    <!-- MAIN PAGE CONTENT SECTION -->
-            <DIV class="ContentContainer">
-
-                                    
-                
-                <!-- MAIN COLUMN - Question set details -->
-                <DIV class="MainColumn">
-                    <DIV class="First">
-                        <H2>2002 ACF Regionals</H2>
-
-                        <!-- SET DETAILS -->
-                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 2001-2002</p>                                            </DIV>
-
-                    <P><a href="https://hsquizbowl.org/db/questionsets/304/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
-<h2>Download packets</h2>
-<UL class="FileList">
-<LI><a href="https://collegiate.quizbowlpackets.com/304/carletonberk a.doc">carletonberk a.doc</a> (63 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/chicago.doc">chicago.doc</a> (57 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/duke and illinois b.doc">duke and illinois b.doc</a> (63.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/florida.doc">florida.doc</a> (54 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/fsu and adam.doc">fsu and adam.doc</a> (47 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/house1.doc">house1.doc</a> (53 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/house2.doc">house2.doc</a> (62 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/house3.doc">house3.doc</a> (52 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/house4.doc">house4.doc</a> (55.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/illa-princeton.doc">illa-princeton.doc</a> (67.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/indiana.doc">indiana.doc</a> (56 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/isu and berkb.doc">isu and berkb.doc</a> (65.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/ken-del-ark.doc">ken-del-ark.doc</a> (67 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/mich a.doc">mich a.doc</a> (39.79 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/michbrutgers.doc">michbrutgers.doc</a> (60 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/mit.doc">mit.doc</a> (62.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/pitt final.doc">pitt final.doc</a> (52.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/304/stanford.doc">stanford.doc</a> (63 kB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=1656">Jeffrey Hill</a>.</DIV>                </DIV> <!--END FORM -->
-                        </DIV> <!-- END CONTENT CONTAINER --> 
-        <DIV class="FloatDivider"></DIV>
-        </DIV>
-        <!-- END BORDERED MAIN BODY -->
-
-        <!-- FOOTER -->
-                <DIV CLASS="Footer">
-            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
-            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#89e3ecefeffbecf0c9e1e0e5e5e6e7e5e0e7eca7e7ecfd">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#660c03000014031f260e0f0a0a09080a0f080348080312">Jeffrey Hill</a></P>
-        </DIV>
-    </DIV>
-    <!-- END MARGIN CONTAINER -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
-</HTML>
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt ?? ??};}{\f27\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}
+{\f167\froman\fcharset238\fprq2 Times New Roman CE{\*\falt ?? ??};}{\f168\froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt ?? ??};}{\f170\froman\fcharset161\fprq2 Times New Roman Greek{\*\falt ?? ??};}
+{\f171\froman\fcharset162\fprq2 Times New Roman Tur{\*\falt ?? ??};}{\f172\froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt ?? ??};}{\f173\froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt ?? ??};}
+{\f174\froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt ?? ??};}{\f383\fswiss\fcharset238\fprq2 Tahoma CE;}{\f384\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f386\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f387\fswiss\fcharset162\fprq2 Tahoma Tur;}
+{\f388\fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f389\fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f390\fswiss\fcharset186\fprq2 Tahoma Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{
+\s1\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \b\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 1;}{\*\cs10 \additive Default Paragraph Font;}{
+\s15\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 Title;}{\*\cs16 \additive \i \sbasedon10 HTML Cite;}{\*\cs17 \additive \i \sbasedon10 Emphasis;}{
+\s18\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext18 Body Text;}{\s19\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\f27\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext19 Balloon Text;}}{\*\listtable{\list\listtemplateid-1386317556{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'00.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li720\jclisttab\tx720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li1440\jclisttab\tx1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'02.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li2160\jclisttab\tx2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'03.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li2880\jclisttab\tx2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li3600\jclisttab\tx3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li4320\jclisttab\tx4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li5040\jclisttab\tx5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li5760\jclisttab\tx5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'08.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li6480\jclisttab\tx6480 }{\listname ;}\listid475146218}{\list\listtemplateid233599098{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\cf0\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li720\jclisttab\tx720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li1440\jclisttab\tx1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'02.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li2160\jclisttab\tx2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'03.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li2880\jclisttab\tx2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li3600\jclisttab\tx3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li4320\jclisttab\tx4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li5040\jclisttab\tx5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li5760\jclisttab\tx5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'08.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li6480\jclisttab\tx6480 }{\listname ;}\listid870654132}}{\*\listoverridetable{\listoverride\listid475146218\listoverridecount0\ls1}{\listoverride\listid870654132
+\listoverridecount0\ls2}}{\*\revtbl {Unknown;}{Campus Computing Sites;}}{\info{\title Bonus Set for Zeke}{\author Preferred Customer}{\operator Campus Computing Sites}{\creatim\yr2002\mo2\dy16\hr3\min3}{\revtim\yr2002\mo2\dy20\hr17\min36}{\version12}{\edmins156}{\nofpages9}{\nofwords4548}
+{\nofchars25927}{\*\company Dell Computer Corporation}{\nofcharsws0}{\vern8247}}\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1800\dgvorigin1440
+\dghshow1\dgvshow1\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule \fet0\sectd \linex0\endnhere\sectlinegrid360\sectdefaultcl {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+ACF Regionals 2002: Tossups by Florida State
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs20 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\fs20 1. The killing of Chief Waruhu marked the first serious threat of the Land Freedom Army, but the most brutal inci
+dent was the beating of 85 unarmed prisoners in what was termed the Hola Massacre.  Based on an oath \'93not to let the white man rule us forever\'94
+, the name by which this incident is now known did not even exist in the language of the native Kikuyu, over 100,000 of whom were killed in battle and concentration camps.  FTP, Jomo Kenyatta was imprisoned during what rebellion of 1950s and 60s Kenya.
+
+\par Ans: _Mau Mau_ rebellion
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 
+\par 2. Integral to RSA encryption and provable via the Fundamental Theorem of Algebra, for twenty-five hundred its value is one thousand, for one thousand it is four hundred, for twelve it is four, for three it is two, and for one it is one.  It can be given 
+b
+y the theorem that if p is prime and n is any positive integer, then this is p to the power of n minus one times p minus one.  Defined as the number of positive integers less than or equal to a given number which are also co-prime to it, FTP, name this fu
+nction developed by Euler.
+\par ANSWER:  }{\b\fs20 Phi}{\fs20 -Function or }{\b\fs20 Totient}{\fs20  Function  [prompt on \'93Euler\rquote s Function\'94]
+\par 
+\par 3. At the beginning of Jean Giradoux\rquote s novel, }{\i\fs20 Bella}{\fs20 , a dead soldier asks from the grave that this book be summarized in a word.  The story is told at a Canon\rquote 
+s house in Padua where we learn that the protagonist is the child of Lieutenant Robert.  As a teenager, our hero attempts to join Napoleon at Waterloo and ends up almost being hung as a spy.  Falling for the actress Marrietta, he kills her jealous lover
+ Giletti and runs afoul of the corrupt Minister Rassi.  After falling hard for General Conti\rquote s daughter Clelia, the protagonist\rquote 
+s escape is manufactured by Count Mosca at the behest of Duchess Gina Sanseverina.  FTP, name this novel starring Fabricio del Dongo\rquote s escapades in the titular prison, a work by Stendahl.
+\par ANSWER:  The }{\b\fs20 Charterhouse of Parma}{\fs20  or La }{\b\fs20 Chartreuse de Parme}{\fs20 
+\par 
+\par 5. In the 1950\rquote s he spent several years working with etchings and lithographs and followed up by creating ceramic murals of which the most famous were the }{\i\fs20 Wall of the Moon}{\fs20  and the }{\i\fs20 Wall of the Sun}{\fs20 
+ for the UNESCO building in Paris.  The sea change in his career took place in 1920 when he moved to Paris, met Picasso, and left his native folk art behind to create such distorted works as }{\i\fs20 Chiffres et Constellations}{\fs20 , }{\i\fs20 
+Dutch Interior}{\fs20 , }{\i\fs20 The Tilled Field }{\fs20 and }{\i\fs20 Personage Throwing a Stone at a Bird}{\fs20 .  Perhaps best known for }{\i\fs20 Harlequin\rquote s Carnival}{\fs20 , }{\i\fs20 Head and Bird}{\fs20  and }{\i\fs20 Catalan Landscape}{
+\fs20 , FTP, name this Spanish surrealist.  
+\par ANSWER:  Joan }{\b\fs20 Miro}{\fs20  Ferra
+\par 
+\par 6. Tech
+nically, this conflict can be divided into two phases, with the first half being settled at the Peace of Berwick.  A year later, the second phase ended after a battle that saw Lord Conway and Thomas Fairfax defeated by Alexander Leslie, Earl of Leven.  Fo
+l
+lowing the battle of Newburn-on-the-Tyne and the capture of Newcastle four days later, the Treaty of Ripon effectively ended it all.  With the English defeat primarily resulting from the refusal of funds by the Short Parliament, the conflict was a Scottis
+h victory over Charles I, forcing him to call the Long Parliament and precipitating the English Civil War.  FTP, name this war which took its name from the Scottish refusal of certain Anglican clergymen.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\pnrdate1180866661\pnrstart0\pnrxst0\pnrxst0\pnrstop2\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\pnrnot1\adjustright\rin0\lin0\itap0 {
+\fs20 ANSWER:  }{\b\fs20 Bishop\rquote s }{\fs20 War  [Accept \'93Scots War\'94 until the last sentence.  Some historians refer to it as the \'93First and Second Bishop\rquote s War\'94 but the first sentence makes it clear what I\rquote m looking for.]
+
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 
+\par 7. It is the basis of the Hanbury-Brown-Twiss effect and the Gross-Pitaevskii equation demonstrates why it also
+ works for atoms having a negative scattering length.  Problems with achieving it included the requirement that the deBroglie wavelength of the molecules becomes larger than their mean spacing.  Based on the \'93grouping\'94
+ tendencies of bosons and used to achieve an atomic laser, it was created by cooling a gas of rubidium-87 atoms to below 170 nano-kelvin by Carl Wieman and Eric Cornell.  FTP, name this form of matter predicted by Satyendra and Albert in 1925.
+\par ANSWER:  }{\b\fs20 BEC}{\fs20  or }{\b\fs20 Bose-Einstein Condensate}{\fs20  or }{\b\fs20 Bose-Einstein Condensation}{\fs20 
+\par 
+\par 8. Early works by this author include a translation of }{\i\fs20 Prometheus Bound}{\fs20 , an account of }{\i\fs20 The Battle of Marathon}{\fs20  as well as an }{\i\fs20 Essay on Mind}{\fs20 
+ in verse.  An early critic was William Thackeray who rejected one submission as containing \'93an account of unlawful passion.\'94  The first volume to achieve any real success was }{\i\fs20 The Seraphim}{\fs20  though the somewhat anti-British }{
+\i\fs20 Poems Before Congress}{\fs20  proved controversial as did the emancipation tome, }{\i\fs20 The Runaway Slave at Pilgrim\rquote s Point}{\fs20 .  Advocating Italian independence in }{\i\fs20 Casa Guidi Windows}{\fs20 
+, she also wrote the verse novel, }{\i\fs20 Aurora Leigh}{\fs20 .  FTP, name this author of }{\i\fs20 Sonnets from the Portugese}{\fs20  whose }{\i\fs20 Last Poems}{\fs20  was published posthumously by her husband, Robert.
+\par ANSWER:  }{\b\fs20 E}{\fs20 lizabeth Barrett }{\b\fs20 Browning}{\fs20 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\fs20 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 9. }{\fs20 Of the numerous 
+islands in this body of water, Ukerewe, is the largest, with wooded hills rising 650 feet above it. The Katonga river enters from the West, while the Kavirondo gulf lies in the Northeast corner of it extending into Kenya. First detailed extensively by Wil
+liam Garstin, the Owen Falls Dam in Uganda exploits its vast hydroelectric power. FTP identify this lake sighted by Speke in 1858, the largest in Africa.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 Answer: Lake }{\i\fs20 Victoria}{\fs20\revised\revauth1\revdttm1717740636 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\fs20 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 11. The libretto was compiled by a postal clerk, Christian Friedrich Henrici.  Well known portions include the alto solo, \'93Grief and Pain\'94
+ and the tenor aria with chorus, \'93O Grief, There Throbs the Racked and Bleeding Heart.\'94  Perhaps the most famous section is the closing chorus, \'93In Deepest Grief We Sit Here Weeping\'94, though also popular is the soprano aria \'93
+My Savior Now is Dying from Love Unbounded.\'94  Unlike the composer\rquote s previous work with a similar theme, this piece provides an instrumental background for Jesus\rquote 
+ words alone, distinguishing them from the other recitatives.  Famously revived in 1829 by Felix Mendelssohn, FTP, name this grand religious composition by J.S. Bach.
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\fs20 ANSWER:  The }{\b\fs20 Passion According to St. Matthew }{\fs20 or}{\b\fs20  St. Matthew\rquote s Passion}{\fs20  or }{\cs16\b\fs20 Pass
+io Domini Nostri Jesu Christi secundum Evangelistam Matthaeum}{\cs16\fs20   }{\fs20 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\pnrauth1\pnrdate1717740636\pnrnot1\adjustright\rin-720\lin0\itap0 {\fs20\revised\revauth1\revdttm1717740636 
+\par }{\fs20 11. Charles O\rquote Connor was caught attempting to fill the lining of his coat, but George Hewes threatened him with death before sending him out of town.  A
+lthough there was fear of an attack by Admiral Montagu at any moment, the plan which had begun at South Meeting House was completed at Griffin\rquote s Wharf in the presence of the }{\i\fs20 Beaver}{\fs20 , the }{\i\fs20 Dartmouth}{\fs20 , and the }{
+\i\fs20 Eleanor}{\fs20 .  FTP, identify this event of 1773 which responded to George III\rquote s tax on Ceylon and Darjeeling.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 Ans: _Boston Tea Party_
+\par 
+\par 12.  A cofounder of the New School for Social Research, he resigned from the Political Science department of Columbia University in 1917 to protest the dismissal of pacifist pro
+fessors.  Considered a radical early in his career, he would be reviled by liberals for his strenous opposition to FDR's administration. The author of such political science tracts as }{\i\fs20 American Government and Politics}{\fs20 
+, he collaborated with his wife Mary Ritter on }{\i\fs20 The Rise of American Civilization}{\fs20  and }{\i\fs20 America in Mid-Passage}{\fs20 .  Robert Brown\rquote 
+s critique of his most famous book centered on a failure by this historian to understand the nature of colonial finance.  FTP, name this author of }{\i\fs20 An Economic Interpretation of the Constitution of the United States.   
+\par }{\fs20 ANSWER:  Charles A. }{\b\fs20 Beard}{\fs20 
+\par 
+\par 13. The most popular current form of this line of reasoning is based on Arab thought as developed by William Craig and is known as the \'93Kalam\'94 argument.  An early form was developed by Plato in his discussion in the }{\i\fs20 Laws}{\fs20 
+ of soul/body disjunction.  Essentially, the argument assumes the impossibility of an infinite regression of events.  Sometimes known in its Liebnizian form, but usually associated with Thomas Aquinas, FTP, name this ar
+gument for the existence of God as the original cause or \'93first mover\'94 of the universe.
+\par ANSWER:  }{\b\fs20 Cosmological }{\fs20 Argument  [accept \'93first cause\'94 or \'93first mover\'94 before they are mentioned, do not accept \'93teleological\'94 or \'93argument from design\'94\emdash they were excluded from the first paragraph on] 
+
+\par 
+\par 14. .In this work, Truth and Beauty are buried in the concluding \'93Threnos\'94 section while Love and Constancy had died earlier.  In the middle eight stanzas, Reason is confounded by Love while the first five stanzas feature
+ an avian funeral procession. Containing clear references to the metaphysics of Plotinus, it first appeared with several similarly titled poems by other authors appended to Robert Chester\rquote s }{\i\fs20 Love\rquote s Martyr}{\fs20 .}{\i\fs20  }{\fs20 
+Though dedicated to Sir John Salisbury, many critics believe that the Earl of Essex and Queen Elizabeth I are represented by the titular reptile and mythological creature.  FTP, name this strange poem by that William Shakespeare dude.
+\par ANSWER:  The }{\b\fs20 Phoenix and the Turtle}{\fs20 
+\par 
+\par 15. The evidence for it first came 
+from a study of the isotope effect on critical temperature which created a band gap.  Developed by the use of an earlier approach meant for explaining polarons, it has been used to explain glitches or jumps in pulsar rotational periods and the superfluidi
+t
+y of helium.  Basically stating that coupled electrons can act like bosons, this theory requires the interaction of a crystal lattice by means of a phonon interaction to pair electrons close to the Fermi level into Cooper pairs.  FTP, name this theory dea
+ling with Type I superconductors developed and named for men named John, Leon and Robert who shared the 1972 nobel prize.
+\par ANSWER:  }{\b\fs20 BCS}{\fs20  Theory or }{\b\fs20 Bardeen-Cooper-Schrieffer}{\fs20  Theory
+\par 
+\par 16. In his }{\i\fs20 Ages in Chaos}{\fs20 , the pseudo-scholar Velikovsky claimed that this monarch had a well-developed relationship with King Solomon.  Taking the royal name \'93Kamare\'94
+, this ruler constructed two obelisks of red granite and the temple of Deir el Bahri.    Producing a daughter with
+ Senmut and possibly poisoned by Thutmose III, this ruler usurped power from the son of the commoner Moutnofrit by claiming direct descendance from Amon and sent a famous expedition to Punt.  Born to Thutmose I and Aahmes, FTP, name this Egyptian monarch 
+usually depicted in hieroglyphic reliefs as a man.
+\par ANSWER:  }{\b\fs20 Hatshepsut}{\fs20  or }{\b\fs20 Hatsepshut}{\fs20 
+\par 
+\par 18. Hair-stylists usually supplement the female variant by separating a handful of hair from the front of the head and flattening it into a single roll.  The rest of the h
+air is french-twisted to the point that it lays against the head.  This object was actually first used by Veronica Lake, a 1940\rquote 
+s actress, who was asked to change her hairstyle because female factory workers who emulated her were having various machinery a
+ccidents.  As a result, Veronica pinned her hair up and added a cotton handkerchief.  Today, the NFL only allows players with a medical excuse, such as Ray Lewis, to wear this.  FTP, associated with everyone from Andre Agassi to Deion Sanders with rappers
+ in between, what is this form of street headgear?
+\par ANSWER:}{\b\fs20   Do-Rag}{\fs20   [Prompt on \'93Rag\'94 or on \'93Skull Cap\'94 if stated by someone who looks like a biker].
+\par 
+\par 19. When he returns home from some criminal adventures in Michigan, he hangs out with old acquaintances like the aptly named Five Properties and works for his old boss, Einhorn.  After his brother Simon strikes it rich, he\rquote 
+s set up with his sister-in-law Lucy Magnus, but that falls through and he ends up stealing textbooks for a living.  At the end, he marries the actress Stella and he\rquote 
+s still not really happy though the sex is better.  The most traumatic incident in his life comes when he\rquote s persuaded by a rich girl to join her in Mexico on an expedition photographing her pet eagle, but after he almost takes a job as Trotsky
+\rquote s bodyguard, Thea Fenchel leaves him FTP, name this title character who tells us, \'93I am an American, Chicago born\'94, in \'93Adventures\'94 chronicled by Saul Bellow.
+\par ANSWER:  }{\b\fs20 Augie March}{\fs20  
+\par 
+\par 20. Sometimes detected by the application of Limulus Amebocyte Lysate, most enteric illnesses are attributed to this bacterial class.  It is distinguishable from its counterpart by the presence of an outer membrane in the cell wall that is composed primar
+ily of lipopolysaccharide.\~
+ Endotoxins retained in the lipid portion of the outer membrane are released when these bacilli disintegrate, causing fever and circulatory collapse in the host organism.  FTP, name these bacteria that lose their stain when a deco
+lorizing alcohol is applied.
+\par \~ANSWER:\~ }{\b\fs20 Gram }{\fs20 Stain}{\b\fs20  Negative}{\fs20  Bacteria
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs20 21.}{\fs20\cf1  After the convention moved to Birmingham some of its leaders like John Collins were arrested, more serious violence followed, however, after the \'93physical force\'94
+ party staged an armed rising in Newport. But it was Feargus O\rquote Connor\rquote 
+s charismatic championing of the six points originally drafted by London radical William Lovett that represented the most well known arm of this reform movement. FTP name this working class movement that took its name from a bill drafted in 1838.
+\par Answer: _Chartism_ or _Chartists_
+\par 
+\par Xtras:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 In this work\rquote s Second Dialogue, it states that the true end of history is to \'93teach men how to live\'94 and \'93render them prudent.\'94
+  One famous section includes a description of the burial of St. Francis and a discourse on the meaning of a pun on the word, \'93tondo.\'94
+  In other sections we find the story of how Pinturicchio was unaware of the 500 gold ducats hidden in his room and we also learn that Carpaccio didn\rquote t invent raw hamburg
+er but that he was responsible for Petrarch in His Study.  Though dedicated to Cosimo de\rquote  Medici, it was at 1546 Rome gathering that the idea for it was initiated by Cardinal Farnese.  FTP, name this work in which we first find the term \'93
+Renaissance\'94, written by Giorgio Vasari. 
+\par ANSWER:  }{\b\fs20 Lives of the Artists}{\fs20  or }{\cs17\b\fs20 Lives of the Most Eminent Painters, Sculptors and Architects}{\cs17\fs20  or }{\b\fs20 Vite de' pi\'f9 eccellenti architetti, pittori e scultori italiani}{\fs20 
+  [accept close English equivalents as it\rquote s been translated a bunch of times under slightly different titles.
+\par 
+\par Although the most well-known English translation is by William Taylor, a recent translation by Gisela and Paul D\rquote Andrea has been successfully staged.  In Act III Hafi suggests to the main character that they go hang o
+ut on the Ganges together while at the beginning of Act IV the friar chills in a convent.  The author\rquote s own views appear to have been expressed through the character of the servant Daya while the romantic subplot centers around the protagonist
+\rquote s daughter, Recha.  Subtitled \'93A Dramatic Poem in Five Acts,\'94
+ some of the best lines are spoken by Sittah, sister of Saladin, while the protagonist gives the Parable of the Three Rings in favor of religious toleration.   FTP, with a title character apparently based on
+ Moses Mendelssohn, name this Gotthold Lessing drama.
+\par ANSWER:  }{\b\fs20 Nathan the Wise}{\fs20  or }{\b\fs20 Nathan der Weise}{\fs20 
+\par 
+\par This name is also used for the events of 1814 in Ancaster, Upper Canada.  In the more well-known such occurrence, James Daniel famously escaped by means of a secret chamber while Edward Strode saved his own life by producing his daughter\rquote 
+s dowry, a gold apron.  The young women of Taunton were ransomed by their parents for 1,000 pounds and Colonel Kirke executed Elizabeth Gaunt\emdash the last woman burned in England
+ for political crimes.  It resulted in the elevation of Lord Chief Justice Jeffreys of Wem to Lord Chancellor and in the execution of between 150 and 200 people from throughout the Dorset region.   FTP, name these Dorchester based trials that followed a r
+ebellion against James II by James Scott, the Duke of Monmouth.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\pnrdate1180866673\pnrstart0\pnrxst0\pnrxst0\pnrstop2\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\pnrnot1\adjustright\rin0\lin0\itap0 {
+\fs20 ANSWER:  }{\b\fs20 Bloody Assizes}{\fs20   [prompt on \'93Monmouth Rebellion\'94 before the word \'93Dorchester\'94]
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 
+\par On the far left is the shadowy silhouette of what appears to be a hooded man extending over the trees tha
+t gradually slope upward to the right through the painting.  The other men are not waiters but they are dressed in white shirts with black trousers.  The lone animal on the far left is white, with the next several figures being red, followed by several wh
+i
+te ones and then a red animal on the far right.  The painting was a success at the 1853 Paris Salon despite its author needing police permission to wear masculine clothes so as to enter the titular location.  FTP, name this massive canvas by Rosa Bonheur.
+
+\par ANSWER:  The }{\b\fs20 Horse Fair}{\fs20  or Le }{\b\fs20 March\'e9 aux chevaux}{\fs20 
+\par 
+\par Its first known appearance was in a manuscript given to King Frederick III and known as the }{\i\fs20 Codex Regius}{\fs20 .  It includes a description as to how the slave, freeperson and noble each originated in \'93Rig\rquote s Song\'94
+ while another song details the search for a giant beer kettle.  Containing 23 lays in the second section, the first section also contains various accounts of the creation of the world, including the \'93Sayings of Skirnir\'94 and the \'93Voluspa.\'94
+  Other stories include contests of strength between Thor and Odin and \'93Baldur\rquote s Dream.\'94  FTP, name this Norse compilation attributed to Saemund Sigfusson
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs20 ANSWER:  }{\b\fs20 Elder Edda}{\fs20  or }{\b\fs20 Poetic Edda}{\fs20  or }{\b\fs20 Saemund\rquote s Edda}{\fs20\cf1 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 
+\par }{\b\fs20 Bonuses by ACF and Adam Fine}{\fs20 :
+\par 
+\par 1. World War I had its share of American military heroes.  Identify these three for ten points each.
+\par a.  Commander of the American Expeditionary Forces, he achieved so many successes that Congress named him the first \'93General of the Armies.\'94
+\par Answer:  John Joseph \'93Black Jack\'94 }{\fs20\ul Pershing}{\fs20 
+\par b.  Accepted as a fighter pilot in March 1918, this former race-car driver shot down 22 enemy planes and four balloons.
+\par Answer:  Eddie }{\fs20\ul Rickenbacker}{\fs20 
+\par c.  Once a religious conscientious objector, this man demonstrated his heroism in the Argonne forest, when he captured a German machine-gun nest and took 132 prisoners.
+\par Answer:  Sergeant Alvin }{\fs20\ul York}{\fs20 
+\par 
+\par 2. Given an economic scenario, state whether demand for a product would increase, demand would decrease, supply would increase, or supply would decrease, for five points
+ each and a five-point bonus for all correct.  The good in question is a normal good, ACF packets.
+\par a.  NAQT packets, a substitute for ACF, increase in price.
+\par Answer:  }{\fs20\ul demand increases}{\fs20 
+\par b.  Improved encyclopedia-searching technology results in less waste of time writing questions.
+\par Answer:  }{\fs20\ul supply increases}{\fs20 
+\par c.  The price of the Judge buzzer system, a complementary good, increases dramatically.
+\par Answer:  }{\fs20\ul demand decreases}{\fs20 
+\par d.  Michigan freshmen, represented by the Question Writers\rquote  Union, demand and receive a wage increase.
+\par Answer:  }{\fs20\ul supply decreases}{\fs20 
+\par e.  Student Financial Councils across the nation declare CBI is the way to go, and decide to cut all funding to ACF-friendly quizbowl clubs.
+\par Answer:  }{\fs20\ul demand decreases}{\fs20  
+\par 
+\par 3.Identify the following about an American Playwright FTPE:
+\par 1.He wrote a verse drama about Elizabeth I in 1930, but is better known for his Pulitizer prize winning work }{\i\fs20 Both Your Houses}{\fs20 , }{\i\fs20 What Price Glory}{\fs20 , and the }{\i\fs20 Gods of Lightning}{\fs20  about the Sacco-Vanzetti case.
+
+\par Answer: Maxwell _Anderson_
+\par 2.Maxwell Anderson turned to the Sacco-Vanzetti subject again in this 1935 work featuring the characters Garth, Mio, and Romagna involved in a New York tenement setting.
+\par Answer: _Winterset_
+\par 3.Anderson later had some success with comedies such as }{\i\fs20 Knickerbocker Holiday}{\fs20 , a collaboration with Kurt Weil that was based on this writer\rquote s 1809 }{\i\fs20 Knickerbocker\rquote s History of New York}{\fs20 .
+\par Answer: Washington _Irving_
+\par 
+\par 4. The late 1960s was a most non-triumphant time if you lived in China.
+\par a.  For five points, Mao Zedong began what attempted era of revitalization in 1966, staging demonstrations against foreigners and intellectuals?
+\par Answer:  }{\fs20\ul Cultural Revolution}{\fs20 
+\par b.  For ten points, these were Mao\rquote s \'93storm troopers\'94 during the Cultural Revolution, young radical students who burned books and beat and killed intellectuals before they were disbanded in 1968.
+\par Answer:  }{\fs20\ul Red Guards}{\fs20 
+\par c.  For fifteen, a leader of the Cultural Revolution, as the fourth wife of Mao she was named to the Politburo in 1969.  Name this woman, later tried as a member of the Gang of Four. 
+\par Answer:  }{\fs20\ul Jiang}{\fs20  Qing (jee-ANG jing)
+\par 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\fs20 5. Nitrophenyls and phenyl arsonates are small organic molecules that, by themselves, cannot elicit an antibody response.  Answer the following questions FTPE.
+
+\par a. First, identify this class of molecules, the name of which is derived from the Greek for \'93to fasten\'94.
+\par Ans: _haptens_
+\par b. If a hapten is chemically linked to a protein carrier and binds to a specific antibody, it can be classified as one of these.
+\par Ans: _antigen_ or _immunogen_
+\par c. In discovering antibodies for a wide variety of immune responses, this Nobel Prize winner designed the modern ABO classification system for human blood.
+\par Ans: Karl _Landsteiner_
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 
+\par 6. \'93Dracula\'94 and \'93King Kong\'94 were classics of the horror genre, but see if you can name these three other horror films of the 1920s and \lquote 30s, 5-10-15.
+\par a.  In this 1935 classic, Elsa Lanchester played the title character in the film proper, as well as Mary Shelley  in the prologue.
+\par Answer:  \'93The }{\fs20\ul Bride of Frankenstein\'94}{\fs20  (DO NOT PROMPT on \'93Frankenstein\'94)
+\par b.  Made in 1925 as one of the earliest two-color Technicolor productions, and based on a story by Gaston Leroux, it starred Lon Chaney as a disfigured man who harbored a passion for a young singer, played by Mary Philbin.
+\par Answer:  }{\fs20\ul \'93The Phantom of the Opera\'94}{\fs20 
+\par c.  Director Tod Browning fulfilled MGM producer Irving Thalberg\rquote s request for something that \'93out-horrored Frankenstein,\'94 with this 1932 film about a group of sideshow performers who plot revenge against a trapeze artist who humiliates them.
+
+\par Answer:  }{\fs20\ul \'93Freaks\'94}{\fs20 
+\par 
+\par 7. Identify these poems by John Keats from a description and some lines FTPE:
+\par 1.This sonnet which begins \'93Much have I traveled  in the realms of gold\'94 was written to his friend and mentor John Cowden Clarke after an all night reading session of the title poet.
+\par Answer: _On First Looking Into Chapman\rquote s Homer_
+\par 2.Containing such lines as \'93Give me my woman\rquote s and place me where he is, Stoop Hermes,\'94 this is Keats\rquote  long work about a mythological creature who was part snake and part woman.
+\par Answer: _Lamia_
+\par 3. This work based on a Chartier poem is subtitled \'93A ballad\'94 and begins \'93O what can ail thee, knight at arms/ Alone and palely loitering.\'94
+\par Answer: _La Belle Dame Sans Merci_
+\par 
+\par 8. Identify this pair of astronomical laws for fifteen points each.
+\par a.  The critical number in this distance measure is 2.44 times the radius of a planet, for it measures whether or not the tidal forces exerted by the planet would overcome a satellite\rquote s gravitational forces and cause that satellite to disintegrate.
+
+\par Answer:  }{\fs20\ul Roche limit}{\fs20 
+\par b.  The empirical formula A = (n+4)/10 was the centerpiece of what law which attempted to approximate the distances of the planets from the Sun, but did not fit for Neptune?
+\par Answer:  Titius-}{\fs20\ul Bode}{\fs20  Law (or }{\fs20\ul Bode\rquote s}{\fs20  Law)
+\par 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs20 9.}{\fs20\cf1  Answer the following about an African Empire FTPE:
+\par 1.Their power came to an end at the beginning of the 1590s as Moroccan forces under Ahmad al-Mansur routed Issihak II at various sites including their second most important city of Timbuktu.
+\par Answer: _Songhai_
+\par 2.Though the Songhai had long lived in and around this city, it was Kossoi who converted to Islam and established it as the capital in the 11}{\fs20\cf1\super th}{\fs20\cf1  century.
+\par Answer: _Gao_
+\par 3. This man who ascended to the throne in 1464 initiated the expansion of the Songhai empire in his campaigns against the Mossi, Fulani, and Tuareg.
+\par Answer: _Sunni Ali_ or _Sonni Ali_ Ber
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20 
+\par 10. Answer the following questions related to the work of the English Baroque composer Henry Purcell (PUR-sill) for ten points each.
+\par a.  Purcell\rquote s one grand opera was this 1689 piece based on an epic by the Roman writer Vergil.
+\par Answer:  }{\fs20\ul \'93Dido and Aeneas\'94}{\fs20 
+\par b.  Purcell composed numerous welcome songs for this feast day, commemorating the patron saint of music.
+\par Answer:  }{\fs20\ul Saint Cecilia\rquote s Day}{\fs20 
+\par c.  In 1692 he composed the score for this opera, most likely written by Dryden, but based on an incident in Shakespeare\rquote s \'93A Midsummer Night\rquote s Dream.\'94
+\par Answer:  }{\fs20\ul \'93The Fairy Queen\'94}{\fs20 
+\par 
+\par 11. Idenitfy these muscle groups from a description FTPE:
+\par 1.Named four its four part composition and nearby bone this }{\fs20\cf1 large fleshy muscle group covers the front and sides of the thigh.
+\par }{\fs20 Answer: _quadriceps femoris_
+\par 2.}{\fs28\cf1  }{\fs20\cf1 This large posterior muscle of the calf of the leg originates at the back of the femur and patella and, joins the soleus in being attached to the Achilles tendon at the heel.
+\par Answer: _gastrocnemius_
+\par }\pard\plain \s18\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+3. This muscle group originates just below the socket of the scapula and at two distinct areas of the humerus, the bone of the upper arm. Its major action is extension of the forearm upon the elbow joint, in opposition to the biceps brachii. 
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs20 Answer: _triceps_
+\par 
+\par 12. Identify the following about a Vedic God FTPE:
+\par 1.Often referred to as God \'93of a thousand eyes\'94 this storm deity rides around on his elephant Airavata and is identified as the father of Arjuna.
+\par Answer: _Indra_
+\par 2.Indra\rquote s greatest feat in his aspect as God of Battle was killing this fearsome Drought Serpent.
+\par Answer: _Vrita_ or _Vritra_ or _Ahi_
+\par 3.The Puranas tell of a feud between Indra and this 8}{\fs20\super th}{\fs20  avatar of Vishnu who is dark blue, brought up by shepherds, and dances around with Gopis.
+\par Answer: _Krishna_
+\par 
+\par 13. This bonus is concerned with the Milk Council\rquote s favorite historical figure.
+\par a.  For five points, what U.S. vice-president shot Alexander Hamilton in a duel less than a year after he was dropped from the Democratic-Republican ticket?
+\par Answer:  Aaron }{\fs20\ul Burr}{\fs20 
+\par b.  Burr graduated at age sixteen from a college where his father and grandfather had served as President.  For five each, name both the college and his grandfather, a major eighteenth-century religious leader.
+\par Answers:  }{\fs20\ul Princeton}{\fs20  University (or The }{\fs20\ul College of New Jersey}{\fs20 ); Jonathan }{\fs20\ul Edwards}{\fs20 
+\par c.  For fifteen, this governor of the Louisiana Territory was a co-conspirator in Burr\rquote s plan to rule a Western American Empire, but he betrayed Burr to President Jefferson.
+\par Answer:  General James }{\fs20\ul Wilkinson}{\fs20 
+\par 
+\par 14.Identify these novels by Hawthorne FTPE:
+\par 1. .In this 1851 work presents the struggle between Clifford and Jaffrey over the property that rightly belongs to Holgrave\rquote s family, the Maules, oh, there\rquote s also a curse and some mesmerism.
+\par Answer: _House of the 7 Gables_
+\par 2.Set in Rome this cool gothic work focuses on Donatello\rquote s love for Miriam, a hot art student, who makes him commit the murder of Antonio.
+\par Answer: _The Marble Faun_
+\par 3.Narrated by Miles Coverdale, this novel turns on the revelation that Priscilla, who is being victimized by another mesmerist named Westervelt, is really Zenobia\rquote s half-sister and that Hollingsworth is in love with her.
+\par Answer: _The Blithedale Romance_
+\par 
+\par 15. Given descriptions, identify the common sculptural subject, for fifteen points on the first clue, or for ten points on the second.
+\par a.  15:  Alonso Berruguete\rquote s version was carved from walnut and painted mostly in gold.  Claus Sluter created a \'93well\'94 with six lifesize statues for the Chartreuse monastery, but it is named after this figure.
+\par 10:  Michelangelo\rquote s only completed figure in the series for Pope Julius II\rquote s tomb was of this Old Testament hero.
+\par Answer:  }{\fs20\ul Moses}{\fs20 
+\par b.  15:  Constantin Brancusi\rquote s 1908 version, his breakthrough success, was a limestone sculpture he completed for a friend\rquote s grave in the Montparnasse Cemetery in Paris.
+\par 10:  Auguste Rodin\rquote s 1886 marble version that now resides in the Tate Gallery features Paolo and Francesca from Dante\rquote s }{\fs20\ul Inferno}{\fs20 .
+\par Answer:  }{\fs20\ul The Kiss}{\fs20 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs20 16.}{\fs20\cf1  Identify the following about the Russo-Japanese War FTPE:
+\par 1.After giving up Port Arthur, the Japanese forces met at this March, 1905 battle, the future site of a terrorist incident, after exceptional  losses for both sides General Kuropatkin retreated.
+\par Answer: Battle of _Mukden_
+\par 2.Two months later, Rozhestvensky\rquote s Baltic fleet was destroyed by Togo\rquote s forces at this site
+\par Answer: _Tsushima_ Straits
+\par 3. Finalized on September 5}{\fs20\cf1\super th}{\fs20\cf1  1905 this treaty named after a New Hampshire town ended the war.
+\par Answer: Treaty of _Portsmouth_
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\cf1 
+\par 17. Identify these African authors from worksFTPE:
+\par 1. }{\i\fs20\cf1 Devil on the Cross}{\fs20\cf1 , }{\i\fs20\cf1 Weep Not Child}{\fs20\cf1 , }{\i\fs20\cf1 Petals of Blood}{\fs20\cf1 
+\par Answer: _Ngugi_ Wa Thiongo
+\par 2.}{\i\fs20\cf1 Flowers and Shadows}{\fs20\cf1 , }{\i\fs20\cf1 The Famished Road}{\fs20\cf1 , }{\i\fs20\cf1 A Way of Being Free}{\fs20\cf1 
+\par Answer: Ben  _Okri_
+\par 3.  }{\i\fs20\cf1 Madmen and Scientists}{\fs20\cf1 , }{\i\fs20\cf1 A Shuttle in the Crypt}{\fs20\cf1 , }{\i\fs20\cf1 The Lion and the Jewel}{\fs20\cf1 
+\par Answer: Wole _Soyinka_
+\par 
+\par 18. }{\fs20 Identify these concepts from set theory FTP each.
+\par 1. This theorem states that two sets have the same cardinality if there is an injective mapping from each set to the other.
+\par Answer: _Schroeder-Bernstein_ theorem
+\par 2. For any given set S, this is defined as the set of all subsets of S.
+\par Answer: _power_ set
+\par 3. Equivalent to the axiom of choice and the well-ordering principle, this theorem says that an ordered set in which every chain has an upper bound must contain a maximal element.
+\par Answer: _Zorn_'s lemma
+\par 
+\par 19.Like any good video game with levels, the television show \'93Buffy the Vampire Slayer\'94 ends its seasons with a final confrontation against an arch-evil boss Identify these characters FTPE:
+\par a.  Mark Metcalf of \'93Animal House\'94 and Twisted Sister video fame played this oldest known vampire on record, slayed by Buffy at the end of the first season.
+\par Answer:  The }{\fs20\ul Master}{\fs20 
+\par b.  perhaps the only Mayor worse than Marion Barry was this Sunnydale politician, who turned into a giant snake-demon at the end of the third season before Buffy and Giles killed him by blowing up Sunnydale High School.
+\par Answer:  Mayor Richard }{\fs20\ul Wilkins}{\fs20  III
+\par c.  In season four, Willow, Buffy, Giles, and Xander use a magic gourd to combine to form UberBuffy in order to defeat this super irritating Demon-human hybrid, designed as part of an idiotic Government backed super-soldier Initiative.
+\par Answer:  _Adam_
+\par 
+\par 20. With Ash Wednesday having passed a week and a half ago, Christians are now smack-dab in the middle of Lent.
+\par a.  For five points, how long does Lent last, in days?
+\par Answer:  }{\fs20\ul 40}{\fs20 
+\par b.  For ten points for exactly correct or for five points if within one, in which century was Lent first observed?
+\par Answer:  }{\fs20\ul 4}{\fs20\ul\super th}{\fs20  century (no need for CE for obvious reasons)
+\par c.  For ten points, what holiday toward the end of Lent commemorates the Last Supper of Jesus?
+\par Answer:  }{\fs20\ul Maundy Thursday}{\fs20 
+\par d.  For a final five, what major holiday ends the period of Lent?
+\par Answer:  }{\fs20\ul Easter}{\fs20 
+\par 
+\par 21. Identify these men involved in the elucidation of the periodic table FTP each.
+\par 1. Noticing that there was a relationship between the atomic weights of calcium, barium, and strontium, this German chemist tried to draw up a table of elements grouped in triads.
+\par Answer: Johann Wolfgang _Dobereiner_
+\par 2. This English chemist proposed a connection between every eighth element. His law of octaves was a precursor to Mendeleyev's work. 
+\par Answer: John Alexander Reina _Newlands_
+\par 3. Problems in the Mendeleyevian version of the periodic table were resolved by this man's law. His ordering of the elements by atomic number enabled him to predict the discovery of several elements.
+\par Answer: Henry Gwyn Jeffreys _Moseley_
+\par }}

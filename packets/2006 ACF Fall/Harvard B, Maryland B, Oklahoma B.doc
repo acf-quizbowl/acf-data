@@ -1,85 +1,343 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML>
-
-
-<HEAD>
-    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
-    <base href="https://collegiate.quizbowlpackets.com/">
-    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</HEAD>
-
-<BODY>
-    <script type="text/javascript" src="core.js?3">
-    // Core javascript
-    </script>
-    <!-- MARGIN CONTAINER -->
-    <DIV CLASS="Container">
-        <!-- BORDERED MAIN BODY -->
-        <DIV CLASS="OverallBody">
-            <!-- PAGE HEADER -->
-            <DIV CLASS="MainHeader">
-                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
-                <DIV class="FloatLeft">
-                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
-                    <H2>Free quizbowl packets for practice</H2>
-                </DIV>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-
-            <!-- NAVIGATION BAR -->
-                        <DIV CLASS="Navigation">
-                <UL CLASS="MainNav">
-                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
-                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
-                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
-                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
-                </UL>
-                <UL CLASS="Account">
-                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
-                </UL>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-                    <!-- MAIN PAGE CONTENT SECTION -->
-            <DIV class="ContentContainer">
-
-                                    
-                                <!-- SIDEBAR CONTENT -->
-                <DIV id="AdditionalActionsSidebar" class="SidebarColumn">
-                                        <!-- ACTION BOX -->
-                    <DIV id="ActionBox">
-                        <DIV class="Content">
-                            <UL Class="NoHeader">
-                            <LI><a href="http://www.hsquizbowl.org/forums/viewtopic.php?t=2603">View website/forum thread</a></LI>
-                            </UL>
-                        </DIV>
-                    </DIV>
-                    <!-- END ACTION BOX --> 
-                                    </DIV> <!-- END SIDEBAR -->
-                
-                <!-- MAIN COLUMN - Question set details -->
-                <DIV class="MainColumn">
-                    <DIV class="First">
-                        <H2>2006 ACF Fall</H2>
-
-                        <!-- SET DETAILS -->
-                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 2006-2007</p>                                            </DIV>
-
-                    <P><a href="https://hsquizbowl.org/db/questionsets/284/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
-<h2>Download packets</h2>
-<UL class="FileList">
-<LI><a href="https://collegiate.quizbowlpackets.com/284/Berkeley A.doc">Berkeley A.doc</a> (77.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Darmouth A, Rochester A, UGA C.doc">Darmouth A, Rochester A, UGA C.doc</a> (74.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Drake A, MIT B, GT B.doc">Drake A, MIT B, GT B.doc</a> (69 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Georgia Tech A, Oklahoma A, Florida B.doc">Georgia Tech A, Oklahoma A, Florida B.doc</a> (73.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Harding A.doc">Harding A.doc</a> (73.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Harvard A, Illinois B.doc">Harvard A, Illinois B.doc</a> (74 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Harvard B, Maryland B, Oklahoma B.doc">Harvard B, Maryland B, Oklahoma B.doc</a> (49.98 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Illinois A, Virginia A, Florida A, MIT A.doc">Illinois A, Virginia A, Florida A, MIT A.doc</a> (75.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Keller.doc">Keller.doc</a> (80 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Kentucky B, South Carolina A, Dartmouth B.doc">Kentucky B, South Carolina A, Dartmouth B.doc</a> (52.8 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Maryland A.doc">Maryland A.doc</a> (66.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Rochester B, Chicago B, UCLA B, Yale B.doc">Rochester B, Chicago B, UCLA B, Yale B.doc</a> (54.16 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Rutgers-NB A.doc">Rutgers-NB A.doc</a> (69 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Sorice.doc">Sorice.doc</a> (71.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/UCLA A.doc">UCLA A.doc</a> (67 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Weiner, Brown University.doc">Weiner, Brown University.doc</a> (83.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Yale A, Florida Metro.doc">Yale A, Florida Metro.doc</a> (71 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/284/Yale C, Chicago A.doc">Yale C, Chicago A.doc</a> (69 kB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=1656">Jeffrey Hill</a>.</DIV>                </DIV> <!--END FORM -->
-                        </DIV> <!-- END CONTENT CONTAINER --> 
-        <DIV class="FloatDivider"></DIV>
-        </DIV>
-        <!-- END BORDERED MAIN BODY -->
-
-        <!-- FOOTER -->
-                <DIV CLASS="Footer">
-            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
-            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#553f30333327302c153d3c39393a3b393c3b307b3b3021">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#244e41424256415d644c4d48484b4a484d4a410a4a4150">Jeffrey Hill</a></P>
-        </DIV>
-    </DIV>
-    <!-- END MARGIN CONTAINER -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
-</HTML>
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f70\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f71\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f73\froman\fcharset161\fprq2 Times New Roman Greek;}{\f74\froman\fcharset162\fprq2 Times New Roman Tur;}{\f75\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f76\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f77\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f78\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive \sbasedon10 \styrsid9910907 artcopy;}}{\*\pgptbl {\pgp\ipgp0\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid1001600\rsid1853215\rsid8471084\rsid9263923\rsid9331007\rsid9910907\rsid10167785\rsid11539764\rsid13399763\rsid13586802\rsid13645479\rsid14319064\rsid14484935}
+{\*\generator Microsoft Word 10.0.3416;}{\info{\author MLW}{\operator MLW}{\creatim\yr2006\mo11\dy4\hr11\min1}{\revtim\yr2006\mo11\dy4\hr11\min54}{\version14}{\edmins11}{\nofpages8}{\nofwords4254}{\nofchars24252}{\nofcharsws28450}{\vern16453}}
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot8471084 \fet0\sectd 
+\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs20\insrsid11539764\charrsid9910907 ACF Fall 2006}{\b\fs20\insrsid8471084\charrsid9910907 
+\par }{\b\fs20\insrsid11539764\charrsid9910907 Tossups by Harvard B, Maryland B, and Oklahoma B
+\par }{\fs20\insrsid8471084\charrsid9910907 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid9910907\charrsid9910907 1}{\fs20\insrsid13586802 .}{\fs20\insrsid9910907\charrsid9910907  }{\fs20\insrsid10167785\charrsid9910907 
+One version of this statement made use of lambda definability, which is desc
+ribed as a function that can be calculated by a process of repeated substitution, and another was originally developed while attempting to prove that a posed problem for the predicate calculus was unsolvable. Copeland and Proudfoot wrote a controversial }
+{\i\fs20\insrsid10167785\charrsid9910907 Scientific American}{\fs20\insrsid10167785\charrsid9910907 
+ article about it, in which they suggest the creation of an oracle.  It says that the halting problem is undecidable, and though it may not be able to be proved, every realistic model discovered has proven to be equivalent. FTP name this t
+hesis that says any effective computation can be translated into an equivalent computation by one of its namesake's eponymous machines. 
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 Church-Turing}{\fs20\insrsid10167785\charrsid9910907  Thesis [accept in either order; prompt on only a single name]
+\par }{\fs20\insrsid9910907\charrsid9910907 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9910907 {\fs20\insrsid9910907\charrsid9910907 2. One of them is shaped as two re
+ctangles joined by a small spit, and another was the birthplace of one of a designer of the U.S. Capitol, William Thornton. }{\cs15\fs20\insrsid9910907\charrsid9910907 
+Minor parts have names such as Norman, Peter, and Cooper, while the four principal components of this territory are }{\fs20\insrsid9910907\charrsid9910907 Gorda, Jost Van 
+Dyke, Anegada and the population center of Tortola. The largest settlement in this riverless territory is Road Town, and the group comprises the eastern extremity of the Greater Antilles. Found to the northeast of a similarly-named American territory, the
+y received internal autonomy in 1977. FTP, name these islands which constitute a Caribbean colony of the United Kingdom.
+\par ANSWER: }{\b\fs20\ul\insrsid9910907\charrsid9910907 British Virgin Islands}{\fs20\insrsid9910907\charrsid9910907  [prompt on partial answer]
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid9910907\charrsid9910907 
+\par }{\fs20\insrsid9910907 3. }{\fs20\insrsid10167785\charrsid9910907 He shares his name with an American journalist often credited with enginee
+ring the presidential nomination of Franklin Pierce. He attempted to found a school of followers with his late works, including }{\i\fs20\insrsid10167785\charrsid9910907 Letters on a Regicide Peace}{\fs20\insrsid10167785\charrsid9910907 
+, but succeeded only in converting the briefly prominent William Elliot. This onetime secretary to the Marquis of Rockingham argued for more enlightened treatment of the colonies in his \'93Thoughts on the Cause of the Present Discontents.\'94
+ He advocated a trustee rather than representative form of legislative delegation and attempted to show that the self-preservation instinct is the origin of aesthetic sensibility in his }{\i\fs20\insrsid10167785\charrsid9910907 
+Enquiry into the Origin of our Ideas of the Sublime and Beautiful. }{\fs20\insrsid10167785\charrsid9910907 FTP, name this anti-Tory author of }{\i\fs20\insrsid10167785\charrsid9910907 Reflections on the Revolution in France}{
+\fs20\insrsid10167785\charrsid9910907 , often considered the founder of conservative political philosophy. 
+\par ANSWER: Edmund }{\b\fs20\ul\insrsid10167785\charrsid9910907 Burke}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 4. }{\fs20\insrsid10167785\charrsid9910907 In one of this man\rquote s novels, a fox ravaging poultry represents Henry Grenfel\rquote 
+s intrusion in the lives of Nellie March and Jill Banford, while another features the complex relationship between Richard and Harriet Somers.  An anarchist\rquote 
+s bomb destroys the titular flute at the end of a novel about a former secretary to a miners\rquote  union, and Kate Leslie cannot resist the masculinity of the Mexican General Viedma in }{\i\fs20\insrsid10167785\charrsid9910907 The Plumed Serpent}{
+\fs20\insrsid10167785\charrsid9910907 .  The fictional Brangwen family is featured in both }{\i\fs20\insrsid10167785\charrsid9910907 The Rainbow}{\fs20\insrsid10167785\charrsid9910907  and }{\i\fs20\insrsid10167785\charrsid9910907 Women in Love}{
+\fs20\insrsid10167785\charrsid9910907 , though he is better known for works that feature the loves of Paul Morel and the adulterous relationship between the gamekeeper Oliver Mellors and the wife of a paralyzed war veteran.  For 10 points, name t
+his British author of }{\i\fs20\insrsid10167785\charrsid9910907 Sons and Lovers}{\fs20\insrsid10167785\charrsid9910907  and }{\i\fs20\insrsid10167785\charrsid9910907 Lady Chatterley\rquote s Lover}{\fs20\insrsid10167785\charrsid9910907 . 
+\par ANSWER: D(avid) H(erbert) }{\b\fs20\ul\insrsid10167785\charrsid9910907 Lawrence}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 5. }{\fs20\insrsid10167785\charrsid9910907 The relationsh}{\fs20\insrsid9910907 ip this graph }{\fs20\insrsid10167785\charrsid9910907 predicted was actually discovered by Irving Fisher in the 1920s, over thirty years before its namesake published his work
+ on it. It can be derived theoretically using Okun\rquote 
+s law from the short-run aggregate supply, although its originator examined one of the properties in terms of nominal wages rather than the standard common today. Originally based on data for the United Ki
+ngdom from 1861 to 1957, it was generalized by Samuelson and Solow to the United States, but it could not explain the economic oddities of the 1970s because in the long run, it is perfectly inelastic. FTP, name this curve which in the short-run depicts an
+ inverse relationship between unemployment and inflation. 
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 Phillips}{\fs20\insrsid10167785\charrsid9910907  curve
+\par }{\fs20\insrsid9910907 
+\par 6. }{\fs20\insrsid10167785\charrsid9910907 In this musical, Anita sings "A boy like that / Who\rquote d kill your brother / Forget that boy and find another!" In Act I, a male character sings "Something's Coming" while im
+agining a different and better future, and in Act II, a female character sings "I Feel Pretty." Those two characters engage in a mock marriage ceremony while singing "One Hand, One Heart." Those characters, Tony and Maria, are members of opposite gangss, 
+the Jets and the Sharks. FTP, name this musical based on }{\i\fs20\insrsid10167785\charrsid9910907 Romeo and Juliet}{\fs20\insrsid10167785\charrsid9910907 . 
+\par ANSWER: }{\b\i\fs20\ul\insrsid10167785\charrsid9910907 West Side Story}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\cf1\insrsid9910907 
+\par 7. }{\fs20\cf1\insrsid10167785\charrsid9910907 His son lived in a silver-roofed hall with pillars of gold, which is known as Glitnir, and he himself lived in Breidablik. He was the possessor of a ship
+ known as Hringhorni, and his wife, Nanna, threw herself on the ship's funeral pyre in an act of devotion. This titular character in a Matthew Arnold poem tells Hermod that he was tired of living in a strife-filled world, and Hermod traveled to Helheim to
+ retrieve his soul, but failed. His mother Frigg failed to protect this figure from one item, which was thrown at him by his twin brother. FTP, name this son of Odin, the Norse god of beauty, who died from a mistletoe arrow. 
+\par ANSWER: }{\b\fs20\ul\cf1\insrsid10167785\charrsid9910907 Balder}{\fs20\cf1\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 8. }{\fs20\insrsid10167785\charrsid9910907 The wife of the artist, Suzanne Leenhoff, modelled for this painting, as did Victorine Meurent. Originally entitled }{\i\fs20\insrsid10167785\charrsid9910907 The Bath}{\fs20\insrsid10167785\charrsid9910907 
+, it was showcased in the 1863 Salon of the Refused. This painting includes a round loaf of bread, a basket of fruit, and clothing of a woman.in
+ the lower right. The clothing belongs to the naked woman who looks at the viewer and sits near two dressed men. FTP, name this Edouard Manet painting depicting a picnic.
+\par ANSWER: }{\i\fs20\insrsid10167785\charrsid9910907 The }{\b\i\fs20\ul\insrsid10167785\charrsid9910907 Luncheon on the Grass}{\fs20\insrsid10167785\charrsid9910907  (also accept }{\b\i\fs20\ul\insrsid10167785\charrsid9910907 D\'e9jeuner sur l'herbe}{
+\fs20\insrsid10167785\charrsid9910907 )
+\par }{\fs20\insrsid9910907 
+\par 9. }{\fs20\insrsid10167785\charrsid9910907 One of this work\rquote s protagonist\rquote 
+s liaisons is ended by an anonymous letter from a poorhouse manager after his best friend tries to entice him into the lumber business.  A pivotal moment in the novel occurs as a result of a lawsuit between his eventual employer and Mons
+ieur de Frillair, which prompts the protagonist to leave Besancon with Father Pirard.  He becomes friends with Count Norbert, the son of the Marquis de la Mole, for whom he works as a secretary.  After impregnating the marquis\rquote 
+ daughter he is set up as a rich man, but he loses his fortune after his previous involvement with a mayor\rquote 
+s wife is revealed.  The struggle of Julien Sorel is chronicled in, FTP, what novel by Stendhal, whose title reflects the colorful dichotomy between church and state. 
+\par ANSWER: The }{\b\fs20\ul\insrsid10167785\charrsid9910907 Red and the Black}{\fs20\insrsid10167785\charrsid9910907  (accept: Le }{\b\fs20\ul\insrsid10167785\charrsid9910907 Rouge et le Noir}{\fs20\insrsid10167785\charrsid9910907 , The }{
+\b\fs20\ul\insrsid10167785\charrsid9910907 Scarlet and the Black}{\fs20\insrsid10167785\charrsid9910907 ) 
+\par }{\fs20\insrsid9910907 
+\par 10. }{\fs20\insrsid10167785\charrsid9910907 Diagnosable by Giemsa staining, one of the remedies for this disease may cause cinchonism in the patient, and the recommended therapy for it now involves extracts from the }{
+\i\fs20\insrsid10167785\charrsid9910907 Artemisia annua}{\fs20\insrsid10167785\charrsid9910907 
+ plant.  It is actually four separate diseases, and symptoms tend to set on 10 to 28 days after infection. Despite a 1950s campaign to eradicate it, this disease, which causes flu-like symptoms and potentially coma and severe anemia, still k
+ills over one million people a year. Treatable by quinine, FTP identify this plasmodium-induced illness, characterized by high fever and chills and transmitted by female }{\i\fs20\insrsid10167785\charrsid9910907 Anopheles}{
+\fs20\insrsid10167785\charrsid9910907  mosquitoes.
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 Malaria}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 11. }{\fs20\insrsid10167785\charrsid9910907 Ljuba Welitsch is arguably the most famous 
+soprano to play the title character in this opera, based on a Hedwig Lachmann translation. After the title character leaves a feast, she can hear her mother, Herodias, being cursed at. This opera contains a passage for quarrelling Jews and a spell in whic
+h
+ the title character gives vent to her lust for Jokanaan.  Jokanaan is later slain and his severed head presented to to the title character upon a silver charger.  Set in Palestine at the time of Christ, FTP name this opera by Strauss in which the title c
+haracter performs the \'93Dance of the Seven Veils\'94 before King Herod and his court.   
+\par ANSWER: }{\b\i\fs20\ul\insrsid10167785\charrsid9910907 Salome}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 12. }{\fs20\insrsid10167785\charrsid9910907 From 1967 to 1969, he built compost heaps across Southeast Asia for the Peace Corps. He has written }{\i\fs20\insrsid10167785\charrsid9910907 Greenwich Killing Time }{\fs20\insrsid10167785\charrsid9910907 
+and sixteen other mystery novels with himself as the protagonist, and he smokes eight Montecristo No. 2s each day. The National Organization for Women declared this man the Male Chauvinist Pig of the Year for 1974 after he recorded the song \'93
+Get Your Biscuits in the Oven and Your Buns in the Bed,\'94 and his other efforts as the pro-choice anthem \'93Rapid City, South Dakota,\'94 and \'93They Ain't Makin\rquote  Jews Like Jesus Anymore.\'94
+ More recently, he pledged to reduce the speed limit to 54.95 miles per hour in his campaign against Chris Bell, Carole Strayhorn, and Rick Perry, which has adopted the slogan \'93Why the hell not?\'94
+ FTP, name this candidate for governor of Texas and leader of the Texas Jewboys country group. 
+\par ANSWER: Richard \'93Kinky\'94 }{\b\fs20\ul\insrsid10167785\charrsid9910907 Friedman}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 13. }{\fs20\insrsid10167785\charrsid9910907 In a notable essay by this man he criticizes E
+nglish manners through the fictitious letters of a Chinese gentleman, Lien Chi Altangi.  In one poem he attacks figures such as Smiglecus and Aristotle, saying they have \'93but ill defin'd/As rational, the human kind,\'94
+ and he wrote elegies on Mrs. Mary Blaize and on the death of a mad dog.  A longer poem celebrates \'93Sweet Auburn,\'94 the titular \'93Deserted Village.\'94  He writes that \'93all his faults are such that one loves him still the better for them\'94
+ of the titular \'93Good-Natured Man\'94 of one his dramas, although better known is a play in which Young Marlow attempts to woo a girl who has disguised herself as a lowly servant to spy on him.  FTP name this author, who wrote about Dr. Primrose in }{
+\i\fs20\insrsid10167785\charrsid9910907 The Vicar of Wakefield }{\fs20\insrsid10167785\charrsid9910907 and Kate Hardcastle in }{\i\fs20\insrsid10167785\charrsid9910907 She Stoops to Conquer}{\fs20\insrsid10167785\charrsid9910907 . 
+\par ANSWER: Oliver }{\b\fs20\ul\insrsid10167785\charrsid9910907 Goldsmith}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 14. }{\fs20\insrsid10167785\charrsid9910907 It is unknown whether they are Majorana particles, and therefore it is unclear if they are released in double beta decays. They were recently used in an article in }{\i\fs20\insrsid10167785\charrsid9910907 
+Nature}{\fs20\insrsid10167785\charrsid9910907  to investigate the uranium and thorium content of the inne
+r Earth. Found to oscillate between their different varieties by experiments conducted in Japanese mines, they were shown to not be massive enough to account for dark matter. However, the KamLAND and Super-Kamiokande experiments did show that, contrary to
+ long-held suspicions, they do have mass.  FTP, name these uncharged leptons that come in electron, muon, and tau varieties. 
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 Neutrinos}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 15. }{\fs20\insrsid10167785\charrsid9910907 Ctesiphon\rquote 
+s attempt to award this man a gold crown led to a libel suit. He was later betrayed by his friend Demades, who successfully prosecuted a death sentence against this man shortly after he was convicted, in a separate matter, of stealing twenty talents from 
+Harpalus. After unsuccessfully seeking sanctuary from Antipater, he committed suicide by sucking poison out of a pen while pretending to address a letter to his family. His major works include }{\i\fs20\insrsid10167785\charrsid9910907 On the Peace}{
+\fs20\insrsid10167785\charrsid9910907 , }{\i\fs20\insrsid10167785\charrsid9910907 On the Embassy}{\fs20\insrsid10167785\charrsid9910907 , and }{\i\fs20\insrsid10167785\charrsid9910907 On the Crown}{\fs20\insrsid10167785\charrsid9910907 , which is a fierc
+e attack on his rival Aeschines. He became prominent with \'93On the Navy Boards\'94
+and targeted the sculptor Antenor after suing Aphobus for embezzling his inheritance. The name of another series of his compositions was adopted by Cicero for an attack on Antony
+. FTP, name this ancient orator who reputedly practiced speaking with pebbles in his mouth and wrote the }{\i\fs20\insrsid10167785\charrsid9910907 Olynthiacs}{\fs20\insrsid10167785\charrsid9910907  and }{\i\fs20\insrsid10167785\charrsid9910907 Philippics}
+{\fs20\insrsid10167785\charrsid9910907 . 
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 Demosthenes}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 16. }{\fs20\insrsid10167785\charrsid9910907  This author tells the title character of one of his poems that \'93The meteors of a mimic day/Shall flash upon thine eyes\'94 after promising to \'93build of ice thy winter home.\'94  He exhorts his reader to 
+\'93Weep not that the world changes\'94 in \'93Mutation,\'94 and he declares \'93Woe to the English Soldiery/That little dread us near!\'94 in a poem about men led by the Marquis de Lafayette.  The collections }{\i\fs20\insrsid10167785\charrsid9910907 
+The White-Footed Deer }{\fs20\insrsid10167785\charrsid9910907 and }{\i\fs20\insrsid10167785\charrsid9910907 The Fountain}{\fs20\insrsid10167785\charrsid9910907  followed the success of his first collection, the satirical }{
+\i\fs20\insrsid10167785\charrsid9910907 The Embargo}{\fs20\insrsid10167785\charrsid9910907 .  His best-known poems include one that addresses \'93him who in the love of Nature holds/Communion with her visible forms\'94 and a poem about the power who \'93
+will lead my steps aright\'94 along with guiding the title bird.  FTP name this poet of \'93To a Waterfowl\'94 and \'93Thanatopsis.\'94 
+\par ANSWER: William Cullen }{\b\fs20\ul\insrsid10167785\charrsid9910907 Bryant}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 17. }{\fs20\insrsid10167785\charrsid9910907 Their derivatives most often interconvert through nucle
+ophilic acyl substitution, and the Kolbe-Schmitt and von Richter reactions generate them as products. Among the numerous methods to synthesize them are the oxidative cleavage of alkenes by potassium permanganate and the reaction of excess Jones' reagent w
+i
+th primary alcohols.  These compounds generally possess pKa's ranging from 3 to 5, and the butyric example is found in rancid butter, while the formic one provides the sting in ant bites.  FTP name this class of organic compounds defined by a carbon both 
+double-bonded to an oxygen and single bonded to a hydroxyl.
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 carboxylic acids}{\fs20\insrsid10167785\charrsid9910907  [prompt on just 'acid']}{\fs20\insrsid10167785 
+\par }{\fs20\insrsid9910907 
+\par 18. }{\fs20\insrsid10167785\charrsid9910907 This state was ruled by a Mand\'e9 group known as the Soninke, who suffered an interregnum in the eleventh century when Abdullah ibn Yasin\rquote s Sanha
+jah and other Almoravids invaded. It was occupied by the Susu three years after being conquered in 1200 by Sumanguru, and by 1240 it disintegrated following the sack of its capital, located in modern Mauritania and known as Kumbi Saleh. Located at the sou
+t
+hern end of trans-Saharan trade routes, where its gold could be exchanged for Saharan salt, this long-lived empire was the first African trading state. FTP, name this empire which shares its name with a modern country founded by Kwame Nkrumah whose capita
+l is Accra. 
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 Ghana}{\fs20\insrsid10167785\charrsid9910907  Empire [accept }{\b\fs20\ul\insrsid10167785\charrsid9910907 Wagadou}{\fs20\insrsid10167785\charrsid9910907  before it is read] 
+\par }{\fs20\insrsid9910907 
+\par 19. }{\fs20\insrsid10167785\charrsid9910907 Devices designed to exhibit this effect are often made of the same materials as capacitor dielectrics, such as lead zirconate titanate and lead magnesium niobate.  Discovered in 1880
+ by Pierre and Paul-Jacques Curie, it has a magnetic analogue called magnetostriction.  It is useful in micro positioning devices, and materials exhibiting its converse effect can act as transducers in SONAR and ultrasound.  It occurs only in crystals wit
+hout a center of symmetry, which allows small displacements in ions in the crystal lattice and redistribution of electric charge.  Famously exhibited by quartz, FTP name this effect in which deformation of a crystal produces a voltage. 
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 piezoelectricity}{\fs20\insrsid10167785\charrsid9910907  or }{\b\fs20\ul\insrsid10167785\charrsid9910907 piezoelectric effect}{\fs20\insrsid10167785\charrsid9910907 
+\par }{\fs20\insrsid9910907 
+\par 20. }{\fs20\insrsid10167785\charrsid9910907 He supposedly commissioned the calligrapher Omar Aqta to fit the entire Quran on a single ring, and he served briefly as minister to Ilyas Khoja before allying with Amir Husayn to seize the throne. Before he wa
+s buried in an ebony coffin at Gur-e Amir, he ordered his territories divvied up among various descendants, but his empire was briefly reunited by his grandson Shah Rokh. He kidnapped all the artisans of Damascus and defeated Mahmud Tughluq in the 1398 ba
+t
+tle of Panipat, leading to the  crippling sack of Delhi. This man, born into the Barlas tribe of the Chagatai khanate, fought with the Knights of Rhodes at Smyrna and waged a proxy war on Russia by supporting Tokhtamysh, who turned on this man after he co
+nquered Iran. FTP, name this Samarkand-based warlord who stacked the skulls of the rebellious in pyramids, and whose epithet suggests a boyhood injury that caused him to be crippled. 
+\par ANSWER: }{\b\fs20\ul\insrsid10167785\charrsid9910907 Tamerlane}{\fs20\insrsid10167785\charrsid9910907  [accept }{\b\fs20\ul\insrsid10167785\charrsid9910907 Timur}{\fs20\insrsid10167785\charrsid9910907 -e Lang, accept }{
+\b\fs20\ul\insrsid10167785\charrsid9910907 Timur}{\fs20\insrsid10167785\charrsid9910907 lank; }{\b\fs20\ul\insrsid10167785\charrsid9910907 Timur}{\fs20\insrsid10167785\charrsid9910907  the Lame, }{\b\fs20\ul\insrsid10167785\charrsid9910907 Tamburlaine}{
+\fs20\insrsid10167785\charrsid9910907 , and other reasonably close pronounciations]}{\fs20\insrsid10167785 
+\par }{\fs20\insrsid9910907\charrsid9910907 
+\par }{\fs20\insrsid9910907 TB. }{\fs20\insrsid10167785\charrsid9910907 
+One version of it features marble panels that are uniform and calm except for one, which reflects the turmoil in the figure sitting below that panel. In another version, light shines through a 
+circular window, while an empty bread plate rests prominently on the floor. Still another version has the table set at an angle to the plane of the picture with many of the figures surrounded by halos, but unlike other versions, servants, dogs, and cats a
+r
+e also included. FTP, name this subject of paintings by Castagno and Tintoretto and a woodcut by Durer, whose most famous version features lunettes with the Sforza coat-of-arms above the main painting of Jesus Christ and his twelve apostles, a work by Leo
+nardo da Vinci. 
+\par ANSWER: }{\i\fs20\insrsid10167785\charrsid9910907 The }{\b\i\fs20\ul\insrsid10167785\charrsid9910907 Last Supper}{\fs20\insrsid10167785\charrsid9910907 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11539764 {\fs20\cf1\insrsid11539764\charrsid9910907 \page }{\b\fs20\insrsid11539764\charrsid9910907 ACF Fall 2006
+\par Bonuses by Harvard B, Maryland B, and Oklahoma B
+\par }\pard \ql \li0\ri0\nowidctlpar\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\faauto\rin0\lin0\itap0 {\fs20\cf1\insrsid11539764\charrsid9910907 
+\par }\pard \ql \li0\ri0\nowidctlpar\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\faauto\rin0\lin0\itap0\pararsid14484935 {\fs20\insrsid1001600\charrsid9910907 1. }{\fs20\insrsid14484935 
+FTPE, name these works of art created by Dutch painters.
+\par [10] A dark varnish once covered this large Rembrandt painting, which resulted in its common title. A girl in a yellow dress appears in the midst of a large group of armed men, led by Frans Banning Cocq. 
+\par ANSWER: }{\b\i\fs20\ul\insrsid14484935 Night Watch
+\par }{\fs20\insrsid14484935 [10] Beneath some exiting ominous clouds, Rotterdam Gate and a group of people near a tow barge on the shore can be seen in this painting of Jan Veermer's hometown.
+\par ANSWER: }{\b\i\fs20\ul\insrsid14484935 View of Delft
+\par }{\fs20\insrsid14484935 [10] Unlike the Dresden variation, the Detroit variation of this Jacob van Ruisdael landscape features two figures and a rainbow near the leafless beech tree and three white tombs.
+\par ANSWER: }{\i\fs20\insrsid14484935 The }{\b\i\fs20\ul\insrsid14484935 Jewish Cemetery
+\par }\pard \ql \li0\ri0\nowidctlpar\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\faauto\rin0\lin0\itap0\pararsid9263923 {\fs20\insrsid9263923\charrsid9910907 
+\par }{\fs20\insrsid1001600\charrsid9910907 2. }{\fs20\insrsid9263923\charrsid9910907 The title character of her last novel marries Mirah Cohen and together, they move to Palestine. FTPE,
+\par [10] Name this Victorian author who wrote }{\i\fs20\insrsid9263923\charrsid9910907 Daniel Deronda}{\fs20\insrsid9263923\charrsid9910907 , along with }{\i\fs20\insrsid9263923\charrsid9910907 Adam Bede}{\fs20\insrsid9263923\charrsid9910907  and }{
+\i\fs20\insrsid9263923\charrsid9910907 Mill on the Floss}{\fs20\insrsid9263923\charrsid9910907 .
+\par ANSWER: George }{\b\fs20\ul\insrsid9263923\charrsid9910907 Eliot}{\fs20\insrsid9263923\charrsid9910907  or Mary Ann }{\b\fs20\ul\insrsid9263923\charrsid9910907 Evans
+\par }{\fs20\insrsid9263923\charrsid9910907 [10] In one plot of this George Eliot work, Doctor Tertius Lydgate attempts to help the poor, but fails, just as Dorothea Brooke failed to learn from her first husband, the elderly Reverend Edward Casaubon.
+\par ANSWER: }{\b\i\fs20\ul\insrsid9263923\charrsid9910907 Middlemarch
+\par }{\fs20\insrsid9263923\charrsid9910907 [10] This title character in an Eliot novel is a watchmaker who accidently kills a constable. He is pardoned by the pleas from Esther Lyon, who falls in love with this "radical" character, and not Harold Transome.
+
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Felix Holt
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs20\cf1\insrsid9263923\charrsid9910907 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid1001600\charrsid9910907 3. }{\fs20\insrsid9263923\charrsid9910907 Answer these questions about the moons of our solar system FTSNOP: 
+\par [10] This moon of Jupiter is the largest moon in the solar system. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Ganymede}{\fs20\ul\insrsid9263923\charrsid9910907  }{\fs20\insrsid9263923\charrsid9910907 
+\par [10] This largest moon of Pluto was named for a mythological boatman. Even under the new rules, it's still just a moon of Pluto. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Charon}{\fs20\insrsid9263923\charrsid9910907 
+\par [5,5] Strangely enough, dwarf planet Pluto is now known to have two other moons. Name them for 5 each. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Nix}{\fs20\insrsid9263923\charrsid9910907  AND }{\b\fs20\ul\insrsid9263923\charrsid9910907 Hydra}{\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }{\fs20\insrsid1001600\charrsid9910907 4. }{\fs20\insrsid9263923\charrsid9910907 Answer the following about acid-base classification FTPE. 
+\par [10] The first attempt at classifying acids was done by this man, who thought acidity was caused by the presence of oxygen, a name that he coined to mean "acid-former." 
+\par ANSWER: Antoine }{\b\fs20\ul\insrsid9263923\charrsid9910907 Lavoisier }{\fs20\insrsid9263923\charrsid9910907 
+\par [10] In this definition, an acid is a substance that dissociates in water to yield H}{\fs20\sub\insrsid9263923\charrsid9910907 3}{\fs20\insrsid9263923\charrsid9910907 O}{\fs20\super\insrsid9263923\charrsid9910907 +}{\fs20\insrsid9263923\charrsid9910907 
+, while a base is a substance that dissociates in water to yield OH}{\fs20\super\insrsid9263923\charrsid9910907 -}{\fs20\insrsid9263923\charrsid9910907 . 
+\par ANSWER:}{\b\fs20\insrsid9263923\charrsid9910907  }{\b\fs20\ul\insrsid9263923\charrsid9910907 Arrhenius}{\fs20\insrsid9263923\charrsid9910907   
+\par [10] In this acid-base definition, the acid is a proton donor, and a base is a proton acceptor.  Thus an acid-base reaction is a proton-transfer process. 
+\par ANSWER:}{\b\fs20\insrsid9263923\charrsid9910907  }{\b\fs20\ul\insrsid9263923\charrsid9910907 Br\'f8nsted-Lowry}{\b\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }{\fs20\insrsid1001600\charrsid9910907 5. }{\fs20\insrsid9263923\charrsid9910907 This set of four equations forms the basis of an important theory. FTPE: 
+\par [10] Name this method that relates space and time coordinates of an event for viewers in different inertial reference frames.  Unlike the Galilean variety, it is valid for all speeds. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Lorentz Transformation}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] The Lorentz Transformation forms the basis of this theory, consequences of which include time dilation and a possibly well-known equation, E = mc}{\fs20\super\insrsid9263923\charrsid9910907 2}{\fs20\insrsid9263923\charrsid9910907 . 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 special relativity}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] Lorentz's name is sometimes also given to this relativistic consequence whereby an object in a moving frame of reference appears foreshortened by a factor of gamma. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 length contraction}{\fs20\insrsid9263923\charrsid9910907  [accept }{\b\fs20\ul\insrsid9263923\charrsid9910907 Lorentz contraction}{\fs20\insrsid9263923\charrsid9910907 ]
+\par 
+\par }{\fs20\insrsid1001600\charrsid9910907 6. }{\fs20\insrsid9263923\charrsid9910907 Identify the following works of Franz Kafka.  FTPE: 
+\par [10] This work describes the relentless but futile efforts of the protagonist to gain recognition from the mysterious authorities ruling the village where he wants to establish himself. 
+\par ANSWER: }{\i\fs20\insrsid9263923\charrsid9910907 The }{\b\i\fs20\ul\insrsid9263923\charrsid9910907 Castle}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] This work portrays the inconclusive struggle of a young immigrant to gain a foothold in an alien, incomprehensible country. 
+\par ANSWER: }{\b\i\fs20\ul\insrsid9263923\charrsid9910907 Amerika}{\i\fs20\insrsid9263923\charrsid9910907  }{\fs20\insrsid9263923\charrsid9910907 
+\par [10] This work is actually four stories centering on the artist\rquote s inability either to negate or come to terms with life in the human community. 
+\par ANSWER: }{\i\fs20\insrsid9263923\charrsid9910907 A }{\b\i\fs20\ul\insrsid9263923\charrsid9910907 Hunger Artist}{\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }{\fs20\insrsid1001600\charrsid9910907 7. }{\fs20\insrsid9263923\charrsid9910907 Name these Ohio State football people that got into a little bit of trouble FTPE. 
+\par [10] This former Ohio State running back pleaded guilty to robbery charges in August and was sentenced to seven and a half years in prison, where he may or may not be able to get his goose on. 
+\par ANSWER: Maurice }{\b\fs20\ul\insrsid9263923\charrsid9910907 Clarett}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] This former head coach, who won five national championships, was removed after throwing a punch that landed on a Clemson player\rquote s throat. 
+\par ANSWER: Woody }{\b\fs20\ul\insrsid9263923\charrsid9910907 Hayes}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] This wide receiver and first-round pick of the Steelers in 2006 has been arrested twice this year, once for disorderly conduct and once for domestic abuse. 
+\par ANSWER: Santonio }{\b\fs20\ul\insrsid9263923\charrsid9910907 Holmes}{\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1001600 {\fs20\insrsid1001600\charrsid9910907 8. Name these short stories set in the American West FTPE. 
+\par [10] The title event of this Stephen Crane story drives off Scratchy Wilson, who had challenged Jack Potter to a duel. 
+\par ANSWER: \'93The }{\b\fs20\ul\insrsid1001600\charrsid9910907 Bride Comes to Yellow Sky}{\fs20\insrsid1001600\charrsid9910907 \'94 
+\par [10] This Mark Twain story concerns the efforts by citizens of a supposedly incorruptible town to obtain a sack of gold by dishonest means. 
+\par ANSWER: \'93The}{\fs20\ul\insrsid1001600\charrsid9910907  }{\b\fs20\ul\insrsid1001600\charrsid9910907 Man That Corrupted Hadleyburg}{\fs20\insrsid1001600\charrsid9910907 \'94 
+\par [10] This story, considered one of Jack London\rquote s best, follows a stubborn prospector in his abortive attempt to perform the title action at temperatures approaching seventy below zero. 
+\par ANSWER: \'93}{\b\fs20\ul\insrsid1001600\charrsid9910907 To Build a Fire}{\fs20\insrsid1001600\charrsid9910907 \'94 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid1001600\charrsid9910907 9. }{\fs20\insrsid9263923\charrsid9910907 Name the mental illness from descriptions FTPE. 
+\par [10] This is defined as the inability to resist the impulses to steal things. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Kleptomania}{\b\fs20\insrsid9263923\charrsid9910907  }{\fs20\insrsid9263923\charrsid9910907 
+\par [10] Sufferers of this disorder feign diseases, illness, and psychological trauma despite the personal risk in order to draw attention and sympathy for themselves. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Munchausen}{\fs20\insrsid9263923\charrsid9910907  Syndrome  
+\par [10] The existence within an individual of two or more distinct personalities, each with its own pattern of perceiving and interacting with the environment, is officially known as this disorder in the DSM-4, rather than multiple personality disorder. 
+
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Dissociative identity}{\fs20\insrsid9263923\charrsid9910907  Disorder 
+\par 
+\par }{\fs20\cf1\insrsid1001600\charrsid9910907 10. }{\fs20\cf1\insrsid9263923\charrsid9910907 This president of the Cambridge Moral Science Club once used a fireplace poker to emphasize his points in an argument with Karl Popper. FTPE, 
+\par [10] Name this Austrian philosopher and author of }{\i\fs20\cf1\insrsid9263923\charrsid9910907 Tractatus Logico-Philosophicus}{\fs20\cf1\insrsid9263923\charrsid9910907 . 
+\par ANSWER:}{\b\fs20\cf1\insrsid9263923\charrsid9910907  }{\fs20\cf1\insrsid9263923\charrsid9910907 Ludwig}{\b\fs20\cf1\insrsid9263923\charrsid9910907  }{\b\fs20\ul\cf1\insrsid9263923\charrsid9910907 Wittgenstein }{\fs20\cf1\insrsid9263923\charrsid9910907 
+
+\par [10] Wittgenstein was the leader of this school of philosophy, whose members, such as Friedrich Waismann, believed that philosophy should aspire to the rigor of science. 
+\par ANSWER:}{\b\fs20\cf1\insrsid9263923\charrsid9910907  }{\b\fs20\ul\cf1\insrsid9263923\charrsid9910907 Logical Positivism }{\fs20\cf1\insrsid9263923\charrsid9910907 
+\par [10] This German-born American logical positivist philosopher wrote }{\i\fs20\cf1\insrsid9263923\charrsid9910907 The Logical Syntax of Language}{\fs20\cf1\insrsid9263923\charrsid9910907 . 
+\par ANSWER: Rudolf }{\b\fs20\ul\cf1\insrsid9263923\charrsid9910907 Carnap}{\fs20\cf1\insrsid9263923\charrsid9910907 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1001600 {\fs20\kerning28\insrsid1001600\charrsid9910907 11. }{\fs20\insrsid1001600\charrsid9910907 Name these Gothic tribes of the era of Roman decline FTPE. 
+\par [10] They controlled most of the Iberian Peninsula under Aleric II. During the fall of the Roman Empire, their center was in Aquitaine. They sacked Rome in 410. 
+\par ANSWER:}{\b\fs20\insrsid1001600\charrsid9910907  }{\b\fs20\ul\insrsid1001600\charrsid9910907 Visigoths}{\b\fs20\insrsid1001600\charrsid9910907  }{\fs20\insrsid1001600\charrsid9910907 
+\par [10] This tribe\rquote s headquarters was located in the fomer empire of Carthage, which it besieged under Gaiseric, who paid a visit to Rome in 455. 
+\par ANSWER:}{\b\fs20\insrsid1001600\charrsid9910907  }{\b\fs20\ul\insrsid1001600\charrsid9910907 Vandals}{\b\fs20\insrsid1001600\charrsid9910907  }{\fs20\insrsid1001600\charrsid9910907 
+\par [10] Their kingdom reached its height under King Ermanaric and established itself in Italy under Theodoric. After the Byzantines drove them out, they put up a fight in the 540s under Totila until that leader\rquote s defeat at Taginae. 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid1001600\charrsid9910907 ANSWER: }{\b\fs20\ul\insrsid1001600\charrsid9910907 Ostrogoths}{\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1001600 {\fs20\insrsid1001600\charrsid9910907 12. }{\fs20\kerning28\insrsid1001600\charrsid9910907 A painting typical of his rural New England scenes is }{
+\i\fs20\kerning28\insrsid1001600\charrsid9910907 Gas}{\fs20\kerning28\insrsid1001600\charrsid9910907 . FTPE, 
+\par [10] Name this American painter of }{\i\fs20\kerning28\insrsid1001600\charrsid9910907 Office in a Small City}{\fs20\kerning28\insrsid1001600\charrsid9910907  and }{\i\fs20\kerning28\insrsid1001600\charrsid9910907 Early Sunday Morning}{
+\fs20\kerning28\insrsid1001600\charrsid9910907 . 
+\par ANSWER: Edward }{\b\fs20\ul\kerning28\insrsid1001600\charrsid9910907 Hopper}{\fs20\kerning28\insrsid1001600\charrsid9910907  
+\par [10]  Edward Hopper is most famous for this painting featuring four restaurant patrons at night. 
+\par ANSWER: }{\b\i\fs20\ul\kerning28\insrsid1001600\charrsid9910907 Nighthawks}{\fs20\kerning28\insrsid1001600\charrsid9910907  
+\par [10] In this Hopper painting, there is a couple sitting at a table near a window, next to a sign that displays the title of this painting.  
+\par ANSWER: }{\b\i\fs20\ul\kerning28\insrsid1001600\charrsid9910907 Chop Suey}{\fs20\insrsid9263923\charrsid9910907 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid9263923\charrsid9910907 
+\par }{\fs20\insrsid1001600\charrsid9910907 13. }{\fs20\insrsid9263923\charrsid9910907 Name these Supreme Court cases in which dissenting opinions were issued, FTPE. 
+\par [10] Justice McLean\rquote s dissent from Chief Justice Taney\rquote s majority opinion noted that \'93It does not allege that the plaintiff had his domicil in any other State, nor that he is not a free man in Missouri.\'94 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Dred Scott}{\fs20\insrsid9263923\charrsid9910907  v. Sandford 
+\par [10] Justice Murphy wrote that \'93Individuals must not be left impoverished of their constitutional rights on a plea of military necessity that has neither substance nor support\'94 in this 1944 case. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Korematsu}{\fs20\insrsid9263923\charrsid9910907  v. United States 
+\par [10] Justice Holmes wrote \'93The general principle of free speech, it seems to me, must be taken to be included in the Fourteenth Amendment\'94 in opposing the \'93dangerous tendency\'94
+ doctrine put forth by the majority in this 1925 case, which despite its restrictions on scope did incorporate free speech at the state level. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Gitlow}{\fs20\insrsid9263923\charrsid9910907  v. New York 
+\par 
+\par }{\fs20\insrsid1001600\charrsid9910907 14. }{\fs20\insrsid9263923\charrsid9910907 This type of structure shares its name with the branch of mathematics sometimes known as "rubber sheet geometry." FTPE: 
+\par [10] This is a collection of subsets of a set X that contains the empty set, covers X, and is closed under arbitrary union and finite intersection.\~  
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Topology }{\fs20\insrsid9263923\charrsid9910907 
+\par [10] This is a set X, together with distance function d from the set of ordered pairs of X to the reals, such that d is nonnegative, positive-definite, symmetric, and satisfies the
+ triangle inequality. Each of these structures has a natural corresponding topology. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Metric space}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] Just as metrics form a generalized notion of distance between points, these functions on vector spaces generalize the concept of length of a vector. They are usually denoted by double bars. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Norm}{\fs20\insrsid9263923\charrsid9910907 s
+\par 
+\par }{\fs20\insrsid1001600\charrsid9910907 15. }{\fs20\insrsid9263923\charrsid9910907 Answer the following questions about people in the life of Mozart, FTPE: 
+\par [10] Mozart was friends with this composer, and he dedicated some string quartets to him. His own works include the "Farewell" and "Surprise" symphonies. 
+\par ANSWER: Franz Josef }{\b\fs20\ul\insrsid9263923\charrsid9910907 Haydn}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] Mozart collaborated with this Italian librettist on }{\i\fs20\insrsid9263923\charrsid9910907 The Marriage of Figaro}{\fs20\insrsid9263923\charrsid9910907 . 
+\par ANSWER: Lorenzo }{\b\fs20\ul\insrsid9263923\charrsid9910907 da Ponte}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] Mozart is paired with this other composer in the title of a Rimsky-Korsakov opera. This Italian composer probably did not kill Mozart out of jealousy, contrary to what the movie }{\i\fs20\insrsid9263923\charrsid9910907 Amadeus}{
+\fs20\insrsid9263923\charrsid9910907  tells us. 
+\par ANSWER: Antonio }{\b\fs20\ul\insrsid9263923\charrsid9910907 Salieri}{\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }{\fs20\insrsid1001600\charrsid9910907 16. }{\fs20\insrsid9263923\charrsid9910907 Identify the following Japanese writers. FTPE: 
+\par [10] He wrote a novel dealing with a father\rquote s slow acceptance of his handicapped infant son.  He also wrote }{\i\fs20\insrsid9263923\charrsid9910907 Silent Cry}{\fs20\insrsid9263923\charrsid9910907 . 
+\par ANSWER: Kenzaburo }{\b\fs20\ul\insrsid9263923\charrsid9910907 Oe}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] This woman from a family of nobles created Fujitsubo and Princess Aoi in }{\i\fs20\insrsid9263923\charrsid9910907 The Tale of Genji}{\fs20\insrsid9263923\charrsid9910907  
+\par ANSWER: Lady }{\b\fs20\ul\insrsid9263923\charrsid9910907 Murasaki}{\fs20\insrsid9263923\charrsid9910907  Shikibu 
+\par [10] He is best known for }{\i\fs20\insrsid9263923\charrsid9910907 Sasameyuki,}{\fs20\insrsid9263923\charrsid9910907  a detailed account of an Osaka family that embraces a tradition-bound way of life.  It was the first major Japanese work of the post
+\endash World War II period. 
+\par ANSWER: Junichiro }{\b\fs20\ul\insrsid9263923\charrsid9910907 Tanizaki}{\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }{\fs20\cf1\insrsid1001600\charrsid9910907 17. }{\fs20\cf1\insrsid9263923\charrsid9910907 
+According to this work, there is a war of every man against every man, and to secure power, man must make contracts establishing a sovereign power, who is not subject to civil law. FTPE: 
+\par [10] Name this 1651 work of political philosophy, which calls life "nasty, brutish, and short." 
+\par ANSWER: }{\b\i\fs20\ul\cf1\insrsid9263923\charrsid9910907 Leviathan}{\fs20\cf1\insrsid9263923\charrsid9910907   
+\par [10] This author of }{\i\fs20\cf1\insrsid9263923\charrsid9910907 Leviathan}{\fs20\cf1\insrsid9263923\charrsid9910907  felt that the best government was an absolute monarchy. 
+\par ANSWER: Thomas }{\b\fs20\ul\cf1\insrsid9263923\charrsid9910907 Hobbes }{\fs20\cf1\insrsid9263923\charrsid9910907 
+\par [10] In this first of four sections, Hobbes discusses the first law of nature: seek peace and follow it. 
+\par ANSWER: "}{\b\fs20\ul\cf1\insrsid9263923\charrsid9910907 Of Man}{\fs20\cf1\insrsid9263923\charrsid9910907 "
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1001600 {\fs20\insrsid1001600\charrsid9910907 18. Microscopically, it consists of follicular cells filled with a colloid. FTPE: 
+\par [10] Name this gland located just below the larynx, whose namesake hormone has a large effect on metabolism rate. 
+\par ANSWER: }{\b\fs20\ul\insrsid1001600\charrsid9910907 thyroid }{\fs20\insrsid1001600\charrsid9910907 
+\par [10] Coming in diffuse and toxic varieties, this is an enlargement of the thyroid gland that can be the result of a deficiency of iodine in the diet or other various causes. 
+\par ANSWER: }{\b\fs20\ul\insrsid1001600\charrsid9910907 goiter}{\fs20\insrsid1001600\charrsid9910907  
+\par [10] More prevalent among females than males, this auto-immune disease, the leading cause of hyperthyroidism, can cause bulging eyes, thickening of skin on shins and fingers, and tachycardia. 
+\par ANSWER: }{\b\fs20\ul\insrsid1001600\charrsid9910907 Graves}{\fs20\insrsid1001600\charrsid9910907 \rquote  disease
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\insrsid1001600\charrsid9910907 19. }{\fs20\insrsid9263923\charrsid9910907 Major member
+s of this movement included Jonathan Edwards, who defended it from Charles Chauncy. FTPE: 
+\par [10] Name this religious revival in the eighteenth-century American colonies. 
+\par ANSWER: First }{\b\fs20\ul\insrsid9263923\charrsid9910907 Great Awakening}{\fs20\insrsid9263923\charrsid9910907  [prompt on partial answer] 
+\par [10] This Edwards sermon instructs us that \'93The wrath of God burns against them, their damnation does not slumber; the pit is prepared, the fire is made ready, the furnace is now hot, ready to receive them; the flames do now rage and glow.\'94 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Sinners in the Hands of an Angry God}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] Edwards and other proponents of the Great Awakening were lumped together by this term, contrasting their excited preaching with the conservative style of the older Anglicans. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 New Lights}{\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }{\fs20\insrsid1001600\charrsid9910907 20. }{\fs20\insrsid9263923\charrsid9910907 Name these characters from Charles Dickens }{\i\fs20\insrsid9263923\charrsid9910907 A Tale of Two Cities.}{\fs20\insrsid9263923\charrsid9910907  FTPE: 
+\par [10] This man who believed he was \'93a supreme waste of life\'94 changed places with Charles Darney at the guillotine. 
+\par ANSWER: Sidney }{\b\fs20\ul\insrsid9263923\charrsid9910907 Carton}{\fs20\insrsid9263923\charrsid9910907  
+\par [10] This wife of Charles Darney was also loved by Sidney Carton. 
+\par ANSWER: }{\b\fs20\ul\insrsid9263923\charrsid9910907 Lucie Manette}{\fs20\insrsid9263923\charrsid9910907  (accept either) 
+\par [10] This was Charles Darney\rquote s name in France and the one used at his French trial. 
+\par ANSWER: Charles }{\b\fs20\ul\insrsid9263923\charrsid9910907 Evremonde}{\fs20\insrsid9263923\charrsid9910907 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs20\cf1\insrsid9263923\charrsid9910907 
+\par }}

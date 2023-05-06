@@ -1,73 +1,694 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML>
-
-
-<HEAD>
-    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
-    <base href="https://collegiate.quizbowlpackets.com/">
-    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</HEAD>
-
-<BODY>
-    <script type="text/javascript" src="core.js?3">
-    // Core javascript
-    </script>
-    <!-- MARGIN CONTAINER -->
-    <DIV CLASS="Container">
-        <!-- BORDERED MAIN BODY -->
-        <DIV CLASS="OverallBody">
-            <!-- PAGE HEADER -->
-            <DIV CLASS="MainHeader">
-                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
-                <DIV class="FloatLeft">
-                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
-                    <H2>Free quizbowl packets for practice</H2>
-                </DIV>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-
-            <!-- NAVIGATION BAR -->
-                        <DIV CLASS="Navigation">
-                <UL CLASS="MainNav">
-                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
-                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
-                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
-                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
-                </UL>
-                <UL CLASS="Account">
-                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
-                </UL>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-                    <!-- MAIN PAGE CONTENT SECTION -->
-            <DIV class="ContentContainer">
-
-                                    
-                
-                <!-- MAIN COLUMN - Question set details -->
-                <DIV class="MainColumn">
-                    <DIV class="First">
-                        <H2>2004 ACF Nationals</H2>
-
-                        <!-- SET DETAILS -->
-                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 2003-2004</p>                                            </DIV>
-
-                    <P><a href="https://hsquizbowl.org/db/questionsets/293/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
-<h2>Download packets</h2>
-<UL class="FileList">
-<LI><a href="https://collegiate.quizbowlpackets.com/293/04Nats-ChiA.doc">04Nats-ChiA.doc</a> (73 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/2004 ISU ACF Nationals Packet.doc">2004 ISU ACF Nationals Packet.doc</a> (97.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/2004 Nationals.doc">2004 Nationals.doc</a> (72 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/2004_ACF_Nationals-Berkeley.doc">2004_ACF_Nationals-Berkeley.doc</a> (119 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/A&M_ACFNats.doc">A&M_ACFNats.doc</a> (72 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/A&Princetonfinal.doc">A&Princetonfinal.doc</a> (62 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF Nationals tossups.doc">ACF Nationals tossups.doc</a> (44.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF Nats 04 Packet by Rutgers.doc">ACF Nats 04 Packet by Rutgers.doc</a> (62.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF Nats 2004 Packet">ACF Nats 2004 Packet</a> (38.09 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF South Carolina.doc">ACF South Carolina.doc</a> (64.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF1.doc">ACF1.doc</a> (81 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF2.doc">ACF2.doc</a> (87.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF3.doc">ACF3.doc</a> (119.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF4.doc">ACF4.doc</a> (59.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF5.doc">ACF5.doc</a> (57.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF6.doc">ACF6.doc</a> (56 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ACF_Nationals_Final_Indiana.doc">ACF_Nationals_Final_Indiana.doc</a> (114 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ASU - ACF Nats.doc">ASU - ACF Nats.doc</a> (79.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/CCNY&HarvAfinal.doc">CCNY&HarvAfinal.doc</a> (74.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/Cornell-South Carolina done.doc">Cornell-South Carolina done.doc</a> (62.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/Harvard B Team Packet.doc">Harvard B Team Packet.doc</a> (90.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/ISUMDdone.doc">ISUMDdone.doc</a> (67 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/Kentuckydone.doc">Kentuckydone.doc</a> (61 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/UMD 2004 ACF NATS.doc">UMD 2004 ACF NATS.doc</a> (90 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/a&M final.doc">a&M final.doc</a> (56.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/aCF Nats 2004 packet.doc">aCF Nats 2004 packet.doc</a> (99.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/acf_chicago_b.doc">acf_chicago_b.doc</a> (94 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/acfnats.doc">acfnats.doc</a> (47 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/berkdone.doc">berkdone.doc</a> (54.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/chi a done.doc">chi a done.doc</a> (62.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/chib&rutgersfinal.doc">chib&rutgersfinal.doc</a> (54.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/indianafinal.doc">indianafinal.doc</a> (57.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/marchtourneyt.doc">marchtourneyt.doc</a> (19.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/michigandone.doc">michigandone.doc</a> (60.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/princeton- acf nationals 2004.doc">princeton- acf nationals 2004.doc</a> (94 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/293/yale packet-ACF.rtf">yale packet-ACF.rtf</a> (45.41 kB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=1656">Jeffrey Hill</a>.</DIV>                </DIV> <!--END FORM -->
-                        </DIV> <!-- END CONTENT CONTAINER --> 
-        <DIV class="FloatDivider"></DIV>
-        </DIV>
-        <!-- END BORDERED MAIN BODY -->
-
-        <!-- FOOTER -->
-                <DIV CLASS="Footer">
-            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
-            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#a1cbc4c7c7d3c4d8e1c9c8cdcdcecfcdc8cfc48fcfc4d5">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#82e8e7e4e4f0e7fbc2eaebeeeeedeceeebece7acece7f6">Jeffrey Hill</a></P>
-        </DIV>
-    </DIV>
-    <!-- END MARGIN CONTAINER -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
-</HTML>
+{\rtf1\ansi \deflang1033\deff0{\fonttbl
+{\f0\fnil \fcharset0 \fprq2 Times New Roman;}{\f1\fnil \fcharset0 \fprq2 Courier New;}{\f2\fnil \fcharset0 \fprq2 Arial;}}{\colortbl
+\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue128;
+\red128\green0\blue128;\red0\green0\blue255;}
+{\stylesheet{\fs20 \snext0 Normal;}
+{\*\cs1 \additive\v \additive\v Comment;}
+{\*\cs2 \additive \additive\cf1 HTML Markup;}
+{\*\cs3 \additive Variable;}
+{\*\cs4 \additive\f1\fs20 Typewriter;}
+{\*\cs5 \additive Strong;}
+{\*\cs6 \additive\f1 Sample;}
+{\s7 \qc\sl0 \brdrb\brdrdb15\brdrcf0 \cfpat2\cbpat2\shading10000 \v \v\cf2\f2\fs16 zTop of For;}
+{\s8 \qc\sl0 \brdrt\brdrdb15\brdrcf0 \cfpat2\cbpat2\shading10000  \cf2\f2\fs16 zBottom of ;}
+{\s9 \sl0\tx0\tx958\tx1917\tx2876\tx3835\tx4794\tx5754\tx6712\tx7671\tx8630\tx9360 \f1\fs20 Preformatted;}
+{\*\cs10 \additive\f1\fs20 Keyboard;}
+{\*\cs11 \additive\cf3 FollowedHype;}
+{\*\cs12 \additive\cf4 Hyperlink;}
+{\*\cs13 \additive Emphasis;}
+{\*\cs14 \additive\f1\fs20 CODE;}
+{\*\cs15 \additive CITE;}
+{\s16 \li360\ri360\sl0\tx-360\tx0\tx360\tx1080\tx1800\tx2520\tx3240\tx3960\tx4680\tx5400\tx6120\tx6840\tx7560\tx8280\tx9000  Blockquote;}
+{\s17  Address;}
+{\s18 \fs16 H6;}
+{\s19 \fs20 H5;}
+{\s20  H4;}
+{\s21 \fs28 H3;}
+{\s22 \fs36 H2;}
+{\s23 \fs48 H1;}
+{\*\cs24 \additive Definition;}
+{\s25 \li360\sl0\tx-360\tx0\tx360\tx1080\tx1800\tx2520\tx3240\tx3960\tx4680\tx5400\tx6120\tx6840\tx7560\tx8280\tx9000  Definition L;}
+{\s26  Definition T;}
+{\s27  Normal;}
+}\margl1440\margr1440\ftnbj\ftnrestart\aftnnar \sectd \sbknone\endnhere 
+{\*\pnseclvl1\pndec\pnstart1{\pntxta .}}
+{\*\pnseclvl2\pnlcltr\pnstart1{\pntxta .}}
+{\*\pnseclvl3\pnlcrm\pnstart1{\pntxta .}}
+{\*\pnseclvl4\pndec\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl5\pnlcltr\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl6\pnlcrm\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl7\pndec\pnstart1{\pntxta .}}
+{\*\pnseclvl8\pnlcltr\pnstart1{\pntxta .}}
+{\*\pnseclvl9\pnlcrm\pnstart1}
+
+\pard \qc\sl0 
+{\plain }{\plain \b The City University of New York\par
+}{\plain \b (Nathan Freeburg)\par
+}{\plain \b \par
+}{\plain \b\ul Tossups}{\plain \par
+}\pard \sl0 
+{\plain \par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain This dialogue is set under a }{\plain plane-tree, by the banks of the Ilissus}{\plain .  Its only two speakers are 
+Socrates and the titular character, who is returning from visiting }{\plain Lysias.  Their discussion of Eros 
+leads into Socrates\'92 description of the two sometime-dueling desires, that for pleasure and that 
+for the best.  This in turn leads to Socrates\'92 monologue which includes the notable metaphor of 
+the soul as a charioteer and horses.  FTP, name this Platonic dialogue that ends with  the 
+ostensible conclusion that writing is inferior to speech.}{\plain \par
+}{\plain ANSWER: _Phaedrus_\par
+}{\plain \par
+}{\plain \par
+}{\plain His eponymous town is located next to that of Robin Hood.  Also known as \'93Geoffrey the Fair\'94, 
+Lord William Latimer was his chief advisor while this man was Earl of Richmond.  Taking his 
+name from a sprig of broom he placed in his hat, his third wife and mistress was Catherine 
+Swynford while his grandson, Henry the Navigator, was descended from his second wife, 
+Constance of Castile.  However, this patron of Geoffrey Chaucer and John Wycliffe is most 
+known for his child with Blanche Plantagenet who became Henry IV.  FTP, name this son of 
+Edward III, who really wasn\'92t that skinny.\par
+}{\plain ANSWER: _John of Gaunt_ [Accept _Geoffrey the Fair_ before its mentioned].\par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain This biological structure is made up of bundle sheath cells connected to underlying spongy 
+mesophyll cells.  Malic acid is conveyed from the mesophyll cells to the bundle sheath cells 
+where it is decarboxylated to generate CO2 for use in the Calvin cycle all while avoiding most 
+water loss.  }{\plain The submersed monocot }{\plain \i Hydrilla verticillata}{\plain  as well as the }{\plain }{\plain \i Orcuttieae}{\plain  family of 
+aquatic grasses have all been used as evidence in recent studies to argue that it is not actually 
+required in C-4 photosynthesis.  FTP, give this plant anatomy named for}{\plain \i }{\plain  its appearance, German 
+for \'93wreath.\'94\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Kranz_ Anatomy\par
+}{\plain \tab \par
+}{\plain \par
+}{\plain It seems likely that if this novel had been finished that such characters as Colonel John Boyle and 
+Nina would have reappeared.  At the end of the extant work, the protagonist begins to rewrite 
+from memory the \'93Kibo\'94 story of his father and the Maji-Maji rebellion which had been burned 
+by his wife along with his other \'93clippings\'94.  During their honeymoon on the Cote d\'92Azur she 
+had cut her hair short so that they could switch gender roles when they have sex.  Their marriage 
+spirals downward when they both fall in love with Marita and have her share their bed.  FTP, 
+name this posthumously published novel of Catherine and David Bourne\'92s loss of innocence, 
+written by Ernest Hemingway.\par
+}{\plain ANSWER: The _Garden of Eden_\par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain The melamine resin is formed by dehydration of this compound.  Also known as carbamide, it 
+can be made by combining carbon dioxide at between 132 and 182 degrees centigrade with 
+ammonia.  When arginine is split it forms an ornithine molecule and a molecule of this principal 
+end product of mammalian nitrogen metabolism.  First isolated by }{\plain H.M. Rouelle,}{\plain   FTP, name 
+this organic compound which Friedrich Wohler in1828 first synthesized from inorganic 
+materials.\par
+}{\plain ANSWER: _Urea_ [Accept _carbamide_ early].\par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain The lesser-known musical piece of this name in the standard repertoire is an orchestral suite 
+written in 1906 by Sibelius.  The more popular work\'92s libretto was written by Osbert Sitwell, 
+who\'92s sister, Elizabeth, had collaborated with its composer on }{\plain \i Facade}{\plain .  The composition 
+borrows various big band jazz rhythms and has the first }{\plain sforzando-piano-crescendo articulation 
+by a choir in its vocal depiction of Babylon.}{\plain   Utilizing verses from Revelation, the Psalms and 
+Daniel, FTP, name this Biblically-themed}{\plain  oratorio for double mixed choir, baritone voice and 
+orchestra, composed by William Walton.\par
+}{\plain ANSWER: _Belshazzar\'92s Feast_}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain Their mythology centered around }{\plain the Illuyankas stories, the missing god tales of Telipinus and 
+the Storm-god, Teshub, and the consorts Kumarbis and Ullukummis.  }{\plain Labarnus founded their 
+Old Kingdom and under }{\plain Suppilulimas they successfully assimilated the Hurrians.  Their King 
+Muwutallis was defeated at Kadesh, but FTP, name this ancient people who ruled the land of 
+Hatti and apparently first used iron weapons.\par
+}{\plain ANSWER:  _Hittite_s}{\plain \par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain In 1960 this poem was set to music for BBC Radio by Roberto Gerhard.  The memory of a \'93sad 
+breeze through the olive trees\'94 concludes the final part, \'93Absent Soul.\'94  The second part 
+intersperses the exclamation \'93I will not see it\'94 throughout lines referring to the \'93spilled blood\'94 
+while the first section carries the refrain of  \'93At five in the afternoon.\'94  Referring to a fatality in 
+the ring, FTP, name this Frederico Garcia Lorca poem.\par
+}{\plain ANSWER: _Lament for the Death of a Bullfighter_ or _Lament for }{\plain Ignacio Sanchez Mejias_ or 
+_}{\plain Llanto por Ignacio Sachez Mejias_}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain There are two extant versions of this painting, the Detroit and the Dresden variations.  Although 
+they are both views of a site at Ouderkerk, on the Amstel River, the ruins in the background of 
+the Detroit version are based on the old Abbey Church at Egmond while those in the Dresden 
+painting are taken from Egmond Castle.  Both landscapes are bisected by a rushing stream, while 
+the Detroit variant includes a rainbow and brighter sky than the more solemn Dresden painting 
+with its barren beech tree.  With both paintings featuring three large white tombs, FTP, name 
+these works by }{\plain Jacob Isaackszon van Ruisdael, featuring a religious graveyard.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: The _Jewish Cemetery_  \par
+}{\plain \par
+}{\plain \par
+}{\plain Opposed by Francis I of France and the cardinal legate, Lorenzo Campeggio, it was first 
+envisioned at the Diet of Speyer in a meeting between Pico della Mirandola and the Holy Roman 
+Emperor.  Although Clement VII failed to reach agreement among the delegates, Charles V 
+eventually had his wish and it sat for 25 sessions as the 9}{\plain \super th}{\plain  ecumenical council.  Defining the 
+mass as a true sacrifice, it fixed the Old and New Testament canon, set the number of sacraments 
+at 7, and defined the Nicene Creed as the basis of the Catholic faith.  Ending under Pius IV and 
+convened by Paul III, FTP, what church council confirmed transubstantiation and condemned 
+Luther\'92s doctrine of justification by faith alone?\par
+}{\plain ANSWER: Council of _Trent_o\par
+}{\plain \par
+}{\plain \par
+}{\plain The organization of this name was once known as \'93}{\plain American Society for Psychoprophylaxis in 
+Obstetrics\'94.  This concept\'92s official \'93philosophy\'94 refers to the \'93inner wisdom\'94 of women as well 
+as their \'93confidence and ability\'94 and their \'93right\'94 to be free of \'93medical interventions\'94.  Its 
+classes emphasize breathing exercises as well as the necessity of pain in order to strengthen one\'92s 
+contractions.  FTP, name this theory of \'93natural\'94 child birth.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Lamaze_\par
+}{\plain \par
+}{\plain \par
+}{\plain Curiously, the UNESCO annual prize for contributions to women\'92s literacy is named for this 
+monarch, probably not because he traded a copy of the }{\plain \i Tripitaka}{\plain  canon to a pirate overlord in 
+order to suppress their depredations.  Once a persecutor of Buddhism, during his last years he 
+embraced it and constructed a temple on the grounds of Ch\'92angdok Palace.  Succeeding the first 
+of his dynasty, Yi-Song-ye, he was in turn succeeded by his son, Yi-Hang, who became King 
+Munjong.  Famous for developing the Hangul alphabet, FTP, name this most well-known ruler of 
+Korea\'92s Chosun dynasty.\par
+}{\plain ANSWER: King or Prince _Sejong_\par
+}{\plain \par
+}{\plain \par
+}{\plain Part of this novel was lost in 1970 when two notebooks were stolen from their editor\'92s car in 
+Italy before he could transcribe them.  The protagonist has a weird relationship with the couple 
+Walter and Clarisse and the author\'92s philosophical concerns are demonstrated by such characters 
+as cousin Diotima.  The protagonist\'92s aesthetic lostness is referred to as the \'93Other Condition\'94 
+and he has a perverse affinity with his sister, Agathe.  The sex murderer Moosbrugger haunts the 
+entire novel which is placed in Vienna during preparations for the Emperor\'92s 70}{\plain \super th}{\plain  Jubilee in 
+1913.  Centering around the cynical Ulrich, FTP, name this Robert Musil tome.\par
+}{\plain ANSWER: The _Man Without Qualities_ or Der _Mann Ohne Eigenschaften_  }{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain In Venezuela, they are eaten during Lent due to their partially aquatic nature although their 
+partially-webbed feet feature four toes on the front and three on the hind.  The only member of 
+genus }{\plain hydrochaeris}{\plain , its name means \'93master of the grasses\'94 in Guarani and it ranges throughout 
+Central and much of South America. Also known as the \'93water hog\'94 or \'93carpincho\'94, it stands up 
+to four feet high, weighs up to 145 pounds and looks just like a giant guinea pig.  FTP, name this 
+largest rodent in the world.\par
+}{\plain ANSWER: _Capybara_\par
+}{\plain \par
+}{\plain \par
+}{\plain It contains a fresco attributed to Mantegna, a marble frieze by Tullio Lombardo, a triptych by 
+Bartolomeo Vivarni, a statue of John the Baptist by Sansovino and various }{\plain stuccos and frescos 
+executed by Guidobaldo Abatini.  L}{\plain ocated in the }{\plain in the left transept of the Church of S. Maria 
+della Vittoria in Rome, it was commissioned by its namesake Cardinal and the flanking balconies 
+contain cardinals and doges from his family looking at the sculptural center, which is illuminated 
+by reflected light from a hidden window.  With a mystical aura thus added to that Bernini statue, 
+FTP, name this chapel which houses the }{\plain \i Ecstasy of St. Theresa of Avila}{\plain .\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Cornaro_ Piscopia Chapel\par
+}{\plain \par
+}{\plain \par
+}{\plain It\'92s present dominant form is the Urasenke branch and it partially originated with a betting game 
+known as \'93To-cha\'94.  Oribe was considered its greatest craftsman and it is based on the ideal of 
+\'93Wabi-Cha\'94.  Hundreds of poems concerning it were written by Master Sen Rikyu, who also 
+created the first house dedicated to it.  Formalized by Murata Shoku, it adapted to Christianity 
+although it was initially affiliated with Zen Buddhism.  FTP, with the  the use of bowls and green 
+leaves still being standard, name this Japanese ritual.\par
+}{\plain ANSWER: _Tea Ceremony_ or _Cha-no-yu_ or _Sado_\par
+}{\plain \par
+}{\plain \par
+}{\plain He left his family estate at Pope\'92s Creek after his father\'92s death and laid out the town of 
+Belhaven, now known as Alexandria, Virginia.  The diary of his service under Robert Dinwiddie 
+established his literary reputation while his only military surrender was at Fort Necessity.  He 
+came out of retirement to accept command of the army in 1798, although he had already led the 
+Society of the Cincinnati.  FTP, name this 2-term president, succeeded by John Adams.\par
+}{\plain ANSWER: _George Washington_\par
+}{\plain \par
+}{\plain \par
+}{\plain Besides asserting that \'93all poets are Jews in a Christian world\'94 the despair stemming from her 
+literary ostracism and the execution of her husband led to both her suicide and her last book, 
+}{\plain \i After Russia}{\plain .  Her affair with the librettist Sofia Parnok led to her cycle, }{\plain \i Girlfriend}{\plain , while she 
+described her liaison with Konstantin Rodzevich in }{\plain \i Poem of the End}{\plain .  Portrayed by Simone de 
+Beauvoir in }{\plain \i The Second Sex}{\plain  and praised by Pasternak as \'93the outstanding poet of the 20}{\plain \super th}{\plain  
+century\'94, it was for such volumes as }{\plain \i Evening Album}{\plain , }{\plain \i Magic Lantern}{\plain  and }{\plain \i Craft}{\plain  that she is best 
+known.  FTP, name this author of }{\plain \i The Tsar-Maiden}{\plain  and poetic equal to Anna Akhmatova.\par
+}{\plain ANSWER: Marina Ivanova _Tsvetaeva_\par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain The first case of this phenomenon to actually be seen is }{\plain MG1131+0456.}{\plain   Although there is 
+technically an infinite number of them for each given instance in which they occur, the zeroth 
+one occurs where Delta phi = 0 and the first one being where Delta phi = pi.  Predicted by 
+general relativity, FTP, name this type of gravitational lensing which occurs where there is a 
+collinear observer-lens-point source alignment and is named for Albert.\par
+}{\plain ANSWER: _Einstein Ring_\par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain Aristotle credited him with the statement that \'93Even God cannot change the past.\'94  Late in life he 
+became attached to Euripides, whom he accompanied to the court of }{\plain Archelaus of Macedon.  
+Dramatically portrayed in Aristophanes\'92 }{\plain \i Thesmophoriazusae}{\plain , }{\plain }{\plain it was }{\plain his experience as a pupil of 
+Gorgias that appears to have created his literary style.  Perhaps best known for giving the 
+\'93}{\plain Epideixis\'94 speech}{\plain \i }{\plain  in Plato\'92s }{\plain \i Symposium}{\plain  as well as hosting the titular banquet, FTP, name this 
+Greek tragedian who\'92s name literally meant, \'93the good\'94.\par
+}{\plain ANSWER: _Agathon_\par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain Possessing both an M.D. and a Ph.D., late in his career this scientist became a Congregationalist 
+minister.  During the 1870's he made the first}{\plain  accurate measurements of the stoichiometry of the 
+reaction of hydrogen and oxygen as well}{\plain  working on determining the amount of oxygen in the 
+earth\'92s atmosphere.     Professor of chemistry from }{\plain 1869 to 1906 at Western Reserve College}{\plain , in 
+1884 he joined his long-time collaborator in attempting to repeat Fizeau\'92s measurement of the 
+speed of light. }{\plain  FTP, name this scientist who along with D.C. Miller helped develop the 
+interferometer and disprove the existence of ether in an eponymous experiment with A.A. 
+Michelson.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: Edward Williams _Morley_\par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain His most oft-performed large-scale works are his }{\plain \i Messe de Requiem}{\plain , Opus 48, and the opera, 
+}{\plain \i Penelope}{\plain .  Teacher of Enesco, Ravel and Boulanger, he wrote 3 collections of twenty pieces each 
+and six major song-cyles, including the }{\plain }{\plain \i Cantique de Jean Racine}{\plain .  A student of }{\plain Louis 
+Niedermeyer and}{\plain  Saint-Saens, he was generally considered the greatest of French song-writers.  
+First a musician at the churches of Rennes and St. Sulpice, FTP, name this chief organist at the 
+Madeline from 1896 to 1920.\par
+}{\plain ANSWER: Gabriel Urbain _Faure_\par
+}{\plain \par
+}{\plain \par
+}{\plain This group had its inception when the government attempted to take away the cannons of the 
+National Guard.  The Guard resisted and the Blanquests led its Central Committee to establish a 
+headquarters in the Hotel de Ville.  The national government fled to Versailles while the writer 
+Edourard Moreau called for municipal elections which were held 8 days later.  Though it 
+included such luminaries as Gustave Courbet, it was eventually put down by Thiers in the 
+\'93Bloody Week\'94 in May.  FTP, name this short-lived government of Paris.\par
+}{\plain ANSWER:  Paris _Commune_\par
+}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain Although originally purported for rectangles, this theorem is actually more valid for general 
+regions although it does not hold for non-additive measures.  It effectively states that, given of a 
+function of N variables, you may integrate it one variable at a time, and that the order of 
+integration does not affect the result.}{\plain   Since there is no direct way to calculate double integrals, 
+this theorem can be used to evaluate the said integrals by calculating them as repeated integrals.  
+In other words, assuming that either the sum of the integral or the integral of the sum is finite, 
+FTP, what theorem allows you \'93swap\'94 two integrals?\par
+}{\plain ANSWER: _Fubini_ Theorem\par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain Eleggua is the one of these honored at the beginning and end of all ceremonies and he is also one 
+of the Three Warriors received by a new initiate.  Food is offered to each of these at rituals 
+known as Tambors and principal names of these spirits }{\plain include Oggun, Ochosi, Yemaya, Babalu 
+Aiye, and Shango.  }{\plain In the new world they have been syncreticized with Catholic saints while in 
+Nigeria their worship has waned among the Yoruba.  }{\plain Manifestations of nature and knowable 
+aspects of Olodumare, FTP, name these lower deities worshipped in Santeria.\par
+}{\plain ANSWER: _Orisha_}{\plain \par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain Their genesis was probably in the tax burden created by the War of 8 Saints.  With allies known 
+as the \'93scorporati\'94, they included representatives from the }{\plain Arti Maggiori, Arti Minori and Popolo 
+di Dio.  Apparently led by }{\plain Michele di Lando, their revolt was defeated in the }{\plain Piazza della 
+Signoria in 1378 and their status as a guild revoked.  FTP, name these Florentine}{\plain  wool-carders.\par
+}{\plain ANSWER: _Ciompi_\par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \par
+}{\plain The Richard Howard translation has replaced that of Dorothy Bussy as the standard English 
+version of this novel.  The protagonist\'92s indulgent treatment of the hired hands Bute and Pierre 
+lead to clashes with his overseer Bocage which along with his wife\'92s degenerating condition 
+causes him to leave his Normandy farm.  The story is told at a house in Sidi b. M. where Marcel 
+had gone with the boy Moktir after the death in El Kantara of his wife Marceline due to 
+tuberculosis.  FTP, name this Gide titular character.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: The _Immoralist_ or _}{\plain L'Immoraliste_}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain The fourth chapter uses the example of a fictional \'93uncle R.\'94 in its discussion of the problem of 
+\'93Distortion\'94.    The fifth chapter predicates both \'93Recent and Indifferent Impressions\'94 and 
+\'93Infantile Experiences\'94 as \'93Materials and Sources\'94 of the studied phenomena.  The third chapter 
+discusses \'93Wish-Fulfilment\'94 while the first explores the scientific literature extant in 1900 on the 
+titular subject.  Based on the author\'92s self-analysis and implementing in its later editions the 
+topics of neuroses and sexual anxiety, FTP, name this Freud classic related to sleep.\par
+}{\plain ANSWER: The _Interpretation of Dreams_ or _}{\plain Die Traumdeutung_\par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain }{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain It was renamed in1946 after the }{\plain formal "leader" of the Soviet Union from 1919 until 1946.  Once 
+home to the Soviet Baltic fleet due to it\'92s eponymous city being perpetually ice-free, it is today a 
+\'93Special Economic Zone.\'94  Formerly, the capital of German East Prussia, it is now the smallest 
+Russian oblast.  Located 200 miles from the rest of Russia and adjacent to Lithuania, FTP, name 
+this isolated Russian exclave, once known as Konigsberg.\par
+}{\plain ANSWER: _Kaliningrad_ \par
+}{\plain \par
+}{\plain \par
+}{\plain \pard\page \par
+}\pard \qc\sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \b\ul Bonuses}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \par
+}{\plain Italian novels, on a 10-5 basis.\par
+}{\plain 10: Set in Sicily in 1860, Don Fabrizio watches the decline of his class around him.  His 
+somewhat dissipated nephew Tancredi is the coolest character.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain 5: It is the only novel of }{\plain Giuseppe di Lampedusa, who saw it rejected as un-publishable during 
+his }{\plain lifetime.\par
+}{\plain ANSWER: The _Leopard_ or Il _}{\plain Gattopardo_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain 10: It\'92s actually a romance, between the Reader and Ludmilla.\par
+}{\plain 5: It\'92s probably the most well-known novel of Italo Calvino.\par
+}{\plain ANSWER: _If on a Winter\'92s Night a Traveler_ or _Se una Notte D\'92Inverno un Viaggiatore_\par
+}{\plain 10: Mr. Cosini can never quite quit smoking and bumbles his way through his life and affairs.  
+The story is told as a long monologue.\par
+}{\plain 5: The Joyce scholar Gatt Rutter has suggested that this novel\'92s author, Italo Svevo, was Joyce\'92s 
+model for Leopold Bloom\par
+}{\plain ANSWER: _Confessions of Zeno_ or _Zeno\'92s Conscience_ or }{\plain La _Conscienza di Zeno_\par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain Identify these chroniclers of the Dark and Middle Ages, 10 points each.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain A.  Besides }{\plain an astronomical work to determine movable feasts and a commentary on the Psalms, 
+}{\plain this 6}{\plain \super th}{\plain  century bishop wrote the }{\plain }{\plain \i Historia Francorum}{\plain  or }{\plain \i History of the Franks}{\plain .\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Gregory_ of Tours\par
+}{\plain B.  While clerk to Absalon, archbishop of Lund, he wrote the }{\plain \i Gesta Danorum}{\plain  or }{\plain \i History of the 
+Danes}{\plain , which includes the first known mention of Hamlet.\par
+}{\plain ANSWER: _Saxo_ Grammaticus\par
+}{\plain C.  He probably attended poetry slams with Geoffrey Chaucer but this priest is more known for 
+his continuation of the chronicle of }{\plain Jean le Bel, canon of Li\'e8ge, covering the early 14}{\plain \super th}{\plain  Century 
+up to 1400.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: Jean _Froissart_\par
+}{\plain \par
+}{\plain \par
+}{\plain Identify the following concerning enzymes, 10 points each.\par
+}{\plain A.  These are }{\plain enzymes that catalyze reactions that directly involve molecular oxygen.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Oxidase_s\par
+}{\plain B.  Along with trypsin and pepsin, it degrades proteins into peptides in the mammalian digestive 
+tract..\par
+}{\plain ANSWER: _Chymotrypsin_\par
+}{\plain C.  For enzymes to work they often require the presence of these }{\plain non-amino acid portions of 
+certain proteins.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Prosthetic Group_\par
+}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain Bridges that also double as architectural masterpieces, FTSNOP.\par
+}{\plain 5:.  Located in Prague, it replaced the Judith Bridge during the 14}{\plain \super th}{\plain  century and was constructed 
+by Peter Parler.  Beginning in the 17}{\plain \super th}{\plain  century a total of 30 statues were added to it and two 
+gothic towers can be found on one end.\par
+}{\plain ANSWER: _Charles_ Bridge or _Karlov_ Most\par
+}{\plain 5:  The only bridge in Florence to survive World War II, it was designed by Taddio Gaddi.\par
+}{\plain ANSWER: Ponte _Vecchio_\par
+}{\plain 10:  Its spans are anchored on the Isle del la Cite in Paris and it has 384 sculpted faces on its 
+sides and was wrapped by Christo for ten years.\par
+}{\plain ANSWER:  Le Pont _Neuf_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain 10: This bridge in Tehran was built during the reign of Abbas I and has 33 arches.\par
+}{\plain ANSWER: _Sio-Seh_ Pol or _}{\plain Allahverdikhan_ Pol}{\plain \par
+}{\plain \par
+}{\plain \tab \par
+}{\plain Greek poets, FTSNOP.\par
+}{\plain 10: Born in Syracuse around 270 B.C., his is the first recorded pastoral poetry.  His }{\plain \i Idyls}{\plain  were 
+widely imitated by such followers as Bion and Moschus.\par
+}{\plain ANSWER: _Theocritus_\par
+}{\plain 10: This aristocrat from Lesbos wrote lots of love poetry and drinking songs as well as 
+developing a namesake strophe that was utilized extensively by Horace.\par
+}{\plain ANSWER: _Alcaeus_\par
+}{\plain 5: Alcaeus was purportedly a buddy of this poet from Lesbos who\'92s longest extant piece is an 
+invocation to Aphrodite.  Along with Korinna she is the most well-known of ancient Greek 
+poets.\par
+}{\plain ANSWER: _Sappho_\par
+}{\plain 5:  This Ionian poet\'92s hymns to wine were quite popular.  The \'93Star Spangled Banner\'94 is written 
+to the melody of a hymn dedicated to him.\par
+}{\plain ANSWER: _Anacreon_\par
+}{\plain \par
+}{\plain \par
+}{\plain Shostakovich compositions, 10 points each.\par
+}{\plain A.  In 1979 Solomon Volkov published a book in the West entitled }{\plain \i Testimony}{\plain  which was 
+composed of conversations with Shostakovich.  The composer stated that this symphony actually 
+features ironic themes on the Soviet state and that it was about a Leningrad \'93that Stalin destroyed 
+and Hitler merely finished off.\'94\par
+}{\plain ANSWER: Symphony No. _7_ or Opus _60_   [prompt on \'93Leningrad Symphony\'94]\par
+}{\plain B.  Based on a Yevtushenko poem, this requiem-style symphony is named after a certain ravine 
+outside of Kiev.\par
+}{\plain ANSWER: _Babi Yar_ or Symphony No. _13_ or Opus _113_\par
+}{\plain C.  Stalin condemned this work partially because of its use of jazz and other Western forms.  The 
+ballet tells the story of a Soviet athletic team\'92s trip to the decadent West.\par
+}{\plain ANSWER: The _Age of Gold_ or The _Golden Age_ or}{\plain  Opus _22_ \par
+}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain Answer the following about a cursed family in Greek mythology, 5,10,15.\par
+}{\plain 5: The curse was placed by Thyestes on the house of this man, }{\plain son of Pelops and the father of 
+Agamemnon and Menelaus.  He was killed by Aegisthus.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Atreus_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain 10: This shapeshifting old man helped Menelaus return safely home from Troy and ameliorate 
+the curse }{\plain on the House of Atreus.\par
+}{\plain ANSWER: _Proteus_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain 15: This }{\plain son of Strophius, king of Phocis}{\plain , was a loyal friend to Orestes and married Electra, thus 
+putting an end to the curse.\par
+}{\plain ANSWER: _Pylades_\par
+}{\plain \par
+}{\plain \par
+}{\plain Answer the following about a French philosopher, 10 points each.\par
+}{\plain A.  Near the end of his life he converted to Christianity and was treated well by the Nazi 
+occupation.  However, while dying he went to the police station and asked for a yellow star 
+armband.  Name this winner of the 1927 Nobel Prize for Literature who wrote }{\plain \i Laughter}{\plain , }{\plain \i Time 
+and Memory}{\plain , }{\plain \i Creative Evolution}{\plain , and }{\plain \i The Creative Memory}{\plain .\par
+}{\plain ANSWER: Henri _Bergson_\par
+}{\plain B.  The idea most central to Bergson\'92s philosophy is probably this conception of time in which 
+the specious present or temporal awareness is perceived over a period.  Put differently, this word 
+refers to a succession of states of mind.\par
+}{\plain ANSWER: _Duration_\par
+}{\plain C.  In Bergson\'92s dualistic philosophy, the material world struggles against what life force?\par
+}{\plain ANSWER: _Elan Vital_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \par
+}{\plain \par
+}{\plain Persian capitals! 10 each.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain A.  Ancient capital of Elam, it was revived by the }{\plain Achaemenid empire, it was the winter capital 
+of Darius I and Artaxerxes I}{\plain .\par
+}{\plain ANSWER: _Susa_ or _Shushan_\par
+}{\plain B.  Now a suburb of Baghdad, the ruins of the great audience hall here contain the world\'92s 
+largest single span of brickwork.  Winter residence of the Parthian monarchs, the Sassanids made 
+it their administrative capital.\par
+}{\plain ANSWER: _Ctesiphon_ or _}{\plain al Madain_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain C.  It had a Greek name and was the ceremonial capital of the Achaemenid empire.\par
+}{\plain ANSWER: _Persepolis_\par
+}{\plain \par
+}{\plain \par
+}{\plain African mountain ranges, 10 points each.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain A.  Extending 1,500 miles from Morocco through Algeria to Tunisia, }{\plain Jebel Toubkal is its highest 
+}{\plain peak.  \par
+}{\plain ANSWER: _Atlas_ Mountains\par
+}{\plain B.  Extending 700 miles through South Africa and Lesotho, }{\plain Thabana-Ntlenyana is its highest 
+peak.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Drakensberg_ or _}{\plain Ukhahlamba_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain C.  Its highest peaks are Mounts Margherita and Alexandra, both at nearly 17,000 feet high.  
+Lying on the Uganda-Congo border, these mountains are invariably shrouded in mist and were 
+once believed to be the source of the Nile.\par
+}{\plain ANSWER: _Mountains of the Moon_ or _Ruwenzori_\par
+}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain Contemporary artists, 10 points each.\par
+}{\plain A.  Subject of a massive 40-year retrospective at MoMA in 2002, this German painter is known 
+for his series }{\plain \i Abstract Paintings}{\plain , as well as his landscapes, watercolors and photographs }{\plain \i Betty}{\plain  
+and }{\plain \i Florence}{\plain .\par
+}{\plain ANSWER: Gerhard _Richter_\par
+}{\plain B.  This multi-media artist is super-hot right now and is best known for his limpid video series of 
+sexual differentiation, }{\plain \i The Cremaster Cycle.\par
+}{\plain ANSWER: Matthew _Barney_\par
+}{\plain C.  Swedish-born, he is best known for his \'93hard\'94 and \'93soft\'94 pop sculptures as well as his 
+gigantic forms of every-day objects.\par
+}{\plain ANSWER: Claes _Oldenburg_}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain Things you really should know about the Holocaust, 10 points each.\par
+}{\plain A.  Literally meaning \'93destruction\'94, this is the Hebrew term for the Holocaust.\par
+}{\plain ANSWER: _Shoah_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain B.  Located on }{\plain Har Hazikaron, the Mount of Remembrance in Jerusalem, is t}{\plain his memorial to the 
+Shoah.  It includes the \'93Avenue of the Righteous Among the Nations\'94 with trees and plaques 
+recognizing individual Gentiles who saved Jewish lives.\par
+}{\plain ANSWER: _Yad Vashem_\par
+}{\plain C.  This is the Romany term for the slaughtering of most of the Gypsies in Europe during the 
+Holocaust.  They were given armbands with the letter \'93Z\'94.\par
+}{\plain ANSWER: O _Porraimos_ or The _Devouring_\par
+}{\plain \tab \par
+}{\plain \par
+}{\plain Wesley Matthews rocks!  Or something like that.  Geology terms, 10 points each.\par
+}{\plain A.  This is sediment }{\plain deposited adjacent to modern streams and derived from erosion elsewhere in 
+the watershed or from valley walls.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Alluvium_\par
+}{\plain B.  This is }{\plain a part of the earth's crust that has been stable and little deformed for a prolonged 
+period of time.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Craton_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain C.  This is }{\plain all of the subsurface below the water table, and characterized by having all of the pore 
+spaces filled with ground water.}{\plain \par
+}{\plain ANSWER: _Saturated Zone_\par
+}{\plain \par
+}{\plain \par
+}{\plain Tensile stuff, FTSNOP.\par
+}{\plain 10: This number represents the}{\plain  ratio of stress to strain for a given substance.\par
+}{\plain ANSWER: _Young\'92s Modulus_\par
+}{\plain 5: Young\'92s Modulus is based on this law of elasticity that states that }{\plain strain is proportional to 
+stress.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Hooke\'92s_ Law\par
+}{\plain 15: This type of stress results when transverse forces are applied to an object.\par
+}{\plain ANSWER: _Shearing_ Stress\par
+}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain German poets, 10 points each.\par
+}{\plain A.  This philosopher and geologist wrote an unfinished novel, }{\plain \i Heinrich von Ofterdingen}{\plain , about a 
+minnesinger\'92s search for the blue flower, but is better known for his }{\plain \i Hymns to the Night}{\plain , elegaic 
+poems for his dead fianc\'e9, Sophie von Kuhn.\par
+}{\plain ANSWER: _Novalis_ or Friederich _von Hardenberg_\par
+}{\plain B.  This adherent to Nietszche called for the realization of an aesthetic ubermensch but rejected 
+the Nazi party.  His poetry included }{\plain \i The Soul\'92s Year}{\plain , }{\plain \i The Seventh Ring}{\plain , }{\plain \i The Star of the Covenant}{\plain  
+and }{\plain \i The New Kingdom}{\plain .\par
+}{\plain ANSWER: Stefan _George_\par
+}{\plain C.  Holderin was probably best known for his }{\plain \i Hyperion}{\plain  but many today may know him for a 
+monograph on his \'93Elucidations\'94 written by this philosopher who wrote }{\plain \i Being and Time}{\plain .\par
+}{\plain ANSWER: Martin _Heidegger_\par
+}{\plain \par
+}{\plain \par
+}{\plain Stuff about a 19}{\plain \super th}{\plain  century American scandal, FTSNOP.\par
+}{\plain 5: This nebulous construction company was organized by a bunch of stockholders in Union 
+Pacific Railroad and garnered massive profits for the completion of the last few hundred miles of 
+track.\par
+}{\plain ANSWER: _Credit Mobilier_\par
+}{\plain 10: This U.S. Representative was president of Credit Mobilier.\par
+}{\plain ANSWER: Oakes _Ames_\par
+}{\plain 15: Ames\'92 gifts of stock at par to various congressmen, as well as an incriminating letter, were 
+revealed in Charles Dana\'92s }{\plain \i New York Sun}{\plain  when this associate of Ames blew the whistle to the 
+newspaper.\par
+}{\plain ANSWER: Henry S. _McComb_\par
+}{\plain \par
+}{\plain \par
+}{\plain J.M. Coetzee novels, 10 points each.\par
+}{\plain A.  Really a collection of novelized essays, the titular Australian writer spends two chapters 
+chattering about animal rights.\par
+}{\plain ANSWER: _Elizabeth Costello_\par
+}{\plain B.  A slow-witted gardener meanders through a countryside riven by civil war in this Booker 
+Prize winner.\par
+}{\plain ANSWER: _Life and Times of Michael K._\par
+}{\plain C.  A dying classics professor, Mrs. Curren, writes letters to her daughter in America.\par
+}{\plain ANSWER: _Age of Iron_\par
+}{\plain \par
+}{\plain \par
+}{\plain Answer the following about the 7 Bridges of Konigsberg, 5,10,15.\par
+}{\plain 5: Which Swiss mathematician proved the problem has no solution?\par
+}{\plain ANSWER: Leonhard _Euler_\par
+}{\plain 10: The problem is considered to have led to this field of mathematics, which involves the study 
+of }{\plain properties of shapes that remain the same when the shapes are stretched or compressed.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Topology_\par
+}{\plain 15: Euler proved that if a network has more than this many odd vertices it cannot have an Euler 
+path \'96 i.e. a continuous path that passes through each arc once and only once.\par
+}{\plain ANSWER: _Two_\par
+}{\plain \par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain Stuff about an operatic style, 10 points each.\par
+}{\plain A.  Developed by the Neopolitan school in the 18}{\plain \super th}{\plain  century, it }{\plain emphasized brilliance of vocal 
+technique over romantic expression or dramatic interpretation.\par
+}{\plain ANSWER: _Bel Canto_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain B.  One of the most notable composers for the bel canto style was this composer of }{\plain }{\plain \i Adelson e 
+Salvini}{\plain , }{\plain \i I Puritani}{\plain ,}{\plain \i }{\plain  }{\plain }{\plain \i La Sonnambula}{\plain  and }{\plain \i Norma}{\plain .\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: Vincenzo _Bellini_\par
+}{\plain C.  This American star soprano released a CD in 2003 entitled }{\plain \i Bel Canto}{\plain .\par
+}{\plain ANSWER: Renee _Fleming_}{\plain \par
+}{\plain \par
+}{\plain \par
+}{\plain Post-Roman Britain, 10 points each.\par
+}{\plain A.  This }{\plain British king invited the fox into the henhouse by bringing in a bunch of Germans in 449 
+to fight the Picts and the Scots.\par
+}{\plain ANSWER: _Vortigern_\par
+}{\plain B.   According to Bede, Vortigern\'92s guests, who later turned against him, were led by this man 
+who founded the kingdom of Kent.  His brother, Horsa, was killed in battle with Vortigern.\par
+}{\plain ANSWER: _Hengist_ or _Hengest_\par
+}{\plain C.  Hengist was the leader of this tribe, which came to the island about the same time as the 
+Angles and Saxons.\par
+}{\plain ANSWER: _Jutes_\par
+}{\plain \par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \par
+}{\plain Questions about a trilogy, 10 points each.\par
+}{\plain A.  Name the first novel which contains a long discussion of the narrator\'92s sucking stones.\par
+}{\plain ANSWER: _Malloy_\par
+}{\plain B.  In the second novel the narrator can\'92t seem to actually perform the titular act.  It is succeeded 
+by the third book, }{\plain \i The Unnameable}{\plain .\par
+}{\plain ANSWER: _Malone Dies_\par
+}{\plain ANSWER: Name the author of }{\plain \i Malloy}{\plain , }{\plain \i Malone Dies}{\plain  and }{\plain \i The Unnameable}{\plain .  His successful 
+dramas included }{\plain \i Endgame}{\plain  and }{\plain \i Krapp\'92s Last Tape}{\plain .\par
+}{\plain ANSWER: Samuel _Beckett_\par
+}{\plain \par
+}{\plain \par
+}{\plain Answer the following about cloning, 15 points each.\par
+}{\plain A.  Technically speaking, the first human clones were created in 1993 as a result of in vitro 
+fertilization.  The fertilized eggs were divided, creating separate embryos but with identical 
+DNA.  Name this process.\par
+}{\plain ANSWER _Twinning_\par
+}{\plain B.  In this process, which created \'93Dolly\'94, the DNA of an oocyte is replaced by the DNA of a 
+donor organism.\par
+}{\plain ANSWER: Somatic Cell _Nuclear Transfer_ or the _Roslin_ Technique\par
+}{\plain \par
+}{\plain \par
+}{\plain Stuff about the end of the Roman empire, 10 points each.\par
+}{\plain A.  This Roman general from the Suebi tribe deposed Emperor Avitus and placed a series of 
+puppet emperors on the throne.  After one of them, Majorian, became too powerful, he had him 
+deposed and put to death.\par
+}{\plain ANSWER: _Ricimer_\par
+}{\plain B.  Killed in battle at }{\plain Piacenza, he followed Ricimer in being the power behind the throne.  He 
+deposed Julius Nepos and made his own son emperor.\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain ANSWER: _Orestes_\par
+}{\plain C.  This son of Orestes was the last Roman emperor.\par
+}{\plain ANSWER: _Romulus Augustulus_\par
+}{\plain \tab \par
+}{\plain \par
+}{\plain Emily Dickinson poems, 10 points each.\par
+}{\plain A.  It states, \'93And if to miss were merry\'94 and concludes, \'93How very blithe the fingers that 
+gathered these today.\'94\par
+}{\plain ANSWER: _If recollecting were forgetting_\par
+}\pard \sl0\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain B.  It ends, \'93}{\plain With blue, uncertain, stumbling buzz, {\*\bkmkstart A13}{\*\bkmkend A13}}{\plain Between the light and me; {\*\bkmkstart A14}{\*\bkmkend A14}}{\plain And then the 
+windows failed, and then {\*\bkmkstart A15}}{\plain {\*\bkmkend A15}}{\plain \i }{\plain I could not see to see.\'94}{\plain \par
+}{\plain ANSWER: _I heard a fly buzzed when I died_\par
+}{\plain C.  It refers to the subject as a coachman who \'93kindly stopped for me\'94 and then they drive past a 
+school and pause at a house.\par
+}{\plain ANSWER: _Because I could not stop for Death_\par
+}{\plain \par
+}{\plain Corporate law stuff dear to Raj Duhwalia\'92s heart, 15 points each.\par
+}{\plain A.  This phrase refers to the limited circumstances in which a court may look beyond the fact of 
+incorporation and hold the shareholders of a corporation personally liable for the corporations 
+actions.\par
+}{\plain ANSWER: _Piercing the corporate veil_\par
+}{\plain B.  This is an attempt by a corporation to avert a hostile takeover by increasing the acquisition 
+cost by use of any of a number of means.\par
+}{\plain ANSWER: _Poison Pill_\par
+}}

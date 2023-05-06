@@ -1,73 +1,95 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML>
-
-
-<HEAD>
-    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
-    <base href="https://collegiate.quizbowlpackets.com/">
-    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</HEAD>
-
-<BODY>
-    <script type="text/javascript" src="core.js?3">
-    // Core javascript
-    </script>
-    <!-- MARGIN CONTAINER -->
-    <DIV CLASS="Container">
-        <!-- BORDERED MAIN BODY -->
-        <DIV CLASS="OverallBody">
-            <!-- PAGE HEADER -->
-            <DIV CLASS="MainHeader">
-                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
-                <DIV class="FloatLeft">
-                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
-                    <H2>Free quizbowl packets for practice</H2>
-                </DIV>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-
-            <!-- NAVIGATION BAR -->
-                        <DIV CLASS="Navigation">
-                <UL CLASS="MainNav">
-                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
-                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
-                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
-                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
-                </UL>
-                <UL CLASS="Account">
-                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
-                </UL>
-                <DIV CLASS="FloatDivider"></DIV>
-            </DIV>
-                    <!-- MAIN PAGE CONTENT SECTION -->
-            <DIV class="ContentContainer">
-
-                                    
-                
-                <!-- MAIN COLUMN - Question set details -->
-                <DIV class="MainColumn">
-                    <DIV class="First">
-                        <H2>1997 ACF Regionals</H2>
-
-                        <!-- SET DETAILS -->
-                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 1996-1997</p>                                            </DIV>
-
-                    <P><a href="https://hsquizbowl.org/db/questionsets/299/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
-<h2>Download packets</h2>
-<UL class="FileList">
-<LI><a href="https://collegiate.quizbowlpackets.com/299/BERK2.RTF">BERK2.RTF</a> (43.93 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/CHIA.RTF">CHIA.RTF</a> (49.52 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/CHIC.RTF">CHIC.RTF</a> (47.1 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/COLVIN.RTF">COLVIN.RTF</a> (46.56 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/DARTIA.RTF">DARTIA.RTF</a> (54.59 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/EXTRAS.TXT">EXTRAS.TXT</a> (7.71 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/GT1.RTF">GT1.RTF</a> (41.39 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/GWU.RTF">GWU.RTF</a> (44.44 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/ILLINOIS.RTF">ILLINOIS.RTF</a> (41.18 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/IOWA.RTF">IOWA.RTF</a> (40.72 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/MD1.RTF">MD1.RTF</a> (41.37 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/MEMPHIS.RTF">MEMPHIS.RTF</a> (65.3 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/OSU.RTF">OSU.RTF</a> (38.71 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/ROLLTAMU.RTF">ROLLTAMU.RTF</a> (36.22 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/UNCUCLA.RTF">UNCUCLA.RTF</a> (42.11 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/299/WAKE.RTF">WAKE.RTF</a> (52.86 kB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=1656">Jeffrey Hill</a>.</DIV>                </DIV> <!--END FORM -->
-                        </DIV> <!-- END CONTENT CONTAINER --> 
-        <DIV class="FloatDivider"></DIV>
-        </DIV>
-        <!-- END BORDERED MAIN BODY -->
-
-        <!-- FOOTER -->
-                <DIV CLASS="Footer">
-            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
-            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#0a606f6c6c786f734a6263666665646663646f24646f7e">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#c9a3acafafbbacb089a1a0a5a5a6a7a5a0a7ace7a7acbd">Jeffrey Hill</a></P>
-        </DIV>
-    </DIV>
-    <!-- END MARGIN CONTAINER -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
-</HTML>
+
+Toss-ups for ACF Regionals - March 1997
+
+1.	Living from 1786 to 1826, and the cousin of Mozart's wife Constanze, this composer was trained as a musician from his childhood, the son of a versatile musician who had founded his own traveling theater company. He made a favorable impression as a pianist and then as a music director, notably in the opera-houses of Prague and Dresden. Here he introduced various reforms and was a pioneer of the craft of conducting without the use of violin or keyboard instrument. As a composer he won a lasting reputation with the first important Romantic German opera, Der Freischntz.  FTP name the composer of Eryanthe, Oberon and is perhaps best known for the work originally written for the piano, Invitation to the Dance.
+
+Carl Maria VON WEBER
+
+2.	Sometimes referred to as a modern-day Faust, and seemingly based on the belief that there is some sort of map from sins to outward appearance, this novel tells the story of the title character's desire to stay beautiful and young.  Bazil Hallward paints a portrait of the title character and it seems that the title character's offhand wish that he stay young while his portrait grows older is granted.  The portrait changes when the title character cruelly breaks the heart of Sybil Vane, ages and murders.  For ten points give the tile of this late nineteenth century work by Oscar Wilde.
+
+The PICTURE OF DORIAN GRAY
+
+3.	This country has a population of around two million, has a gross domestic product of around seven billion dollars, and is slightly smaller than Vermont.  It is landlocked in the heart of the Balkans, bordered by Yugoslavia, Bulgaria, Greece and Albania.  FTP name this country, with capital at Skopje.
+
+MACEDONIA
+
+4.	Kidnapped or not kidnapped.  That is the question.  South Korea said that they would send food aid to the North, and North Korea conceded that this man, its high-ranking official who has taken refuge in South Korea's consulate in Beijing, might be a renegade.  FTP, name the North Korean, who though previously claimed, might not have been "kidnapped."
+
+HWANG Jang Yop
+
+5.	This economic phenomena lessens the effect of the multiplier, and the term describes the situation where the government increases spending and both income and the interest rate are increased. FTP name this expansionary fiscal policy that causes the interest rates to rise, which reduces private spending, and has a detrimental effect on investment.
+
+CROWDING OUT
+
+6.	Microsoft used this two word phrase during their release of Internet Explorer 3.0, the Beatles used it when trying to sell lithographs and limited edition merchandise, Rutgers used the two-word phrase to explain the festivities of October 14, and UCLA used the two-word phrase when they recently relived their latest NCAA Tournament championship, FTP give this two word phrase that many basketball programs around the nation give to the event ushering in the first night of basketball practice.
+
+MIDNIGHT MADNESS
+
+7.	Lady Anne, Edward IV, Queen Margaret, Clarence, Lord Stanley, and the Duke of Gloucester, are characters in this play. Al Pacino is looking for the title character.  FTP name the Shakespearean play that ends with the line "That she may long live here, God say amen," and begins with the line "Now is the winter of our discontent."
+
+RICHARD III
+
+Bonuses for ACF Regionals - March 1997
+
+1.	30-20-10  Name the age
+
+30	It is two years before the singer of Dancing Nancies claims that he is tired of life.
+
+20	Lyrics from a Cranberries song titled with this age read, "I don't think it's going/To happen anymore/You took my thoughts from me/Now I want nothing more/And did you think you/Could just take it all away/I don't think it's happening/This is what I say/Leave me alone/Cause I found it all."
+
+10	A.E. Housman explains that when he was this age he "heard a wise man say,/ 'Give crowns and pounds and guineas/But not your heart away; Give pearls away and rubies/But keep your fancy free."
+
+TWENTY-ONE
+
+2.	Given the description of a company, and ignoring http, give the internet address of the company's main homepage, for ten points each.
+
+a.	This company is the father of such internet sites as download.com, shareware.com, and news.com.  The show is hosted by Richard Hart, described as "television's most popular host of programs about technology," and co-hosted by Gina St. John, who is not ticking anyone off.  I should add that Microsoft supports this company.
+
+www.CNET.com
+
+b.	From this company you can get new, digital classical recordings, at a cost of $5.95 for most music, and $7.95 for opera CDs.  The company is built on the premise that the music is more important than the performer.  Idil Biret and Jeno Jando have achieved increased their fame through their recordings made with this company, located in New Jersey.  Remember, give the internet address.
+
+www.HNH.com
+
+c.	This sports channel televises everything from women's basketball to NFL games, and has sports anchors including Dan Patrick, Karl Ravech, Jack Edwards and Chris Berman.
+
+ESPNET.SPORTSZONE.com.
+
+3.	Aeschylus wrote 90 plays, but only seven of them have survived complete.  You will receive five points for each play after one you name, that is zero points for one play, five points for two, ten for three, up to thirty for all seven.
+
+AGAMEMNON, the LIBATION BEARERS (or the CHOEPHORI), the FURIES (or EUMENIDES), SEVEN AGAINST THEBES, PROMETHEUS BOUND, the PERSIANS, and the SUPPLIANTS
+
+4.	Given the names of neighboring countries in South America, give the name of the surrounded country, its capital and the main colors in its flag for five points each.
+
+Bolivia, Brazil, and Argentina
+
+PARAGUAY; ASUNCION; RED WHITE and BLUE
+
+Guyana, French Guiana and Brazil
+
+SURINAME; PARAMARIBO; RED, WHITE, GREEN and yellow
+
+
+Name the T.S. Eliot work, 30-20-10.
+
+30	Its epigram reads "Thou hast committed--Fornication: but that was in another country, And besides, the wench is dead."
+
+20	A line from the poem reads "We have been, let us say, to hear the latest Pole Transmit the Preludes, through his hair and fingertips.  'So intimate, this Chopin, that I think his soul/Should be resurrected only among friends Some two or three, who will not touch the bloom That is rubbed and questioned in the concert room.'"
+
+10	Henry James wrote a work of the same name which many critics regard as James's masterpiece.  The novel presents Isabel Archer, a young American heiress newly arrived in Europe. Spirited and independent, Isabel is determined to make her own decisions in James' penetrating psychological and social insight.
+
+PORTRAIT OF A LADY
+
+7.	Chopin wrote four ballades and four scherzos.  FTP each, tell which is being described.  You may give either the key of the piece, the ballade or scherzo number, or the opus number
+
+This piece is perhaps the most difficult piece that Chopin ever wrote.  It starts with G octaves repeated in the right hand, and rambles with much variance, seems to climax in five peaceful chords and then explodes into a coda, famous for its difficulty.
+
+the F MINOR BALLADE, or the FOURTH BALLADE, or the OP. 52 BALLADE
+
+This piece is a picture of contrast.  Very roughly, it is in an ABA - coda form, where the A is fiery and marked presto con fuoco, and the B is a very gentle lullaby.  The piece ends with a long chromatic scale in octaves and dramatic closing chords.
+
+the B MINOR SCHERZO or the FIRST SCHERZO or the OP. 20 SCERZO
+
+This piece seems to orate a story.  It starts with a C octave, has a brief introduction and then introduces a recurring theme.  The theme returns several times with some variations, and the piece ends with a fiery coda, concluding with octaves in both hands that are first in contrary then parallel motion.
+
+The G MINOR BALLADE or the FIRST BALLADE or the OP. 23 BALLADE
