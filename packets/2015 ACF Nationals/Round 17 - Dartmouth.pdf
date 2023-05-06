@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+
+
+<HEAD>
+    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
+    <base href="https://collegiate.quizbowlpackets.com/">
+    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</HEAD>
+
+<BODY>
+    <script type="text/javascript" src="core.js?3">
+    // Core javascript
+    </script>
+    <!-- MARGIN CONTAINER -->
+    <DIV CLASS="Container">
+        <!-- BORDERED MAIN BODY -->
+        <DIV CLASS="OverallBody">
+            <!-- PAGE HEADER -->
+            <DIV CLASS="MainHeader">
+                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
+                <DIV class="FloatLeft">
+                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
+                    <H2>Free quizbowl packets for practice</H2>
+                </DIV>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+
+            <!-- NAVIGATION BAR -->
+                        <DIV CLASS="Navigation">
+                <UL CLASS="MainNav">
+                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
+                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
+                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
+                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
+                </UL>
+                <UL CLASS="Account">
+                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
+                </UL>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+                    <!-- MAIN PAGE CONTENT SECTION -->
+            <DIV class="ContentContainer">
+
+                                    
+                                <!-- SIDEBAR CONTENT -->
+                <DIV id="AdditionalActionsSidebar" class="SidebarColumn">
+                                        <!-- ACTION BOX -->
+                    <DIV id="ActionBox">
+                        <DIV class="Content">
+                            <UL Class="NoHeader">
+                            <LI><a href="http://hsquizbowl.org/forums/viewtopic.php?f=8&amp;t=16016">View website/forum thread</a></LI>
+                            </UL>
+                        </DIV>
+                    </DIV>
+                    <!-- END ACTION BOX --> 
+                                    </DIV> <!-- END SIDEBAR -->
+                
+                <!-- MAIN COLUMN - Question set details -->
+                <DIV class="MainColumn">
+                    <DIV class="First">
+                        <H2>2015 ACF Nationals</H2>
+
+                        <!-- SET DETAILS -->
+                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 2014-2015</p>                                            </DIV>
+
+                    <P><a href="https://hsquizbowl.org/db/questionsets/760/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
+<h2>Download packets</h2>
+<UL class="FileList">
+<LI><a href="https://collegiate.quizbowlpackets.com/760/Finals 1 - Editors 8.pdf">Finals 1 - Editors 8.pdf</a> (176.46 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Finals 2 - Editors 9.pdf">Finals 2 - Editors 9.pdf</a> (169.55 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 01 - MIT A and Alberta.pdf">Round 01 - MIT A and Alberta.pdf</a> (166.08 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 02 - Minnesota and Washington.pdf">Round 02 - Minnesota and Washington.pdf</a> (167.44 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 03 - Chicago A.pdf">Round 03 - Chicago A.pdf</a> (168.21 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 04 - Virginia and Yale.pdf">Round 04 - Virginia and Yale.pdf</a> (164.41 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 05 - Rice, Illinois, and William & Mary.pdf">Round 05 - Rice, Illinois, and William & Mary.pdf</a> (165.82 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 06 - Toronto and Michigan.pdf">Round 06 - Toronto and Michigan.pdf</a> (169.44 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 07 - Stanford B and Columbia.pdf">Round 07 - Stanford B and Columbia.pdf</a> (167.1 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 08 - Maryland and NYU.pdf">Round 08 - Maryland and NYU.pdf</a> (164.98 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 09 - WUSTL and McGill.pdf">Round 09 - WUSTL and McGill.pdf</a> (174.92 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 10 - Stanford A.pdf">Round 10 - Stanford A.pdf</a> (166.35 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 11 - Harvard and Ottawa.pdf">Round 11 - Harvard and Ottawa.pdf</a> (167.25 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 12 - UCSD A.pdf">Round 12 - UCSD A.pdf</a> (168.85 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 13 - Penn A.pdf">Round 13 - Penn A.pdf</a> (165.27 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 14 - Editors 1.pdf">Round 14 - Editors 1.pdf</a> (166.57 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 15 - Editors 2.pdf">Round 15 - Editors 2.pdf</a> (166.75 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 16 - Editors 3.pdf">Round 16 - Editors 3.pdf</a> (167.08 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 17 - Dartmouth.pdf">Round 17 - Dartmouth.pdf</a> (173.69 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 18 - Editors 4.pdf">Round 18 - Editors 4.pdf</a> (168.43 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 19 - Editors 5.pdf">Round 19 - Editors 5.pdf</a> (165.2 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 20 - Penn B, Penn C, and Kenyon.pdf">Round 20 - Penn B, Penn C, and Kenyon.pdf</a> (170.06 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 21 - VCU and Berkeley.pdf">Round 21 - VCU and Berkeley.pdf</a> (167.06 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 22 - Editors 6.pdf">Round 22 - Editors 6.pdf</a> (168.16 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/Round 23 - Editors 7.pdf">Round 23 - Editors 7.pdf</a> (167.32 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/760/acf_nats_2015.zip">acf_nats_2015.zip</a> (4.09 MB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=1337">Rob Carson</a>.</DIV>                </DIV> <!--END FORM -->
+                        </DIV> <!-- END CONTENT CONTAINER --> 
+        <DIV class="FloatDivider"></DIV>
+        </DIV>
+        <!-- END BORDERED MAIN BODY -->
+
+        <!-- FOOTER -->
+                <DIV CLASS="Footer">
+            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
+            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#bfd5dad9d9cddac6ffd7d6d3d3d0d1d3d6d1da91d1dacb">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#c9a3acafafbbacb089a1a0a5a5a6a7a5a0a7ace7a7acbd">Jeffrey Hill</a></P>
+        </DIV>
+    </DIV>
+    <!-- END MARGIN CONTAINER -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
+</HTML>

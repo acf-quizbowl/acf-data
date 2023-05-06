@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+
+
+<HEAD>
+    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
+    <base href="https://collegiate.quizbowlpackets.com/">
+    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</HEAD>
+
+<BODY>
+    <script type="text/javascript" src="core.js?3">
+    // Core javascript
+    </script>
+    <!-- MARGIN CONTAINER -->
+    <DIV CLASS="Container">
+        <!-- BORDERED MAIN BODY -->
+        <DIV CLASS="OverallBody">
+            <!-- PAGE HEADER -->
+            <DIV CLASS="MainHeader">
+                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
+                <DIV class="FloatLeft">
+                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
+                    <H2>Free quizbowl packets for practice</H2>
+                </DIV>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+
+            <!-- NAVIGATION BAR -->
+                        <DIV CLASS="Navigation">
+                <UL CLASS="MainNav">
+                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
+                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
+                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
+                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
+                </UL>
+                <UL CLASS="Account">
+                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
+                </UL>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+                    <!-- MAIN PAGE CONTENT SECTION -->
+            <DIV class="ContentContainer">
+
+                                    
+                                <!-- SIDEBAR CONTENT -->
+                <DIV id="AdditionalActionsSidebar" class="SidebarColumn">
+                                        <!-- ACTION BOX -->
+                    <DIV id="ActionBox">
+                        <DIV class="Content">
+                            <UL Class="NoHeader">
+                            <LI><a href="http://www.hsquizbowl.org/forums/viewtopic.php?t=1973">View website/forum thread</a></LI>
+                            </UL>
+                        </DIV>
+                    </DIV>
+                    <!-- END ACTION BOX --> 
+                                    </DIV> <!-- END SIDEBAR -->
+                
+                <!-- MAIN COLUMN - Question set details -->
+                <DIV class="MainColumn">
+                    <DIV class="First">
+                        <H2>2006 ACF Regionals</H2>
+
+                        <!-- SET DETAILS -->
+                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 2005-2006</p>                                            </DIV>
+
+                    <P><a href="https://hsquizbowl.org/db/questionsets/308/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
+<h2>Download packets</h2>
+<UL class="FileList">
+<LI><a href="https://collegiate.quizbowlpackets.com/308/ACF Editors 1.doc">ACF Editors 1.doc</a> (72 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/ACF Editors 2.doc">ACF Editors 2.doc</a> (66 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/ACF Editors 3.doc">ACF Editors 3.doc</a> (63 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Boston University - Carnegie Mellon.doc">Boston University - Carnegie Mellon.doc</a> (67 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Boston University Original.doc">Boston University Original.doc</a> (74 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Brown Original.doc">Brown Original.doc</a> (42.42 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Brown.doc">Brown.doc</a> (64 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Carnegie Mellon Original.doc">Carnegie Mellon Original.doc</a> (56 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Chicago A Original.doc">Chicago A Original.doc</a> (66 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Chicago A.doc">Chicago A.doc</a> (67 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Chicago B - Harvard B.doc">Chicago B - Harvard B.doc</a> (63.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Chicago B Original.doc">Chicago B Original.doc</a> (58 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Florida State - Harvard A - Yale.doc">Florida State - Harvard A - Yale.doc</a> (67.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Florida State Original.doc">Florida State Original.doc</a> (32 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/George Washington Original.doc">George Washington Original.doc</a> (61 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/George Washington.doc">George Washington.doc</a> (64 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Harvard A Original.doc">Harvard A Original.doc</a> (95.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Harvard B Original.doc">Harvard B Original.doc</a> (128 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Illinois - Rutgers-Newark.doc">Illinois - Rutgers-Newark.doc</a> (67.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Illinois Original.doc">Illinois Original.doc</a> (100.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Kentucky - UCLA.doc">Kentucky - UCLA.doc</a> (71 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Kentucky Original.doc">Kentucky Original.doc</a> (99.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Maryland A - Oklahoma - Vanderbilt - Williams.doc">Maryland A - Oklahoma - Vanderbilt - Williams.doc</a> (73 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Maryland A Original.doc">Maryland A Original.doc</a> (103.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Maryland B Original.doc">Maryland B Original.doc</a> (80.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Michigan A Original.doc">Michigan A Original.doc</a> (104 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Michigan A.doc">Michigan A.doc</a> (66 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Oklahoma Original.doc">Oklahoma Original.doc</a> (117 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Princeton A - Texas A&M.doc">Princeton A - Texas A&M.doc</a> (62.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Princeton A Original.doc">Princeton A Original.doc</a> (91 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Rutgers-Newark Original.doc">Rutgers-Newark Original.doc</a> (64.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Texas A&M Original.doc">Texas A&M Original.doc</a> (87 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Texas Original.doc">Texas Original.doc</a> (84 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Texas.doc">Texas.doc</a> (65.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/UCLA Original.rtf">UCLA Original.rtf</a> (70.35 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Vanderbilt Original.doc">Vanderbilt Original.doc</a> (95 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Virginia Commonwealth Original.doc">Virginia Commonwealth Original.doc</a> (69.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Virginia Commonwealth.doc">Virginia Commonwealth.doc</a> (86 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Williams Original.doc">Williams Original.doc</a> (101 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/308/Yale Original.doc">Yale Original.doc</a> (95 kB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=1656">Jeffrey Hill</a>.</DIV>                </DIV> <!--END FORM -->
+                        </DIV> <!-- END CONTENT CONTAINER --> 
+        <DIV class="FloatDivider"></DIV>
+        </DIV>
+        <!-- END BORDERED MAIN BODY -->
+
+        <!-- FOOTER -->
+                <DIV CLASS="Footer">
+            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
+            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#523837343420372b123a3b3e3e3d3c3e3b3c377c3c3726">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#a4cec1c2c2d6c1dde4cccdc8c8cbcac8cdcac18acac1d0">Jeffrey Hill</a></P>
+        </DIV>
+    </DIV>
+    <!-- END MARGIN CONTAINER -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
+</HTML>

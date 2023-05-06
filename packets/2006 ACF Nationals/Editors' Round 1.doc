@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+
+
+<HEAD>
+    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
+    <base href="https://collegiate.quizbowlpackets.com/">
+    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</HEAD>
+
+<BODY>
+    <script type="text/javascript" src="core.js?3">
+    // Core javascript
+    </script>
+    <!-- MARGIN CONTAINER -->
+    <DIV CLASS="Container">
+        <!-- BORDERED MAIN BODY -->
+        <DIV CLASS="OverallBody">
+            <!-- PAGE HEADER -->
+            <DIV CLASS="MainHeader">
+                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
+                <DIV class="FloatLeft">
+                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
+                    <H2>Free quizbowl packets for practice</H2>
+                </DIV>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+
+            <!-- NAVIGATION BAR -->
+                        <DIV CLASS="Navigation">
+                <UL CLASS="MainNav">
+                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
+                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
+                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
+                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
+                </UL>
+                <UL CLASS="Account">
+                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
+                </UL>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+                    <!-- MAIN PAGE CONTENT SECTION -->
+            <DIV class="ContentContainer">
+
+                                    
+                                <!-- SIDEBAR CONTENT -->
+                <DIV id="AdditionalActionsSidebar" class="SidebarColumn">
+                                        <!-- ACTION BOX -->
+                    <DIV id="ActionBox">
+                        <DIV class="Content">
+                            <UL Class="NoHeader">
+                            <LI><a href="http://www.hsquizbowl.org/forums/viewtopic.php?t=2372">View website/forum thread</a></LI>
+                            </UL>
+                        </DIV>
+                    </DIV>
+                    <!-- END ACTION BOX --> 
+                                    </DIV> <!-- END SIDEBAR -->
+                
+                <!-- MAIN COLUMN - Question set details -->
+                <DIV class="MainColumn">
+                    <DIV class="First">
+                        <H2>2006 ACF Nationals</H2>
+
+                        <!-- SET DETAILS -->
+                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 2005-2006</p>                                            </DIV>
+
+                    <P><a href="https://hsquizbowl.org/db/questionsets/295/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
+<h2>Download packets</h2>
+<UL class="FileList">
+<LI><a href="https://collegiate.quizbowlpackets.com/295/Brown.doc">Brown.doc</a> (59 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/CMU_UCLA.doc">CMU_UCLA.doc</a> (64.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Chicago A.doc">Chicago A.doc</a> (60.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Editors' Round 1.doc">Editors' Round 1.doc</a> (57 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Editors' Round 2.doc">Editors' Round 2.doc</a> (62 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Editors' Round 3.doc">Editors' Round 3.doc</a> (59.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Editors' Round 4.doc">Editors' Round 4.doc</a> (61 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Editors' Round 5.doc">Editors' Round 5.doc</a> (62 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Illinois.doc">Illinois.doc</a> (59.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Maryland_Williams.doc">Maryland_Williams.doc</a> (59.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Michigan.doc">Michigan.doc</a> (59 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Princeton.doc">Princeton.doc</a> (62 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Rutgers.doc">Rutgers.doc</a> (57.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Texas A&M.doc">Texas A&M.doc</a> (58.5 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/Torch in My Moon Pie.doc">Torch in My Moon Pie.doc</a> (63 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/295/VCU.doc">VCU.doc</a> (63 kB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=1656">Jeffrey Hill</a>.</DIV>                </DIV> <!--END FORM -->
+                        </DIV> <!-- END CONTENT CONTAINER --> 
+        <DIV class="FloatDivider"></DIV>
+        </DIV>
+        <!-- END BORDERED MAIN BODY -->
+
+        <!-- FOOTER -->
+                <DIV CLASS="Footer">
+            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
+            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#e18b848787938498a189888d8d8e8f8d888f84cf8f8495">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#9bf1fefdfde9fee2dbf3f2f7f7f4f5f7f2f5feb5f5feef">Jeffrey Hill</a></P>
+        </DIV>
+    </DIV>
+    <!-- END MARGIN CONTAINER -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
+</HTML>

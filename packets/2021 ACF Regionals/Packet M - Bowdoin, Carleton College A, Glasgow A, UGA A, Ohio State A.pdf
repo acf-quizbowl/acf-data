@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+
+
+<HEAD>
+    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
+    <base href="https://collegiate.quizbowlpackets.com/">
+    <LINK REL="stylesheet" href="https://hsquizbowl.org/db/style.css?9">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</HEAD>
+
+<BODY>
+    <script type="text/javascript" src="core.js?3">
+    // Core javascript
+    </script>
+    <!-- MARGIN CONTAINER -->
+    <DIV CLASS="Container">
+        <!-- BORDERED MAIN BODY -->
+        <DIV CLASS="OverallBody">
+            <!-- PAGE HEADER -->
+            <DIV CLASS="MainHeader">
+                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="https://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
+                <DIV class="FloatLeft">
+                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
+                    <H2>Free quizbowl packets for practice</H2>
+                </DIV>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+
+            <!-- NAVIGATION BAR -->
+                        <DIV CLASS="Navigation">
+                <UL CLASS="MainNav">
+                    <LI><a href="https://ms.quizbowlpackets.com/">Middle School</a></LI>
+                    <LI><a href="https://quizbowlpackets.com/">High School</a></LI>
+                    <LI><a href="https://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
+                    <LI><a href="https://trash.quizbowlpackets.com/">Trash</a></LI>
+                </UL>
+                <UL CLASS="Account">
+                    <LI><a href="https://hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
+                </UL>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+                    <!-- MAIN PAGE CONTENT SECTION -->
+            <DIV class="ContentContainer">
+
+                                    
+                                <!-- SIDEBAR CONTENT -->
+                <DIV id="AdditionalActionsSidebar" class="SidebarColumn">
+                                        <!-- ACTION BOX -->
+                    <DIV id="ActionBox">
+                        <DIV class="Content">
+                            <UL Class="NoHeader">
+                            <LI><a href="https://hsquizbowl.org/forums/viewtopic.php?f=9&amp;t=24846">View website/forum thread</a></LI>
+                            </UL>
+                        </DIV>
+                    </DIV>
+                    <!-- END ACTION BOX --> 
+                                    </DIV> <!-- END SIDEBAR -->
+                
+                <!-- MAIN COLUMN - Question set details -->
+                <DIV class="MainColumn">
+                    <DIV class="First">
+                        <H2>2021 ACF Regionals</H2>
+
+                        <!-- SET DETAILS -->
+                        <p><SPAN class="FieldName">Target level:</SPAN> College</p>                        <p><SPAN class="FieldName">Season primarily used:</SPAN> 2020-2021</p>                                            </DIV>
+
+                    <P><a href="https://hsquizbowl.org/db/questionsets/2592/">See more details about this set on the Quizbowl Resource Center Database</a></P><DIV class="Subsequent">
+<h2>Download packets</h2>
+<UL class="FileList">
+<LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet A - Berkeley A, Waterloo B, CWRU A, Rutgers B, WUSTL C.pdf">Packet A - Berkeley A, Waterloo B, CWRU A, Rutgers B, WUSTL C.pdf</a> (207.94 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet B - UC Davis, UBC B, Purdue A, MSU A, GWU A.pdf">Packet B - UC Davis, UBC B, Purdue A, MSU A, GWU A.pdf</a> (216.68 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet C - MIT A, NC State, Waterloo A, Oklahoma A.pdf">Packet C - MIT A, NC State, Waterloo A, Oklahoma A.pdf</a> (197.91 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet D - Oxford A, MIT B, Rutgers C, Chicago B, Penn A, Colorado A.pdf">Packet D - Oxford A, MIT B, Rutgers C, Chicago B, Penn A, Colorado A.pdf</a> (204.14 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet E - Claremont A, JHU A, Liberty A, Toronto B, Northwestern B, Vanderbilt B, Illinois A.pdf">Packet E - Claremont A, JHU A, Liberty A, Toronto B, Northwestern B, Vanderbilt B, Illinois A.pdf</a> (209.73 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet F - Princeton A, WUSTL A, UNC B, McMaster, Chicago A.pdf">Packet F - Princeton A, WUSTL A, UNC B, McMaster, Chicago A.pdf</a> (197.7 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet G - Caltech, Columbia A, DePaul A, Edinburgh A, Southampton A.pdf">Packet G - Caltech, Columbia A, DePaul A, Edinburgh A, Southampton A.pdf</a> (211.39 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet H - Vanderbilt A, Harvard B, Toronto A, Illinois B, Minnesota A.pdf">Packet H - Vanderbilt A, Harvard B, Toronto A, Illinois B, Minnesota A.pdf</a> (209.57 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet I - Oxford B, UNC A, WUSTL D, Kentucky A, Stanford A, Minnesota B.pdf">Packet I - Oxford B, UNC A, WUSTL D, Kentucky A, Stanford A, Minnesota B.pdf</a> (209.51 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet J - Duke B, NYU B, WUSTL B, Columbia B, Indiana, Maryland A.pdf">Packet J - Duke B, NYU B, WUSTL B, Columbia B, Indiana, Maryland A.pdf</a> (204.06 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet K - Brown A, Cambridge A, UBC A, UVA A, Toronto J.pdf">Packet K - Brown A, Cambridge A, UBC A, UVA A, Toronto J.pdf</a> (208.3 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet L - Duke A, Harvard A, Warwick A, Texas A.pdf">Packet L - Duke A, Harvard A, Warwick A, Texas A.pdf</a> (192.29 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet M - Bowdoin, Carleton College A, Glasgow A, UGA A, Ohio State A.pdf">Packet M - Bowdoin, Carleton College A, Glasgow A, UGA A, Ohio State A.pdf</a> (208.42 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet N - Northwestern A, NYU A, McGill A, Rutgers A, VCU A, Cambridge B.pdf">Packet N - Northwestern A, NYU A, McGill A, Rutgers A, VCU A, Cambridge B.pdf</a> (209.95 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet O - Finals 1.pdf">Packet O - Finals 1.pdf</a> (210.18 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet P - Finals 2.pdf">Packet P - Finals 2.pdf</a> (217.53 kB)</LI><LI><a href="https://collegiate.quizbowlpackets.com/2592/Packet T - Tiebreakers.pdf">Packet T - Tiebreakers.pdf</a> (188.32 kB)</LI></UL></DIV><DIV class="PermissionsInformation">This entry is owned by <a href="https://hsquizbowl.org/forums/memberlist.php?mode=viewprofile&amp;u=10922">jaimiec</a>.</DIV>                </DIV> <!--END FORM -->
+                        </DIV> <!-- END CONTENT CONTAINER --> 
+        <DIV class="FloatDivider"></DIV>
+        </DIV>
+        <!-- END BORDERED MAIN BODY -->
+
+        <!-- FOOTER -->
+                <DIV CLASS="Footer">
+            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2020 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
+            <P class="Contact">Database application maintained by <a href="/cdn-cgi/l/email-protection#e58f80838397809ca58d8c89898a8b898c8b80cb8b8091">Jeffrey Hill</a><BR>Packet uploads managed by <a href="/cdn-cgi/l/email-protection#96fcf3f0f0e4f3efd6fefffafaf9f8fafff8f3b8f8f3e2">Jeffrey Hill</a></P>
+        </DIV>
+    </DIV>
+    <!-- END MARGIN CONTAINER -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></BODY>
+</HTML>
